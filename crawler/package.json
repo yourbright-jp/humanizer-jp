@@ -1,0 +1,22 @@
+{
+  "name": "jp-ai-tells-crawler",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Cloudflare Worker that crawls clean Japanese corpus into D1 via Browser Run.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "schema:apply:local": "wrangler d1 execute jp-ai-tells --local --file=../schemas/d1_schema.sql",
+    "schema:apply:remote": "wrangler d1 execute jp-ai-tells --remote --file=../schemas/d1_schema.sql",
+    "crawl:wikipedia": "wrangler dev --test-scheduled  # then POST /crawl/wikipedia",
+    "export:d1": "wrangler d1 export jp-ai-tells --remote --output=../data/d1_export/corpus.sql"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260101.0",
+    "typescript": "^5.4.0",
+    "wrangler": "^3.80.0"
+  },
+  "dependencies": {
+    "@cloudflare/puppeteer": "^0.0.14"
+  }
+}
