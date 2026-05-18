@@ -1,0 +1,32 @@
+[project]
+name = "jp-ai-tells-corpus"
+version = "0.2.0"
+description = "Evidence-based extraction of Japanese AI-writing tells. v2: Cloudflare D1 + Browser Run + Claude Code /loop."
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+
+# v2 の Python 側は分析のみ (生成と収集は Cloudflare Worker / Claude Code /loop が担う)
+# のでスリム。SDK 系の anthropic / openai / google-generativeai は不要。
+dependencies = [
+    "tqdm>=4.66",
+    "python-dotenv>=1.0",
+    "sudachipy>=0.6.10",
+    "sudachidict-core>=20250515",
+    "scipy>=1.13",
+    "numpy>=1.26",
+    "pandas>=2.2",
+    # Phase 4 (paraphrase clustering)
+    "hdbscan>=0.8.40",
+    "scikit-learn>=1.5",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.5",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"

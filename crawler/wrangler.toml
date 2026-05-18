@@ -1,0 +1,39 @@
+name = "jp-ai-tells-crawler"
+main = "src/index.ts"
+compatibility_date = "2026-04-01"
+compatibility_flags = ["nodejs_compat"]
+
+# D1 binding: 同名 (jp-ai-tells) の D1 database を事前に作っておくこと:
+#   wrangler d1 create jp-ai-tells
+# 出てくる database_id をここに貼る:
+[[d1_databases]]
+binding = "DB"
+database_name = "jp-ai-tells"
+database_id = "REPLACE-WITH-D1-DATABASE-ID"
+
+# Browser Run binding (旧名: Browser Rendering)
+# 利用には Paid plan か Free tier の使用量内
+[browser]
+binding = "BROWSER"
+
+# Workers AI binding (Phase 4: BGE-M3 で文単位埋め込み)
+[ai]
+binding = "AI"
+
+# R2 binding (Wikipedia 2021-12 dump を置く場所)
+# 事前に: wrangler r2 bucket create jp-ai-tells-dumps
+[[r2_buckets]]
+binding = "DUMPS"
+bucket_name = "jp-ai-tells-dumps"
+
+# cron triggers (定期巡回)
+# 当面は手動 trigger なので無効化。本番は uncomment:
+# [triggers]
+# crons = ["0 */6 * * *"]
+
+# ローカル開発時の D1 のシード:
+#   wrangler d1 execute jp-ai-tells --file=../schemas/d1_schema.sql --local
+[vars]
+USER_AGENT = "jp-ai-tells-corpus/0.2 (research; +https://github.com/REPO)"
+DATE_MIN = "2018-01-01"
+DATE_MAX = "2022-06-30"

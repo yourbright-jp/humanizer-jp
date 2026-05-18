@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Secrets
+.env
+.env.local
+*.key
+
+# Large dumps (Wikipedia 2021 raw bz2 is ~3 GB — keep parsed JSONL only)
+data/_raw/
+*.xml.bz2
+*.xml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code per-session state
+.claude/worktrees/
+.claude/settings.local.json
+.claude/.cache/
+
+# Data preview — keep small parquet, ignore parsed dumps too large for git
+data/corpus_clean/wikipedia/_dump_extract/
+
+# v2: D1 export and Wikipedia raw dumps
+data/d1_export/
+*.sqlite
+*.sqlite-journal
+
+# Worker build artifacts
+crawler/node_modules/
+crawler/.wrangler/
+crawler/dist/
