@@ -21,6 +21,7 @@ corpus バケット定義:
 from __future__ import annotations
 
 import os
+import re
 import sqlite3
 from pathlib import Path
 from typing import Iterable, Iterator
@@ -90,6 +91,30 @@ def iter_doc(bucket: str) -> Iterator[dict]:
 _tokenizer = None
 
 
+# SudachiPy は 1 回の tokenize 入力が 49149 byte を超えるとエラーになる。
+# 長文 (主に Wikipedia) は文境界で安全なチャンクに分割してから tokenize する。
+_SUDACHI_MAX_CHARS = 12000  # UTF-8 で最悪 4byte/char でも 48KB 未満に収まる
+_CHUNK_SPLIT = re.compile(r"(?<=[。．!?！？\n])")
+
+
+def _chunks(text: str, max_chars: int = _SUDACHI_MAX_CHARS) -> Iterator[str]:
+    buf = ""
+    for piece in _CHUNK_SPLIT.split(text):
+        if not piece:
+            continue
+        if len(buf) + len(piece) > max_chars:
+            if buf:
+                yield buf
+                buf = ""
+            # 単一 piece が上限を超える (句読点のない長文) 場合は文字数で強制分割
+            while len(piece) > max_chars:
+                yield piece[:max_chars]
+                piece = piece[max_chars:]
+        buf += piece
+    if buf:
+        yield buf
+
+
 def tokenize(text: str) -> list[str]:
     global _tokenizer
     if _tokenizer is None:
@@ -97,7 +122,10 @@ def tokenize(text: str) -> list[str]:
 
         _tokenizer = (dictionary.Dictionary().create(), tokenizer.Tokenizer.SplitMode.C)
     tok, mode = _tokenizer
-    return [m.surface() for m in tok.tokenize(text, mode)]
+    out: list[str] = []
+    for chunk in _chunks(text):
+        out.extend(m.surface() for m in tok.tokenize(chunk, mode))
+    return out
 
 
 def ngrams(tokens: Iterable[str], n: int) -> Iterator[tuple[str, ...]]:

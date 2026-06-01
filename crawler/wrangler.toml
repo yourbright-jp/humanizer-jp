@@ -8,8 +8,8 @@ compatibility_flags = ["nodejs_compat"]
 # 出てくる database_id をここに貼る:
 [[d1_databases]]
 binding = "DB"
-database_name = "jp-ai-tells"
-database_id = "REPLACE-WITH-D1-DATABASE-ID"
+database_name = "humanizer-jp"
+database_id = "6dac6a8f-5b76-4fbd-82da-d6e559c5270c"
 
 # Browser Run binding (旧名: Browser Rendering)
 # 利用には Paid plan か Free tier の使用量内
@@ -24,7 +24,7 @@ binding = "AI"
 # 事前に: wrangler r2 bucket create jp-ai-tells-dumps
 [[r2_buckets]]
 binding = "DUMPS"
-bucket_name = "jp-ai-tells-dumps"
+bucket_name = "humanizer-jp-dumps"
 
 # cron triggers (定期巡回)
 # 当面は手動 trigger なので無効化。本番は uncomment:

@@ -44,3 +44,4 @@ data/d1_export/
 crawler/node_modules/
 crawler/.wrangler/
 crawler/dist/
+.wrangler/

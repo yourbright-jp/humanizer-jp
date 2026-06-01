@@ -1,0 +1,130 @@
+[
+  {
+    "cluster_id": 14,
+    "size": 32,
+    "ai_count": 31,
+    "clean_count": 1,
+    "ai_ratio": 0.9688,
+    "ai_per_1k_ai_sentences": 0.692,
+    "clean_per_1k_clean_sentences": 0.019,
+    "lift": 37.04,
+    "representative_sentences": [
+      "## ハマりどころと改善 Tips\n\n実用に向けて、いくつか引っかかったポイントと対処法を共有しておきます",
+      "## ハマりやすいポイント\n\nいくつか実際に運用していて気づいた注意点を書いておきます",
+      "## ハマったところと対処\n\n導入時にいくつか引っかかった点があるので、共有しておきます"
+    ],
+    "rank": 1
+  },
+  {
+    "cluster_id": 21,
+    "size": 27,
+    "ai_count": 25,
+    "clean_count": 2,
+    "ai_ratio": 0.9259,
+    "ai_per_1k_ai_sentences": 0.558,
+    "clean_per_1k_clean_sentences": 0.037,
+    "lift": 14.94,
+    "representative_sentences": [
+      "- **J 金融業，保険業** — 銀行、貸金、金融商品取引、保険などの活動",
+      "- **K 不動産業，物品賃貸業** — 不動産の取引・賃貸・管理や、各種物品のレンタル・リース",
+      "- **A 農業，林業** — 耕種農業、畜産業、育林、素材生産などの活動"
+    ],
+    "rank": 2
+  },
+  {
+    "cluster_id": 40,
+    "size": 22,
+    "ai_count": 21,
+    "clean_count": 1,
+    "ai_ratio": 0.9545,
+    "ai_per_1k_ai_sentences": 0.469,
+    "clean_per_1k_clean_sentences": 0.019,
+    "lift": 25.09,
+    "representative_sentences": [
+      "畑田重夫（はただ しげお）という名前を知っている人は、いまではそれほど多くないかもしれません",
+      "大中寅二という名前を聞いて、すぐにその顔や作品を思い浮かべられる人は、おそらくそれほど多くない",
+      "浅野三平という名前を聞いて、すぐにその業績を思い浮かべられる人は、決して多くないかもしれません"
+    ],
+    "rank": 3
+  },
+  {
+    "cluster_id": 35,
+    "size": 20,
+    "ai_count": 20,
+    "clean_count": 0,
+    "ai_ratio": 1.0,
+    "ai_per_1k_ai_sentences": 0.446,
+    "clean_per_1k_clean_sentences": 0.0,
+    "lift": null,
+    "representative_sentences": [
+      "放送と演劇という異なる表現の場を行き来することで、彼女は幅広い表現力を磨いてきたといえます",
+      "俳優としても活動し、表現の場を広げていきました",
+      "報道と演劇という異なる領域をまたいで活躍してきた点に、彼女のキャリアの特徴があります"
+    ],
+    "rank": 4
+  },
+  {
+    "cluster_id": 15,
+    "size": 13,
+    "ai_count": 13,
+    "clean_count": 0,
+    "ai_ratio": 1.0,
+    "ai_per_1k_ai_sentences": 0.29,
+    "clean_per_1k_clean_sentences": 0.0,
+    "lift": null,
+    "representative_sentences": [
+      "### 複数行を取得\n\n```python\ndf.iloc[[0, 2, 4]]\n```\n\n出力:\n\n```\n   name department  age   salary\nid                                \n1   佐藤        営業   28  3200000\n3   高橋        営業   41  5200000\n5   伊藤        開発   45  6100000\n```\n\n### 行と列を同時に指定\n\n列も位置で指定します",
+      "```python\ndf.iloc[1:4, 0:3]\n```\n\n出力:\n\n```\n   name department  age\nid                      \n2   鈴木        開発   34\n3   高橋        営業   41\n4   田中        人事   29\n```\n\n`1:4` は index 1, 2, 3（つまり2〜4行目）、`0:3` は列の 0, 1, 2 列目を取得しています",
+      "```python\ndf.loc[df['department'] == '営業']\n```\n\n出力:\n\n```\n   name department  age   salary\nid                                \n1   佐藤        営業   28  3200000\n3   高橋        営業   41  5200000\n6   渡辺        営業   32  3800000\n```\n\n条件と列指定を組み合わせることもできます"
+    ],
+    "rank": 5
+  },
+  {
+    "cluster_id": 34,
+    "size": 11,
+    "ai_count": 11,
+    "clean_count": 0,
+    "ai_ratio": 1.0,
+    "ai_per_1k_ai_sentences": 0.246,
+    "clean_per_1k_clean_sentences": 0.0,
+    "lift": null,
+    "representative_sentences": [
+      "また、作詞家としての視点を持っていることで、自作曲においては言葉とメロディの一体感が高い水準で実現されている",
+      "また、テンポやリズム感も安定しており、即興的な部分にもかかわらず構成的な完成度が高いと評価されている",
+      "クラシックで培った和声感覚と、ロックの持つビート感やダイナミズムを融合させた楽曲づくりは、彼の大きな特徴である"
+    ],
+    "rank": 6
+  },
+  {
+    "cluster_id": 55,
+    "size": 10,
+    "ai_count": 10,
+    "clean_count": 0,
+    "ai_ratio": 1.0,
+    "ai_per_1k_ai_sentences": 0.223,
+    "clean_per_1k_clean_sentences": 0.0,
+    "lift": null,
+    "representative_sentences": [
+      "## 全体の構成\n\n今回構築する構成は以下のようになります",
+      "## 構成の概要\n\n今回の構成は以下のようになります",
+      "## 全体の構成\n\n今回構築するフローの全体像は次のとおりです"
+    ],
+    "rank": 7
+  },
+  {
+    "cluster_id": 38,
+    "size": 11,
+    "ai_count": 9,
+    "clean_count": 2,
+    "ai_ratio": 0.8182,
+    "ai_per_1k_ai_sentences": 0.201,
+    "clean_per_1k_clean_sentences": 0.037,
+    "lift": 5.38,
+    "representative_sentences": [
+      "ただ、何かに置いていかれているという感覚だけが、確かにあった",
+      "「特別な私」というぬるま湯から、無理やり引きずり出された気がした",
+      "そんな僕を待ち受けていたのは自由からの開放感ではなく、圧倒的な無力感だった"
+    ],
+    "rank": 8
+  }
+]

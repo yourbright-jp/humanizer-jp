@@ -1,0 +1,1522 @@
+[
+  {
+    "tail": "おきます",
+    "ai_count": 273,
+    "clean_count": 75,
+    "ai_per_1k_sentences": 5.3122,
+    "clean_per_1k_sentences": 1.197,
+    "G2": 162.35,
+    "ratio": 4.44,
+    "rank": 1
+  },
+  {
+    "tail": "おきたい",
+    "ai_count": 99,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 1.9264,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 147.83,
+    "ratio": 120.7,
+    "rank": 2
+  },
+  {
+    "tail": "ではない",
+    "ai_count": 277,
+    "clean_count": 95,
+    "ai_per_1k_sentences": 5.39,
+    "clean_per_1k_sentences": 1.5162,
+    "G2": 132.71,
+    "ratio": 3.55,
+    "rank": 3
+  },
+  {
+    "tail": "てほしい",
+    "ai_count": 116,
+    "clean_count": 16,
+    "ai_per_1k_sentences": 2.2572,
+    "clean_per_1k_sentences": 0.2554,
+    "G2": 106.6,
+    "ratio": 8.84,
+    "rank": 4
+  },
+  {
+    "tail": "はずです",
+    "ai_count": 149,
+    "clean_count": 33,
+    "ai_per_1k_sentences": 2.8993,
+    "clean_per_1k_sentences": 0.5267,
+    "G2": 104.77,
+    "ratio": 5.5,
+    "rank": 5
+  },
+  {
+    "tail": "のだろう",
+    "ai_count": 109,
+    "clean_count": 16,
+    "ai_per_1k_sentences": 2.121,
+    "clean_per_1k_sentences": 0.2554,
+    "G2": 97.3,
+    "ratio": 8.31,
+    "rank": 6
+  },
+  {
+    "tail": "てきます",
+    "ai_count": 176,
+    "clean_count": 54,
+    "ai_per_1k_sentences": 3.4247,
+    "clean_per_1k_sentences": 0.8618,
+    "G2": 94.59,
+    "ratio": 3.97,
+    "rank": 7
+  },
+  {
+    "tail": "くれます",
+    "ai_count": 123,
+    "clean_count": 26,
+    "ai_per_1k_sentences": 2.3934,
+    "clean_per_1k_sentences": 0.415,
+    "G2": 89.29,
+    "ratio": 5.77,
+    "rank": 8
+  },
+  {
+    "tail": "すめです",
+    "ai_count": 106,
+    "clean_count": 18,
+    "ai_per_1k_sentences": 2.0626,
+    "clean_per_1k_sentences": 0.2873,
+    "G2": 87.83,
+    "ratio": 7.18,
+    "rank": 9
+  },
+  {
+    "tail": "られます",
+    "ai_count": 193,
+    "clean_count": 73,
+    "ai_per_1k_sentences": 3.7555,
+    "clean_per_1k_sentences": 1.1651,
+    "G2": 82.53,
+    "ratio": 3.22,
+    "rank": 10
+  },
+  {
+    "tail": "うことだ",
+    "ai_count": 80,
+    "clean_count": 9,
+    "ai_per_1k_sentences": 1.5567,
+    "clean_per_1k_sentences": 0.1436,
+    "G2": 80.02,
+    "ratio": 10.84,
+    "rank": 11
+  },
+  {
+    "tail": "えてくる",
+    "ai_count": 55,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 1.0702,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 72.75,
+    "ratio": 33.53,
+    "rank": 12
+  },
+  {
+    "tail": "ころです",
+    "ai_count": 78,
+    "clean_count": 11,
+    "ai_per_1k_sentences": 1.5178,
+    "clean_per_1k_sentences": 0.1756,
+    "G2": 70.96,
+    "ratio": 8.65,
+    "rank": 13
+  },
+  {
+    "tail": "使います",
+    "ai_count": 103,
+    "clean_count": 25,
+    "ai_per_1k_sentences": 2.0042,
+    "clean_per_1k_sentences": 0.399,
+    "G2": 67.74,
+    "ratio": 5.02,
+    "rank": 14
+  },
+  {
+    "tail": "便利です",
+    "ai_count": 83,
+    "clean_count": 16,
+    "ai_per_1k_sentences": 1.6151,
+    "clean_per_1k_sentences": 0.2554,
+    "G2": 63.91,
+    "ratio": 6.32,
+    "rank": 15
+  },
+  {
+    "tail": "がります",
+    "ai_count": 90,
+    "clean_count": 20,
+    "ai_per_1k_sentences": 1.7513,
+    "clean_per_1k_sentences": 0.3192,
+    "G2": 63.14,
+    "ratio": 5.49,
+    "rank": 16
+  },
+  {
+    "tail": "てくれる",
+    "ai_count": 131,
+    "clean_count": 45,
+    "ai_per_1k_sentences": 2.5491,
+    "clean_per_1k_sentences": 0.7182,
+    "G2": 62.65,
+    "ratio": 3.55,
+    "rank": 17
+  },
+  {
+    "tail": "ってくる",
+    "ai_count": 111,
+    "clean_count": 38,
+    "ai_per_1k_sentences": 2.1599,
+    "clean_per_1k_sentences": 0.6065,
+    "G2": 53.28,
+    "ratio": 3.56,
+    "rank": 18
+  },
+  {
+    "tail": "使えます",
+    "ai_count": 66,
+    "clean_count": 13,
+    "ai_per_1k_sentences": 1.2843,
+    "clean_per_1k_sentences": 0.2075,
+    "G2": 50.15,
+    "ratio": 6.19,
+    "rank": 19
+  },
+  {
+    "tail": "わります",
+    "ai_count": 66,
+    "clean_count": 13,
+    "ai_per_1k_sentences": 1.2843,
+    "clean_per_1k_sentences": 0.2075,
+    "G2": 50.15,
+    "ratio": 6.19,
+    "rank": 20
+  },
+  {
+    "tail": "う点です",
+    "ai_count": 43,
+    "clean_count": 3,
+    "ai_per_1k_sentences": 0.8367,
+    "clean_per_1k_sentences": 0.0479,
+    "G2": 49.97,
+    "ratio": 17.48,
+    "rank": 21
+  },
+  {
+    "tail": "` です",
+    "ai_count": 30,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.5838,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 47.83,
+    "ratio": null,
+    "rank": 22
+  },
+  {
+    "tail": "でもない",
+    "ai_count": 56,
+    "clean_count": 9,
+    "ai_per_1k_sentences": 1.0897,
+    "clean_per_1k_sentences": 0.1436,
+    "G2": 47.78,
+    "ratio": 7.59,
+    "rank": 23
+  },
+  {
+    "tail": "るはずだ",
+    "ai_count": 60,
+    "clean_count": 11,
+    "ai_per_1k_sentences": 1.1675,
+    "clean_per_1k_sentences": 0.1756,
+    "G2": 47.61,
+    "ratio": 6.65,
+    "rank": 24
+  },
+  {
+    "tail": "と思った",
+    "ai_count": 102,
+    "clean_count": 36,
+    "ai_per_1k_sentences": 1.9848,
+    "clean_per_1k_sentences": 0.5746,
+    "G2": 47.33,
+    "ratio": 3.45,
+    "rank": 25
+  },
+  {
+    "tail": "でもある",
+    "ai_count": 97,
+    "clean_count": 33,
+    "ai_per_1k_sentences": 1.8875,
+    "clean_per_1k_sentences": 0.5267,
+    "G2": 46.88,
+    "ratio": 3.58,
+    "rank": 26
+  },
+  {
+    "tail": "特徴です",
+    "ai_count": 45,
+    "clean_count": 5,
+    "ai_per_1k_sentences": 0.8756,
+    "clean_per_1k_sentences": 0.0798,
+    "G2": 45.23,
+    "ratio": 10.97,
+    "rank": 27
+  },
+  {
+    "tail": "組みです",
+    "ai_count": 39,
+    "clean_count": 3,
+    "ai_per_1k_sentences": 0.7589,
+    "clean_per_1k_sentences": 0.0479,
+    "G2": 44.16,
+    "ratio": 15.85,
+    "rank": 28
+  },
+  {
+    "tail": "書けます",
+    "ai_count": 36,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.7005,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 44.12,
+    "ratio": 21.95,
+    "rank": 29
+  },
+  {
+    "tail": "てみたい",
+    "ai_count": 54,
+    "clean_count": 10,
+    "ai_per_1k_sentences": 1.0508,
+    "clean_per_1k_sentences": 0.1596,
+    "G2": 42.6,
+    "ratio": 6.58,
+    "rank": 30
+  },
+  {
+    "tail": "安全です",
+    "ai_count": 40,
+    "clean_count": 4,
+    "ai_per_1k_sentences": 0.7783,
+    "clean_per_1k_sentences": 0.0638,
+    "G2": 41.76,
+    "ratio": 12.19,
+    "rank": 31
+  },
+  {
+    "tail": "ントです",
+    "ai_count": 59,
+    "clean_count": 13,
+    "ai_per_1k_sentences": 1.1481,
+    "clean_per_1k_sentences": 0.2075,
+    "G2": 41.64,
+    "ratio": 5.53,
+    "rank": 32
+  },
+  {
+    "tail": "おりです",
+    "ai_count": 42,
+    "clean_count": 5,
+    "ai_per_1k_sentences": 0.8173,
+    "clean_per_1k_sentences": 0.0798,
+    "G2": 41.1,
+    "ratio": 10.24,
+    "rank": 33
+  },
+  {
+    "tail": "ることだ",
+    "ai_count": 46,
+    "clean_count": 7,
+    "ai_per_1k_sentences": 0.8951,
+    "clean_per_1k_sentences": 0.1117,
+    "G2": 40.35,
+    "ratio": 8.01,
+    "rank": 34
+  },
+  {
+    "tail": "ールです",
+    "ai_count": 64,
+    "clean_count": 17,
+    "ai_per_1k_sentences": 1.2454,
+    "clean_per_1k_sentences": 0.2713,
+    "G2": 39.17,
+    "ratio": 4.59,
+    "rank": 35
+  },
+  {
+    "tail": "すいです",
+    "ai_count": 45,
+    "clean_count": 7,
+    "ai_per_1k_sentences": 0.8756,
+    "clean_per_1k_sentences": 0.1117,
+    "G2": 39.04,
+    "ratio": 7.84,
+    "rank": 36
+  },
+  {
+    "tail": "言えます",
+    "ai_count": 45,
+    "clean_count": 7,
+    "ai_per_1k_sentences": 0.8756,
+    "clean_per_1k_sentences": 0.1117,
+    "G2": 39.04,
+    "ratio": 7.84,
+    "rank": 37
+  },
+  {
+    "tail": "作れます",
+    "ai_count": 28,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.5448,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 37.14,
+    "ratio": 34.14,
+    "rank": 38
+  },
+  {
+    "tail": "といえる",
+    "ai_count": 36,
+    "clean_count": 4,
+    "ai_per_1k_sentences": 0.7005,
+    "clean_per_1k_sentences": 0.0638,
+    "G2": 36.18,
+    "ratio": 10.97,
+    "rank": 39
+  },
+  {
+    "tail": "からない",
+    "ai_count": 81,
+    "clean_count": 30,
+    "ai_per_1k_sentences": 1.5762,
+    "clean_per_1k_sentences": 0.4788,
+    "G2": 35.53,
+    "ratio": 3.29,
+    "rank": 40
+  },
+  {
+    "tail": "とめます",
+    "ai_count": 40,
+    "clean_count": 6,
+    "ai_per_1k_sentences": 0.7783,
+    "clean_per_1k_sentences": 0.0958,
+    "G2": 35.34,
+    "ratio": 8.13,
+    "rank": 41
+  },
+  {
+    "tail": "しやすい",
+    "ai_count": 48,
+    "clean_count": 10,
+    "ai_per_1k_sentences": 0.934,
+    "clean_per_1k_sentences": 0.1596,
+    "G2": 35.18,
+    "ratio": 5.85,
+    "rank": 42
+  },
+  {
+    "tail": "効きます",
+    "ai_count": 22,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.4281,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 35.07,
+    "ratio": null,
+    "rank": 43
+  },
+  {
+    "tail": "* です",
+    "ai_count": 22,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.4281,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 35.07,
+    "ratio": null,
+    "rank": 44
+  },
+  {
+    "tail": "たはずだ",
+    "ai_count": 26,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.5059,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 34.1,
+    "ratio": 31.7,
+    "rank": 45
+  },
+  {
+    "tail": "減ります",
+    "ai_count": 21,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.4086,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 33.48,
+    "ratio": null,
+    "rank": 46
+  },
+  {
+    "tail": "る点です",
+    "ai_count": 28,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.5448,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 32.34,
+    "ratio": 17.07,
+    "rank": 47
+  },
+  {
+    "tail": "りがたい",
+    "ai_count": 20,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.3892,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 31.89,
+    "ratio": null,
+    "rank": 48
+  },
+  {
+    "tail": "人物です",
+    "ai_count": 20,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.3892,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 31.89,
+    "ratio": null,
+    "rank": 49
+  },
+  {
+    "tail": "してみる",
+    "ai_count": 54,
+    "clean_count": 15,
+    "ai_per_1k_sentences": 1.0508,
+    "clean_per_1k_sentences": 0.2394,
+    "G2": 31.81,
+    "ratio": 4.39,
+    "rank": 50
+  },
+  {
+    "tail": "がちです",
+    "ai_count": 47,
+    "clean_count": 11,
+    "ai_per_1k_sentences": 0.9146,
+    "clean_per_1k_sentences": 0.1756,
+    "G2": 31.77,
+    "ratio": 5.21,
+    "rank": 51
+  },
+  {
+    "tail": "るからだ",
+    "ai_count": 46,
+    "clean_count": 11,
+    "ai_per_1k_sentences": 0.8951,
+    "clean_per_1k_sentences": 0.1756,
+    "G2": 30.6,
+    "ratio": 5.1,
+    "rank": 52
+  },
+  {
+    "tail": "るだけだ",
+    "ai_count": 19,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.3697,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 30.29,
+    "ratio": null,
+    "rank": 53
+  },
+  {
+    "tail": "済みます",
+    "ai_count": 29,
+    "clean_count": 3,
+    "ai_per_1k_sentences": 0.5643,
+    "clean_per_1k_sentences": 0.0479,
+    "G2": 29.92,
+    "ratio": 11.79,
+    "rank": 54
+  },
+  {
+    "tail": "存在です",
+    "ai_count": 23,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.4475,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 29.55,
+    "ratio": 28.04,
+    "rank": 55
+  },
+  {
+    "tail": "んだっけ",
+    "ai_count": 26,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.5059,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 29.44,
+    "ratio": 15.85,
+    "rank": 56
+  },
+  {
+    "tail": "出てくる",
+    "ai_count": 45,
+    "clean_count": 11,
+    "ai_per_1k_sentences": 0.8756,
+    "clean_per_1k_sentences": 0.1756,
+    "G2": 29.43,
+    "ratio": 4.99,
+    "rank": 57
+  },
+  {
+    "tail": "気づいた",
+    "ai_count": 31,
+    "clean_count": 4,
+    "ai_per_1k_sentences": 0.6032,
+    "clean_per_1k_sentences": 0.0638,
+    "G2": 29.34,
+    "ratio": 9.45,
+    "rank": 58
+  },
+  {
+    "tail": "イントだ",
+    "ai_count": 18,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.3503,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 28.7,
+    "ratio": null,
+    "rank": 59
+  },
+  {
+    "tail": "めしたい",
+    "ai_count": 18,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.3503,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 28.7,
+    "ratio": null,
+    "rank": 60
+  },
+  {
+    "tail": "出せます",
+    "ai_count": 18,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.3503,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 28.7,
+    "ratio": null,
+    "rank": 61
+  },
+  {
+    "tail": "いことだ",
+    "ai_count": 18,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.3503,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 28.7,
+    "ratio": null,
+    "rank": 62
+  },
+  {
+    "tail": "魅力です",
+    "ai_count": 18,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.3503,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 28.7,
+    "ratio": null,
+    "rank": 63
+  },
+  {
+    "tail": "が大きい",
+    "ai_count": 22,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.4281,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 28.05,
+    "ratio": 26.82,
+    "rank": 64
+  },
+  {
+    "tail": "いてくる",
+    "ai_count": 32,
+    "clean_count": 5,
+    "ai_per_1k_sentences": 0.6227,
+    "clean_per_1k_sentences": 0.0798,
+    "G2": 27.7,
+    "ratio": 7.8,
+    "rank": 65
+  },
+  {
+    "tail": "るだろう",
+    "ai_count": 65,
+    "clean_count": 25,
+    "ai_per_1k_sentences": 1.2648,
+    "clean_per_1k_sentences": 0.399,
+    "G2": 27.23,
+    "ratio": 3.17,
+    "rank": 66
+  },
+  {
+    "tail": "たからだ",
+    "ai_count": 29,
+    "clean_count": 4,
+    "ai_per_1k_sentences": 0.5643,
+    "clean_per_1k_sentences": 0.0638,
+    "G2": 26.65,
+    "ratio": 8.84,
+    "rank": 67
+  },
+  {
+    "tail": "たります",
+    "ai_count": 24,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.467,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 26.56,
+    "ratio": 14.63,
+    "rank": 68
+  },
+  {
+    "tail": "のものだ",
+    "ai_count": 21,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.4086,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 26.54,
+    "ratio": 25.6,
+    "rank": 69
+  },
+  {
+    "tail": "ところだ",
+    "ai_count": 26,
+    "clean_count": 3,
+    "ai_per_1k_sentences": 0.5059,
+    "clean_per_1k_sentences": 0.0479,
+    "G2": 25.76,
+    "ratio": 10.57,
+    "rank": 70
+  },
+  {
+    "tail": "いきたい",
+    "ai_count": 40,
+    "clean_count": 10,
+    "ai_per_1k_sentences": 0.7783,
+    "clean_per_1k_sentences": 0.1596,
+    "G2": 25.71,
+    "ratio": 4.88,
+    "rank": 71
+  },
+  {
+    "tail": "般的です",
+    "ai_count": 16,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.3113,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 25.51,
+    "ratio": null,
+    "rank": 72
+  },
+  {
+    "tail": "実的です",
+    "ai_count": 16,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.3113,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 25.51,
+    "ratio": null,
+    "rank": 73
+  },
+  {
+    "tail": "ーマです",
+    "ai_count": 16,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.3113,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 25.51,
+    "ratio": null,
+    "rank": 74
+  },
+  {
+    "tail": "十分です",
+    "ai_count": 28,
+    "clean_count": 4,
+    "ai_per_1k_sentences": 0.5448,
+    "clean_per_1k_sentences": 0.0638,
+    "G2": 25.32,
+    "ratio": 8.53,
+    "rank": 75
+  },
+  {
+    "tail": "うがいい",
+    "ai_count": 20,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.3892,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 25.04,
+    "ratio": 24.38,
+    "rank": 76
+  },
+  {
+    "tail": "いうこと",
+    "ai_count": 41,
+    "clean_count": 11,
+    "ai_per_1k_sentences": 0.7978,
+    "clean_per_1k_sentences": 0.1756,
+    "G2": 24.88,
+    "ratio": 4.54,
+    "rank": 77
+  },
+  {
+    "tail": "めておく",
+    "ai_count": 60,
+    "clean_count": 24,
+    "ai_per_1k_sentences": 1.1675,
+    "clean_per_1k_sentences": 0.383,
+    "G2": 23.9,
+    "ratio": 3.05,
+    "rank": 78
+  },
+  {
+    "tail": "基本です",
+    "ai_count": 22,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.4281,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 23.7,
+    "ratio": 13.41,
+    "rank": 79
+  },
+  {
+    "tail": "と感じた",
+    "ai_count": 51,
+    "clean_count": 18,
+    "ai_per_1k_sentences": 0.9924,
+    "clean_per_1k_sentences": 0.2873,
+    "G2": 23.66,
+    "ratio": 3.45,
+    "rank": 80
+  },
+  {
+    "tail": "安心です",
+    "ai_count": 26,
+    "clean_count": 4,
+    "ai_per_1k_sentences": 0.5059,
+    "clean_per_1k_sentences": 0.0638,
+    "G2": 22.68,
+    "ratio": 7.92,
+    "rank": 81
+  },
+  {
+    "tail": "理します",
+    "ai_count": 30,
+    "clean_count": 6,
+    "ai_per_1k_sentences": 0.5838,
+    "clean_per_1k_sentences": 0.0958,
+    "G2": 22.58,
+    "ratio": 6.1,
+    "rank": 82
+  },
+  {
+    "tail": "見ていた",
+    "ai_count": 21,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.4086,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 22.29,
+    "ratio": 12.8,
+    "rank": 83
+  },
+  {
+    "tail": "つかある",
+    "ai_count": 21,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.4086,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 22.29,
+    "ratio": 12.8,
+    "rank": 84
+  },
+  {
+    "tail": "けになる",
+    "ai_count": 18,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.3503,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 22.06,
+    "ratio": 21.95,
+    "rank": 85
+  },
+  {
+    "tail": "いはずだ",
+    "ai_count": 18,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.3503,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 22.06,
+    "ratio": 21.95,
+    "rank": 86
+  },
+  {
+    "tail": "確実です",
+    "ai_count": 18,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.3503,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 22.06,
+    "ratio": 21.95,
+    "rank": 87
+  },
+  {
+    "tail": "え方です",
+    "ai_count": 18,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.3503,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 22.06,
+    "ratio": 21.95,
+    "rank": 88
+  },
+  {
+    "tail": "と言った",
+    "ai_count": 35,
+    "clean_count": 9,
+    "ai_per_1k_sentences": 0.6811,
+    "clean_per_1k_sentences": 0.1436,
+    "G2": 22.0,
+    "ratio": 4.74,
+    "rank": 89
+  },
+  {
+    "tail": "ースです",
+    "ai_count": 33,
+    "clean_count": 8,
+    "ai_per_1k_sentences": 0.6421,
+    "clean_per_1k_sentences": 0.1277,
+    "G2": 21.72,
+    "ratio": 5.03,
+    "rank": 90
+  },
+  {
+    "tail": "プルです",
+    "ai_count": 25,
+    "clean_count": 4,
+    "ai_per_1k_sentences": 0.4865,
+    "clean_per_1k_sentences": 0.0638,
+    "G2": 21.38,
+    "ratio": 7.62,
+    "rank": 91
+  },
+  {
+    "tail": "意します",
+    "ai_count": 27,
+    "clean_count": 5,
+    "ai_per_1k_sentences": 0.5254,
+    "clean_per_1k_sentences": 0.0798,
+    "G2": 21.3,
+    "ratio": 6.58,
+    "rank": 92
+  },
+  {
+    "tail": "入れます",
+    "ai_count": 20,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.3892,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 20.88,
+    "ratio": 12.19,
+    "rank": 93
+  },
+  {
+    "tail": "ているか",
+    "ai_count": 20,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.3892,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 20.88,
+    "ratio": 12.19,
+    "rank": 94
+  },
+  {
+    "tail": "えてきた",
+    "ai_count": 34,
+    "clean_count": 9,
+    "ai_per_1k_sentences": 0.6616,
+    "clean_per_1k_sentences": 0.1436,
+    "G2": 20.87,
+    "ratio": 4.61,
+    "rank": 95
+  },
+  {
+    "tail": "題である",
+    "ai_count": 13,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.253,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 20.73,
+    "ratio": null,
+    "rank": 96
+  },
+  {
+    "tail": "ひとつだ",
+    "ai_count": 13,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.253,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 20.73,
+    "ratio": null,
+    "rank": 97
+  },
+  {
+    "tail": "間がある",
+    "ai_count": 13,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.253,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 20.73,
+    "ratio": null,
+    "rank": 98
+  },
+  {
+    "tail": "コツです",
+    "ai_count": 13,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.253,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 20.73,
+    "ratio": null,
+    "rank": 99
+  },
+  {
+    "tail": "仕組みだ",
+    "ai_count": 17,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.3308,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 20.58,
+    "ratio": 20.73,
+    "rank": 100
+  },
+  {
+    "tail": "年だった",
+    "ai_count": 17,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.3308,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 20.58,
+    "ratio": 20.73,
+    "rank": 101
+  },
+  {
+    "tail": "けだった",
+    "ai_count": 26,
+    "clean_count": 5,
+    "ai_per_1k_sentences": 0.5059,
+    "clean_per_1k_sentences": 0.0798,
+    "G2": 20.05,
+    "ratio": 6.34,
+    "rank": 102
+  },
+  {
+    "tail": "してくる",
+    "ai_count": 26,
+    "clean_count": 5,
+    "ai_per_1k_sentences": 0.5059,
+    "clean_per_1k_sentences": 0.0798,
+    "G2": 20.05,
+    "ratio": 6.34,
+    "rank": 103
+  },
+  {
+    "tail": "いう点だ",
+    "ai_count": 19,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.3697,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 19.48,
+    "ratio": 11.58,
+    "rank": 104
+  },
+  {
+    "tail": "なものだ",
+    "ai_count": 19,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.3697,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 19.48,
+    "ratio": 11.58,
+    "rank": 105
+  },
+  {
+    "tail": "違います",
+    "ai_count": 19,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.3697,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 19.48,
+    "ratio": 11.58,
+    "rank": 106
+  },
+  {
+    "tail": "ーンです",
+    "ai_count": 31,
+    "clean_count": 8,
+    "ai_per_1k_sentences": 0.6032,
+    "clean_per_1k_sentences": 0.1277,
+    "G2": 19.43,
+    "ratio": 4.72,
+    "rank": 107
+  },
+  {
+    "tail": "が止まる",
+    "ai_count": 12,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.2335,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 19.13,
+    "ratio": null,
+    "rank": 108
+  },
+  {
+    "tail": "重宝する",
+    "ai_count": 12,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.2335,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 19.13,
+    "ratio": null,
+    "rank": 109
+  },
+  {
+    "tail": "らだろう",
+    "ai_count": 12,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.2335,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 19.13,
+    "ratio": null,
+    "rank": 110
+  },
+  {
+    "tail": "**です",
+    "ai_count": 12,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.2335,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 19.13,
+    "ratio": null,
+    "rank": 111
+  },
+  {
+    "tail": "機能する",
+    "ai_count": 12,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.2335,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 19.13,
+    "ratio": null,
+    "rank": 112
+  },
+  {
+    "tail": "宝します",
+    "ai_count": 12,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.2335,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 19.13,
+    "ratio": null,
+    "rank": 113
+  },
+  {
+    "tail": "はどれか",
+    "ai_count": 12,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.2335,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 19.13,
+    "ratio": null,
+    "rank": 114
+  },
+  {
+    "tail": "がえます",
+    "ai_count": 12,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.2335,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 19.13,
+    "ratio": null,
+    "rank": 115
+  },
+  {
+    "tail": "ち上がる",
+    "ai_count": 12,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.2335,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 19.13,
+    "ratio": null,
+    "rank": 116
+  },
+  {
+    "tail": "多くない",
+    "ai_count": 16,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.3113,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 19.1,
+    "ratio": 19.51,
+    "rank": 117
+  },
+  {
+    "tail": "は大きい",
+    "ai_count": 21,
+    "clean_count": 3,
+    "ai_per_1k_sentences": 0.4086,
+    "clean_per_1k_sentences": 0.0479,
+    "G2": 18.99,
+    "ratio": 8.53,
+    "rank": 118
+  },
+  {
+    "tail": "てもいい",
+    "ai_count": 23,
+    "clean_count": 4,
+    "ai_per_1k_sentences": 0.4475,
+    "clean_per_1k_sentences": 0.0638,
+    "G2": 18.81,
+    "ratio": 7.01,
+    "rank": 119
+  },
+  {
+    "tail": "出します",
+    "ai_count": 43,
+    "clean_count": 16,
+    "ai_per_1k_sentences": 0.8367,
+    "clean_per_1k_sentences": 0.2554,
+    "G2": 18.76,
+    "ratio": 3.28,
+    "rank": 120
+  },
+  {
+    "tail": "いえます",
+    "ai_count": 32,
+    "clean_count": 9,
+    "ai_per_1k_sentences": 0.6227,
+    "clean_per_1k_sentences": 0.1436,
+    "G2": 18.64,
+    "ratio": 4.34,
+    "rank": 121
+  },
+  {
+    "tail": "書きます",
+    "ai_count": 41,
+    "clean_count": 15,
+    "ai_per_1k_sentences": 0.7978,
+    "clean_per_1k_sentences": 0.2394,
+    "G2": 18.25,
+    "ratio": 3.33,
+    "rank": 122
+  },
+  {
+    "tail": "たくなる",
+    "ai_count": 26,
+    "clean_count": 6,
+    "ai_per_1k_sentences": 0.5059,
+    "clean_per_1k_sentences": 0.0958,
+    "G2": 17.75,
+    "ratio": 5.28,
+    "rank": 123
+  },
+  {
+    "tail": "かと思う",
+    "ai_count": 15,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.2919,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 17.63,
+    "ratio": 18.29,
+    "rank": 124
+  },
+  {
+    "tail": "無難です",
+    "ai_count": 15,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.2919,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 17.63,
+    "ratio": 18.29,
+    "rank": 125
+  },
+  {
+    "tail": "流れです",
+    "ai_count": 15,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.2919,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 17.63,
+    "ratio": 18.29,
+    "rank": 126
+  },
+  {
+    "tail": "定石です",
+    "ai_count": 11,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.214,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 17.54,
+    "ratio": null,
+    "rank": 127
+  },
+  {
+    "tail": "ずに済む",
+    "ai_count": 11,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.214,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 17.54,
+    "ratio": null,
+    "rank": 128
+  },
+  {
+    "tail": "げておく",
+    "ai_count": 11,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.214,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 17.54,
+    "ratio": null,
+    "rank": 129
+  },
+  {
+    "tail": "利点です",
+    "ai_count": 11,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.214,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 17.54,
+    "ratio": null,
+    "rank": 130
+  },
+  {
+    "tail": "が変わる",
+    "ai_count": 22,
+    "clean_count": 4,
+    "ai_per_1k_sentences": 0.4281,
+    "clean_per_1k_sentences": 0.0638,
+    "G2": 17.54,
+    "ratio": 6.71,
+    "rank": 131
+  },
+  {
+    "tail": "んどない",
+    "ai_count": 11,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.214,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 17.54,
+    "ratio": null,
+    "rank": 132
+  },
+  {
+    "tail": "揮します",
+    "ai_count": 11,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.214,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 17.54,
+    "ratio": null,
+    "rank": 133
+  },
+  {
+    "tail": "こります",
+    "ai_count": 11,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.214,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 17.54,
+    "ratio": null,
+    "rank": 134
+  },
+  {
+    "tail": "れていく",
+    "ai_count": 43,
+    "clean_count": 17,
+    "ai_per_1k_sentences": 0.8367,
+    "clean_per_1k_sentences": 0.2713,
+    "G2": 17.39,
+    "ratio": 3.08,
+    "rank": 135
+  },
+  {
+    "tail": "のでした",
+    "ai_count": 38,
+    "clean_count": 14,
+    "ai_per_1k_sentences": 0.7394,
+    "clean_per_1k_sentences": 0.2234,
+    "G2": 16.78,
+    "ratio": 3.31,
+    "rank": 136
+  },
+  {
+    "tail": "込めます",
+    "ai_count": 17,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.3308,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 16.71,
+    "ratio": 10.36,
+    "rank": 137
+  },
+  {
+    "tail": "本題です",
+    "ai_count": 19,
+    "clean_count": 3,
+    "ai_per_1k_sentences": 0.3697,
+    "clean_per_1k_sentences": 0.0479,
+    "G2": 16.36,
+    "ratio": 7.72,
+    "rank": 138
+  },
+  {
+    "tail": "ればよい",
+    "ai_count": 21,
+    "clean_count": 4,
+    "ai_per_1k_sentences": 0.4086,
+    "clean_per_1k_sentences": 0.0638,
+    "G2": 16.29,
+    "ratio": 6.4,
+    "rank": 139
+  },
+  {
+    "tail": "りやすい",
+    "ai_count": 36,
+    "clean_count": 13,
+    "ai_per_1k_sentences": 0.7005,
+    "clean_per_1k_sentences": 0.2075,
+    "G2": 16.27,
+    "ratio": 3.38,
+    "rank": 140
+  },
+  {
+    "tail": "感じます",
+    "ai_count": 36,
+    "clean_count": 13,
+    "ai_per_1k_sentences": 0.7005,
+    "clean_per_1k_sentences": 0.2075,
+    "G2": 16.27,
+    "ratio": 3.38,
+    "rank": 141
+  },
+  {
+    "tail": "いやすい",
+    "ai_count": 14,
+    "clean_count": 1,
+    "ai_per_1k_sentences": 0.2724,
+    "clean_per_1k_sentences": 0.016,
+    "G2": 16.17,
+    "ratio": 17.07,
+    "rank": 142
+  },
+  {
+    "tail": "えてみる",
+    "ai_count": 10,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.1946,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 15.94,
+    "ratio": null,
+    "rank": 143
+  },
+  {
+    "tail": "意したい",
+    "ai_count": 10,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.1946,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 15.94,
+    "ratio": null,
+    "rank": 144
+  },
+  {
+    "tail": "要でした",
+    "ai_count": 10,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.1946,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 15.94,
+    "ratio": null,
+    "rank": 145
+  },
+  {
+    "tail": "いる点だ",
+    "ai_count": 10,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.1946,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 15.94,
+    "ratio": null,
+    "rank": 146
+  },
+  {
+    "tail": "象でした",
+    "ai_count": 10,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.1946,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 15.94,
+    "ratio": null,
+    "rank": 147
+  },
+  {
+    "tail": "在でした",
+    "ai_count": 10,
+    "clean_count": 0,
+    "ai_per_1k_sentences": 0.1946,
+    "clean_per_1k_sentences": 0.0,
+    "G2": 15.94,
+    "ratio": null,
+    "rank": 148
+  },
+  {
+    "tail": "びました",
+    "ai_count": 26,
+    "clean_count": 7,
+    "ai_per_1k_sentences": 0.5059,
+    "clean_per_1k_sentences": 0.1117,
+    "G2": 15.73,
+    "ratio": 4.53,
+    "rank": 149
+  },
+  {
+    "tail": "すすめだ",
+    "ai_count": 16,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.3113,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 15.35,
+    "ratio": 9.75,
+    "rank": 150
+  },
+  {
+    "tail": "さがある",
+    "ai_count": 16,
+    "clean_count": 2,
+    "ai_per_1k_sentences": 0.3113,
+    "clean_per_1k_sentences": 0.0319,
+    "G2": 15.35,
+    "ratio": 9.75,
+    "rank": 151
+  },
+  {
+    "tail": "的だった",
+    "ai_count": 22,
+    "clean_count": 5,
+    "ai_per_1k_sentences": 0.4281,
+    "clean_per_1k_sentences": 0.0798,
+    "G2": 15.19,
+    "ratio": 5.36,
+    "rank": 152
+  }
+]

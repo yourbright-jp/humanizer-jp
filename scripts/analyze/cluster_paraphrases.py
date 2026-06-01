@@ -90,6 +90,13 @@ def main():
     ap.add_argument("--ai-ratio-thresh", type=float, default=0.75)
     ap.add_argument("--lift-thresh", type=float, default=3.0)
     ap.add_argument("--samples", type=int, default=3, help="代表文サンプル数")
+    ap.add_argument(
+        "--pca-dim",
+        type=int,
+        default=50,
+        help="HDBSCAN 前に PCA で次元削減 (0=無効)。1024d 生ベクトルは spatial tree が"
+        " 効かず数万点で実用外になるため、cosine 構造を保つ PCA で前処理する。",
+    )
     args = ap.parse_args()
 
     try:
@@ -107,8 +114,20 @@ def main():
         return
     print(f"  {len(meta)} sentences, dim={vecs.shape[1]}")
 
+    vecs = vecs.astype(np.float32)
+    # 高次元 (1024d) のままだと HDBSCAN の空間木が機能せず数万点で実用外。
+    # cosine 構造をほぼ保ったまま PCA で削減してからクラスタリングする。
+    if args.pca_dim and vecs.shape[1] > args.pca_dim:
+        from sklearn.decomposition import PCA
+
+        print(f"  PCA {vecs.shape[1]}d -> {args.pca_dim}d ...")
+        pca = PCA(n_components=args.pca_dim, svd_solver="randomized", random_state=0)
+        vecs = pca.fit_transform(vecs).astype(np.float32)
+        evr = float(pca.explained_variance_ratio_.sum())
+        print(f"  explained variance ratio (sum) = {evr:.3f}")
+
     # cosine 距離は L2 正規化後の euclidean に等しい
-    vecs_norm = l2_normalize(vecs.astype(np.float32))
+    vecs_norm = l2_normalize(vecs)
 
     print(f"clustering (HDBSCAN min_cluster_size={args.min_cluster_size}) ...")
     clusterer = hdbscan.HDBSCAN(
