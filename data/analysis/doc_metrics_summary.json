@@ -1,0 +1,274 @@
+{
+  "clean": {
+    "char_count": {
+      "mean": 4220.2118,
+      "median": 3019,
+      "stdev": 3904.4195,
+      "n": 1105
+    },
+    "em_dash_per_1k": {
+      "mean": 0.0207,
+      "median": 0.0,
+      "stdev": 0.1413,
+      "n": 1105
+    },
+    "ellipsis_per_1k": {
+      "mean": 0.5667,
+      "median": 0.0,
+      "stdev": 1.4338,
+      "n": 1105
+    },
+    "fullwidth_paren_per_1k": {
+      "mean": 7.9816,
+      "median": 5.7236,
+      "stdev": 7.8096,
+      "n": 1105
+    },
+    "bold_per_1k": {
+      "mean": 0.0015,
+      "median": 0.0,
+      "stdev": 0.0281,
+      "n": 1105
+    },
+    "list_bullet_lines_ratio": {
+      "mean": 0.0004,
+      "median": 0.0,
+      "stdev": 0.0056,
+      "n": 1105
+    },
+    "heading_lines_ratio": {
+      "mean": 0.0004,
+      "median": 0.0,
+      "stdev": 0.0022,
+      "n": 1105
+    },
+    "mean_paragraph_chars": {
+      "mean": 1193.4305,
+      "median": 213.3125,
+      "stdev": 2065.1679,
+      "n": 1105
+    },
+    "n_paragraphs": {
+      "mean": 25.2271,
+      "median": 15,
+      "stdev": 50.9209,
+      "n": 1105
+    },
+    "kanji_ratio": {
+      "mean": 0.2454,
+      "median": 0.2297,
+      "stdev": 0.1477,
+      "n": 1105
+    },
+    "passive_rate_per_1k": {
+      "mean": 0.6313,
+      "median": 0.2474,
+      "stdev": 0.9701,
+      "n": 1105
+    }
+  },
+  "clean_wiki": {
+    "char_count": {
+      "mean": 4511.29,
+      "median": 2934.5,
+      "stdev": 4550.507,
+      "n": 400
+    },
+    "em_dash_per_1k": {
+      "mean": 0.0055,
+      "median": 0.0,
+      "stdev": 0.0602,
+      "n": 400
+    },
+    "ellipsis_per_1k": {
+      "mean": 0.0902,
+      "median": 0.0,
+      "stdev": 0.5642,
+      "n": 400
+    },
+    "fullwidth_paren_per_1k": {
+      "mean": 12.9821,
+      "median": 10.7907,
+      "stdev": 9.5134,
+      "n": 400
+    },
+    "bold_per_1k": {
+      "mean": 0.0,
+      "median": 0.0,
+      "stdev": 0.0,
+      "n": 400
+    },
+    "list_bullet_lines_ratio": {
+      "mean": 0.0,
+      "median": 0.0,
+      "stdev": 0.0,
+      "n": 400
+    },
+    "heading_lines_ratio": {
+      "mean": 0.0,
+      "median": 0.0,
+      "stdev": 0.0,
+      "n": 400
+    },
+    "mean_paragraph_chars": {
+      "mean": 264.164,
+      "median": 232.6389,
+      "stdev": 148.0886,
+      "n": 400
+    },
+    "n_paragraphs": {
+      "mean": 18.855,
+      "median": 13.0,
+      "stdev": 20.8302,
+      "n": 400
+    },
+    "kanji_ratio": {
+      "mean": 0.373,
+      "median": 0.3439,
+      "stdev": 0.1486,
+      "n": 400
+    },
+    "passive_rate_per_1k": {
+      "mean": 1.2834,
+      "median": 0.9921,
+      "stdev": 1.2218,
+      "n": 400
+    }
+  },
+  "clean_blog": {
+    "char_count": {
+      "mean": 4055.061,
+      "median": 3136,
+      "stdev": 3474.1595,
+      "n": 705
+    },
+    "em_dash_per_1k": {
+      "mean": 0.0293,
+      "median": 0.0,
+      "stdev": 0.1704,
+      "n": 705
+    },
+    "ellipsis_per_1k": {
+      "mean": 0.8371,
+      "median": 0.0,
+      "stdev": 1.6852,
+      "n": 705
+    },
+    "fullwidth_paren_per_1k": {
+      "mean": 5.1444,
+      "median": 3.9862,
+      "stdev": 4.691,
+      "n": 705
+    },
+    "bold_per_1k": {
+      "mean": 0.0023,
+      "median": 0.0,
+      "stdev": 0.0352,
+      "n": 705
+    },
+    "list_bullet_lines_ratio": {
+      "mean": 0.0006,
+      "median": 0.0,
+      "stdev": 0.0069,
+      "n": 705
+    },
+    "heading_lines_ratio": {
+      "mean": 0.0006,
+      "median": 0.0,
+      "stdev": 0.0027,
+      "n": 705
+    },
+    "mean_paragraph_chars": {
+      "mean": 1720.6739,
+      "median": 157.9545,
+      "stdev": 2429.8873,
+      "n": 705
+    },
+    "n_paragraphs": {
+      "mean": 28.8426,
+      "median": 19,
+      "stdev": 61.4964,
+      "n": 705
+    },
+    "kanji_ratio": {
+      "mean": 0.173,
+      "median": 0.1786,
+      "stdev": 0.0847,
+      "n": 705
+    },
+    "passive_rate_per_1k": {
+      "mean": 0.2613,
+      "median": 0.0,
+      "stdev": 0.5,
+      "n": 705
+    }
+  },
+  "ai_claude": {
+    "char_count": {
+      "mean": 2841.5412,
+      "median": 2340,
+      "stdev": 1603.0043,
+      "n": 1105
+    },
+    "em_dash_per_1k": {
+      "mean": 0.161,
+      "median": 0.0,
+      "stdev": 0.8449,
+      "n": 1105
+    },
+    "ellipsis_per_1k": {
+      "mean": 0.1687,
+      "median": 0.0,
+      "stdev": 0.5235,
+      "n": 1105
+    },
+    "fullwidth_paren_per_1k": {
+      "mean": 5.1074,
+      "median": 3.8062,
+      "stdev": 4.5146,
+      "n": 1105
+    },
+    "bold_per_1k": {
+      "mean": 0.5515,
+      "median": 0.0,
+      "stdev": 1.5066,
+      "n": 1105
+    },
+    "list_bullet_lines_ratio": {
+      "mean": 0.049,
+      "median": 0.0,
+      "stdev": 0.0732,
+      "n": 1105
+    },
+    "heading_lines_ratio": {
+      "mean": 0.0824,
+      "median": 0.08,
+      "stdev": 0.0633,
+      "n": 1105
+    },
+    "mean_paragraph_chars": {
+      "mean": 96.1882,
+      "median": 88.1509,
+      "stdev": 35.4254,
+      "n": 1105
+    },
+    "n_paragraphs": {
+      "mean": 32.5701,
+      "median": 28,
+      "stdev": 20.269,
+      "n": 1105
+    },
+    "kanji_ratio": {
+      "mean": 0.2622,
+      "median": 0.2679,
+      "stdev": 0.1023,
+      "n": 1105
+    },
+    "passive_rate_per_1k": {
+      "mean": 0.7494,
+      "median": 0.4006,
+      "stdev": 1.0336,
+      "n": 1105
+    }
+  }
+}

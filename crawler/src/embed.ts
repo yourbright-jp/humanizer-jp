@@ -18,7 +18,7 @@
  *   UNIQUE(source_table, source_id, sentence_idx, model_id) で防衛。
  *   INSERT OR IGNORE で重複を弾く。
  */
-import { Env } from "./index";
+import type { Env } from "./index";
 
 const MODEL_ID = "@cf/baai/bge-m3";
 const MIN_SENT_LEN = 20;
@@ -32,6 +32,8 @@ interface EmbedResult {
   failed: number;
   duration_ms: number;
 }
+
+const SENT_BATCH = 96; // 1 回の AI.run に渡す文数 (round-trip 償却のため記事跨ぎで束ねる)
 
 export async function embedBatch(
   env: Env,
@@ -47,43 +49,54 @@ export async function embedBatch(
   let skipped = 0;
   let failed = 0;
 
+  // 全記事の文を 1 本のリストに flatten (source_id / idx を保持)
+  const items: { source_id: string; idx: number; text: string }[] = [];
   for (const row of rows.results ?? []) {
     const sentences = splitSentences(row.text);
     if (sentences.length === 0) {
       skipped++;
       continue;
     }
+    for (const s of sentences) {
+      items.push({ source_id: String(row.id), idx: s.idx, text: s.text });
+    }
+  }
+
+  const stmt = env.DB.prepare(
+    `INSERT OR IGNORE INTO sentence_embeddings
+     (source_table, source_id, sentence_idx, sentence_text, embedding, model_id)
+     VALUES (?, ?, ?, ?, ?, ?)`,
+  );
+
+  // SENT_BATCH 文ずつ AI.run → D1 へは batch() でまとめて書き込む
+  for (let off = 0; off < items.length; off += SENT_BATCH) {
+    const chunk = items.slice(off, off + SENT_BATCH);
     try {
-      // Workers AI は配列入力で複数文を一度に embed できる
       const res = (await env.AI.run(MODEL_ID, {
-        text: sentences.map((s) => s.text),
+        text: chunk.map((c) => c.text),
       })) as { data: number[][] };
 
-      const stmt = env.DB.prepare(
-        `INSERT OR IGNORE INTO sentence_embeddings
-         (source_table, source_id, sentence_idx, sentence_text, embedding, model_id)
-         VALUES (?, ?, ?, ?, ?, ?)`,
-      );
-
-      for (let i = 0; i < sentences.length; i++) {
+      const binds = [];
+      for (let i = 0; i < chunk.length; i++) {
         const vec = res.data[i];
-        if (!vec) continue;
+        if (!vec) {
+          skipped++;
+          continue;
+        }
         const buf = new Float32Array(vec).buffer;
-        const r = await stmt
-          .bind(
-            table,
-            String(row.id),
-            sentences[i]!.idx,
-            sentences[i]!.text,
-            buf,
-            MODEL_ID,
-          )
-          .run();
-        if (r.meta.changes && r.meta.changes > 0) inserted++;
-        else skipped++;
+        binds.push(
+          stmt.bind(table, chunk[i]!.source_id, chunk[i]!.idx, chunk[i]!.text, buf, MODEL_ID),
+        );
+      }
+      if (binds.length) {
+        const results = await env.DB.batch(binds);
+        for (const r of results) {
+          if (r.meta.changes && r.meta.changes > 0) inserted++;
+          else skipped++;
+        }
       }
     } catch (e) {
-      failed++;
+      failed += chunk.length;
     }
   }
 

@@ -1,0 +1,6502 @@
+[
+  {
+    "ngram": "`",
+    "tokens": [
+      "`"
+    ],
+    "ai_count": 31625,
+    "clean_count": 203,
+    "ai_per_1k": 18.6658,
+    "clean_per_1k": 0.0832,
+    "G2": 54192.59,
+    "ratio": 224.44,
+    "rank": 1
+  },
+  {
+    "ngram": "\n\n",
+    "tokens": [
+      "\n\n"
+    ],
+    "ai_count": 34383,
+    "clean_count": 11741,
+    "ai_per_1k": 20.2936,
+    "clean_per_1k": 4.8102,
+    "G2": 21405.68,
+    "ratio": 4.22,
+    "rank": 2
+  },
+  {
+    "ngram": "*",
+    "tokens": [
+      "*"
+    ],
+    "ai_count": 9739,
+    "clean_count": 1172,
+    "ai_per_1k": 5.7482,
+    "clean_per_1k": 0.4802,
+    "G2": 11172.21,
+    "ratio": 11.97,
+    "rank": 3
+  },
+  {
+    "ngram": "\n    ",
+    "tokens": [
+      "\n    "
+    ],
+    "ai_count": 2857,
+    "clean_count": 64,
+    "ai_per_1k": 1.6863,
+    "clean_per_1k": 0.0262,
+    "G2": 4550.21,
+    "ratio": 64.31,
+    "rank": 4
+  },
+  {
+    "ngram": "\n  ",
+    "tokens": [
+      "\n  "
+    ],
+    "ai_count": 2682,
+    "clean_count": 159,
+    "ai_per_1k": 1.583,
+    "clean_per_1k": 0.0651,
+    "G2": 3728.0,
+    "ratio": 24.3,
+    "rank": 5
+  },
+  {
+    "ngram": "\n        ",
+    "tokens": [
+      "\n        "
+    ],
+    "ai_count": 1074,
+    "clean_count": 0,
+    "ai_per_1k": 0.6339,
+    "clean_per_1k": 0.0,
+    "G2": 1916.58,
+    "ratio": null,
+    "rank": 6
+  },
+  {
+    "ngram": "\n      ",
+    "tokens": [
+      "\n      "
+    ],
+    "ai_count": 1044,
+    "clean_count": 27,
+    "ai_per_1k": 0.6162,
+    "clean_per_1k": 0.0111,
+    "G2": 1639.45,
+    "ratio": 55.7,
+    "rank": 7
+  },
+  {
+    "ngram": "だけ",
+    "tokens": [
+      "だけ"
+    ],
+    "ai_count": 2874,
+    "clean_count": 1344,
+    "ai_per_1k": 1.6963,
+    "clean_per_1k": 0.5506,
+    "G2": 1266.21,
+    "ratio": 3.08,
+    "rank": 8
+  },
+  {
+    "ngram": "いっ",
+    "tokens": [
+      "いっ"
+    ],
+    "ai_count": 1324,
+    "clean_count": 573,
+    "ai_per_1k": 0.7815,
+    "clean_per_1k": 0.2348,
+    "G2": 642.66,
+    "ratio": 3.33,
+    "rank": 9
+  },
+  {
+    "ngram": "\n            ",
+    "tokens": [
+      "\n            "
+    ],
+    "ai_count": 354,
+    "clean_count": 0,
+    "ai_per_1k": 0.2089,
+    "clean_per_1k": 0.0,
+    "G2": 631.72,
+    "ratio": null,
+    "rank": 10
+  },
+  {
+    "ngram": "bash",
+    "tokens": [
+      "bash"
+    ],
+    "ai_count": 471,
+    "clean_count": 49,
+    "ai_per_1k": 0.278,
+    "clean_per_1k": 0.0201,
+    "G2": 567.47,
+    "ratio": 13.85,
+    "rank": 11
+  },
+  {
+    "ngram": "けれど",
+    "tokens": [
+      "けれど"
+    ],
+    "ai_count": 463,
+    "clean_count": 50,
+    "ai_per_1k": 0.2733,
+    "clean_per_1k": 0.0205,
+    "G2": 551.17,
+    "ratio": 13.34,
+    "rank": 12
+  },
+  {
+    "ngram": "\n          ",
+    "tokens": [
+      "\n          "
+    ],
+    "ai_count": 318,
+    "clean_count": 7,
+    "ai_per_1k": 0.1877,
+    "clean_per_1k": 0.0029,
+    "G2": 507.28,
+    "ratio": 65.45,
+    "rank": 13
+  },
+  {
+    "ngram": "少し",
+    "tokens": [
+      "少し"
+    ],
+    "ai_count": 897,
+    "clean_count": 362,
+    "ai_per_1k": 0.5294,
+    "clean_per_1k": 0.1483,
+    "G2": 471.78,
+    "ratio": 3.57,
+    "rank": 14
+  },
+  {
+    "ngram": "側",
+    "tokens": [
+      "側"
+    ],
+    "ai_count": 864,
+    "clean_count": 363,
+    "ai_per_1k": 0.51,
+    "clean_per_1k": 0.1487,
+    "G2": 434.24,
+    "ratio": 3.43,
+    "rank": 15
+  },
+  {
+    "ngram": "なか",
+    "tokens": [
+      "なか"
+    ],
+    "ai_count": 407,
+    "clean_count": 64,
+    "ai_per_1k": 0.2402,
+    "clean_per_1k": 0.0262,
+    "G2": 419.41,
+    "ratio": 9.16,
+    "rank": 16
+  },
+  {
+    "ngram": "ひと",
+    "tokens": [
+      "ひと"
+    ],
+    "ai_count": 587,
+    "clean_count": 175,
+    "ai_per_1k": 0.3465,
+    "clean_per_1k": 0.0717,
+    "G2": 410.8,
+    "ratio": 4.83,
+    "rank": 17
+  },
+  {
+    "ngram": "おき",
+    "tokens": [
+      "おき"
+    ],
+    "ai_count": 582,
+    "clean_count": 180,
+    "ai_per_1k": 0.3435,
+    "clean_per_1k": 0.0737,
+    "G2": 395.23,
+    "ratio": 4.66,
+    "rank": 18
+  },
+  {
+    "ngram": "整理",
+    "tokens": [
+      "整理"
+    ],
+    "ai_count": 502,
+    "clean_count": 144,
+    "ai_per_1k": 0.2963,
+    "clean_per_1k": 0.059,
+    "G2": 362.16,
+    "ratio": 5.02,
+    "rank": 19
+  },
+  {
+    "ngram": "\n\n  ",
+    "tokens": [
+      "\n\n  "
+    ],
+    "ai_count": 196,
+    "clean_count": 0,
+    "ai_per_1k": 0.1157,
+    "clean_per_1k": 0.0,
+    "G2": 349.77,
+    "ratio": null,
+    "rank": 20
+  },
+  {
+    "ngram": "地味",
+    "tokens": [
+      "地味"
+    ],
+    "ai_count": 256,
+    "clean_count": 19,
+    "ai_per_1k": 0.1511,
+    "clean_per_1k": 0.0078,
+    "G2": 338.67,
+    "ratio": 19.41,
+    "rank": 21
+  },
+  {
+    "ngram": "みる",
+    "tokens": [
+      "みる"
+    ],
+    "ai_count": 694,
+    "clean_count": 304,
+    "ai_per_1k": 0.4096,
+    "clean_per_1k": 0.1245,
+    "G2": 332.0,
+    "ratio": 3.29,
+    "rank": 22
+  },
+  {
+    "ngram": "\n\n    ",
+    "tokens": [
+      "\n\n    "
+    ],
+    "ai_count": 201,
+    "clean_count": 4,
+    "ai_per_1k": 0.1186,
+    "clean_per_1k": 0.0016,
+    "G2": 323.49,
+    "ratio": 72.39,
+    "rank": 23
+  },
+  {
+    "ngram": "—",
+    "tokens": [
+      "—"
+    ],
+    "ai_count": 405,
+    "clean_count": 103,
+    "ai_per_1k": 0.239,
+    "clean_per_1k": 0.0422,
+    "G2": 319.06,
+    "ratio": 5.66,
+    "rank": 24
+  },
+  {
+    "ngram": "流れ",
+    "tokens": [
+      "流れ"
+    ],
+    "ai_count": 522,
+    "clean_count": 198,
+    "ai_per_1k": 0.3081,
+    "clean_per_1k": 0.0811,
+    "G2": 293.32,
+    "ratio": 3.8,
+    "rank": 25
+  },
+  {
+    "ngram": "運用",
+    "tokens": [
+      "運用"
+    ],
+    "ai_count": 589,
+    "clean_count": 250,
+    "ai_per_1k": 0.3476,
+    "clean_per_1k": 0.1024,
+    "G2": 292.54,
+    "ratio": 3.39,
+    "rank": 26
+  },
+  {
+    "ngram": "一度",
+    "tokens": [
+      "一度"
+    ],
+    "ai_count": 450,
+    "clean_count": 149,
+    "ai_per_1k": 0.2656,
+    "clean_per_1k": 0.061,
+    "G2": 288.11,
+    "ratio": 4.35,
+    "rank": 27
+  },
+  {
+    "ngram": "const",
+    "tokens": [
+      "const"
+    ],
+    "ai_count": 468,
+    "clean_count": 162,
+    "ai_per_1k": 0.2762,
+    "clean_per_1k": 0.0664,
+    "G2": 287.7,
+    "ratio": 4.16,
+    "rank": 28
+  },
+  {
+    "ngram": "誰",
+    "tokens": [
+      "誰"
+    ],
+    "ai_count": 627,
+    "clean_count": 288,
+    "ai_per_1k": 0.3701,
+    "clean_per_1k": 0.118,
+    "G2": 282.73,
+    "ratio": 3.14,
+    "rank": 29
+  },
+  {
+    "ngram": "感覚",
+    "tokens": [
+      "感覚"
+    ],
+    "ai_count": 313,
+    "clean_count": 67,
+    "ai_per_1k": 0.1847,
+    "clean_per_1k": 0.0274,
+    "G2": 275.22,
+    "ratio": 6.73,
+    "rank": 30
+  },
+  {
+    "ngram": "たぶん",
+    "tokens": [
+      "たぶん"
+    ],
+    "ai_count": 280,
+    "clean_count": 49,
+    "ai_per_1k": 0.1653,
+    "clean_per_1k": 0.0201,
+    "G2": 274.4,
+    "ratio": 8.23,
+    "rank": 31
+  },
+  {
+    "ngram": "やすい",
+    "tokens": [
+      "やすい"
+    ],
+    "ai_count": 593,
+    "clean_count": 270,
+    "ai_per_1k": 0.35,
+    "clean_per_1k": 0.1106,
+    "G2": 270.41,
+    "ratio": 3.16,
+    "rank": 32
+  },
+  {
+    "ngram": "とっ",
+    "tokens": [
+      "とっ"
+    ],
+    "ai_count": 564,
+    "clean_count": 247,
+    "ai_per_1k": 0.3329,
+    "clean_per_1k": 0.1012,
+    "G2": 269.88,
+    "ratio": 3.29,
+    "rank": 33
+  },
+  {
+    "ngram": "動かし",
+    "tokens": [
+      "動かし"
+    ],
+    "ai_count": 302,
+    "clean_count": 66,
+    "ai_per_1k": 0.1782,
+    "clean_per_1k": 0.027,
+    "G2": 262.3,
+    "ratio": 6.59,
+    "rank": 34
+  },
+  {
+    "ngram": "python",
+    "tokens": [
+      "python"
+    ],
+    "ai_count": 376,
+    "clean_count": 113,
+    "ai_per_1k": 0.2219,
+    "clean_per_1k": 0.0463,
+    "G2": 261.43,
+    "ratio": 4.79,
+    "rank": 35
+  },
+  {
+    "ngram": "あの",
+    "tokens": [
+      "あの"
+    ],
+    "ai_count": 453,
+    "clean_count": 171,
+    "ai_per_1k": 0.2674,
+    "clean_per_1k": 0.0701,
+    "G2": 255.81,
+    "ratio": 3.82,
+    "rank": 36
+  },
+  {
+    "ngram": "うえ",
+    "tokens": [
+      "うえ"
+    ],
+    "ai_count": 295,
+    "clean_count": 69,
+    "ai_per_1k": 0.1741,
+    "clean_per_1k": 0.0283,
+    "G2": 245.68,
+    "ratio": 6.16,
+    "rank": 37
+  },
+  {
+    "ngram": "そのまま",
+    "tokens": [
+      "そのまま"
+    ],
+    "ai_count": 461,
+    "clean_count": 185,
+    "ai_per_1k": 0.2721,
+    "clean_per_1k": 0.0758,
+    "G2": 243.97,
+    "ratio": 3.59,
+    "rank": 38
+  },
+  {
+    "ngram": "いくつ",
+    "tokens": [
+      "いくつ"
+    ],
+    "ai_count": 429,
+    "clean_count": 167,
+    "ai_per_1k": 0.2532,
+    "clean_per_1k": 0.0684,
+    "G2": 234.61,
+    "ratio": 3.7,
+    "rank": 39
+  },
+  {
+    "ngram": "本番",
+    "tokens": [
+      "本番"
+    ],
+    "ai_count": 229,
+    "clean_count": 38,
+    "ai_per_1k": 0.1352,
+    "clean_per_1k": 0.0156,
+    "G2": 230.23,
+    "ratio": 8.68,
+    "rank": 40
+  },
+  {
+    "ngram": "import",
+    "tokens": [
+      "import"
+    ],
+    "ai_count": 501,
+    "clean_count": 229,
+    "ai_per_1k": 0.2957,
+    "clean_per_1k": 0.0938,
+    "G2": 227.33,
+    "ratio": 3.15,
+    "rank": 41
+  },
+  {
+    "ngram": "見え",
+    "tokens": [
+      "見え"
+    ],
+    "ai_count": 381,
+    "clean_count": 142,
+    "ai_per_1k": 0.2249,
+    "clean_per_1k": 0.0582,
+    "G2": 217.97,
+    "ratio": 3.87,
+    "rank": 42
+  },
+  {
+    "ngram": "たとえば",
+    "tokens": [
+      "たとえば"
+    ],
+    "ai_count": 347,
+    "clean_count": 119,
+    "ai_per_1k": 0.2048,
+    "clean_per_1k": 0.0488,
+    "G2": 215.18,
+    "ratio": 4.2,
+    "rank": 43
+  },
+  {
+    "ngram": "ブラウザ",
+    "tokens": [
+      "ブラウザ"
+    ],
+    "ai_count": 317,
+    "clean_count": 100,
+    "ai_per_1k": 0.1871,
+    "clean_per_1k": 0.041,
+    "G2": 211.71,
+    "ratio": 4.57,
+    "rank": 44
+  },
+  {
+    "ngram": "がち",
+    "tokens": [
+      "がち"
+    ],
+    "ai_count": 272,
+    "clean_count": 71,
+    "ai_per_1k": 0.1605,
+    "clean_per_1k": 0.0291,
+    "G2": 210.42,
+    "ratio": 5.52,
+    "rank": 45
+  },
+  {
+    "ngram": "瞬間",
+    "tokens": [
+      "瞬間"
+    ],
+    "ai_count": 332,
+    "clean_count": 116,
+    "ai_per_1k": 0.196,
+    "clean_per_1k": 0.0475,
+    "G2": 202.31,
+    "ratio": 4.12,
+    "rank": 46
+  },
+  {
+    "ngram": "仕組み",
+    "tokens": [
+      "仕組み"
+    ],
+    "ai_count": 435,
+    "clean_count": 195,
+    "ai_per_1k": 0.2567,
+    "clean_per_1k": 0.0799,
+    "G2": 202.28,
+    "ratio": 3.21,
+    "rank": 47
+  },
+  {
+    "ngram": "return",
+    "tokens": [
+      "return"
+    ],
+    "ai_count": 330,
+    "clean_count": 120,
+    "ai_per_1k": 0.1948,
+    "clean_per_1k": 0.0492,
+    "G2": 193.49,
+    "ratio": 3.96,
+    "rank": 48
+  },
+  {
+    "ngram": "役割",
+    "tokens": [
+      "役割"
+    ],
+    "ai_count": 312,
+    "clean_count": 108,
+    "ai_per_1k": 0.1841,
+    "clean_per_1k": 0.0442,
+    "G2": 191.8,
+    "ratio": 4.16,
+    "rank": 49
+  },
+  {
+    "ngram": "どこ",
+    "tokens": [
+      "どこ"
+    ],
+    "ai_count": 434,
+    "clean_count": 206,
+    "ai_per_1k": 0.2562,
+    "clean_per_1k": 0.0844,
+    "G2": 187.49,
+    "ratio": 3.04,
+    "rank": 50
+  },
+  {
+    "ngram": "挙動",
+    "tokens": [
+      "挙動"
+    ],
+    "ai_count": 296,
+    "clean_count": 102,
+    "ai_per_1k": 0.1747,
+    "clean_per_1k": 0.0418,
+    "G2": 182.73,
+    "ratio": 4.18,
+    "rank": 51
+  },
+  {
+    "ngram": "動く",
+    "tokens": [
+      "動く"
+    ],
+    "ai_count": 249,
+    "clean_count": 70,
+    "ai_per_1k": 0.147,
+    "clean_per_1k": 0.0287,
+    "G2": 182.44,
+    "ratio": 5.12,
+    "rank": 52
+  },
+  {
+    "ngram": "---",
+    "tokens": [
+      "---"
+    ],
+    "ai_count": 417,
+    "clean_count": 198,
+    "ai_per_1k": 0.2461,
+    "clean_per_1k": 0.0811,
+    "G2": 180.06,
+    "ratio": 3.03,
+    "rank": 53
+  },
+  {
+    "ngram": "self",
+    "tokens": [
+      "self"
+    ],
+    "ai_count": 133,
+    "clean_count": 9,
+    "ai_per_1k": 0.0785,
+    "clean_per_1k": 0.0037,
+    "G2": 179.76,
+    "ratio": 21.29,
+    "rank": 54
+  },
+  {
+    "ngram": "あたり",
+    "tokens": [
+      "あたり"
+    ],
+    "ai_count": 362,
+    "clean_count": 154,
+    "ai_per_1k": 0.2137,
+    "clean_per_1k": 0.0631,
+    "G2": 179.32,
+    "ratio": 3.39,
+    "rank": 55
+  },
+  {
+    "ngram": "単なる",
+    "tokens": [
+      "単なる"
+    ],
+    "ai_count": 159,
+    "clean_count": 21,
+    "ai_per_1k": 0.0938,
+    "clean_per_1k": 0.0086,
+    "G2": 176.2,
+    "ratio": 10.91,
+    "rank": 56
+  },
+  {
+    "ngram": "十分",
+    "tokens": [
+      "十分"
+    ],
+    "ai_count": 254,
+    "clean_count": 77,
+    "ai_per_1k": 0.1499,
+    "clean_per_1k": 0.0315,
+    "G2": 175.36,
+    "ratio": 4.75,
+    "rank": 57
+  },
+  {
+    "ngram": "語る",
+    "tokens": [
+      "語る"
+    ],
+    "ai_count": 172,
+    "clean_count": 28,
+    "ai_per_1k": 0.1015,
+    "clean_per_1k": 0.0115,
+    "G2": 174.47,
+    "ratio": 8.85,
+    "rank": 58
+  },
+  {
+    "ngram": "小さな",
+    "tokens": [
+      "小さな"
+    ],
+    "ai_count": 260,
+    "clean_count": 83,
+    "ai_per_1k": 0.1535,
+    "clean_per_1k": 0.034,
+    "G2": 171.89,
+    "ratio": 4.51,
+    "rank": 59
+  },
+  {
+    "ngram": "触っ",
+    "tokens": [
+      "触っ"
+    ],
+    "ai_count": 149,
+    "clean_count": 18,
+    "ai_per_1k": 0.0879,
+    "clean_per_1k": 0.0074,
+    "G2": 170.69,
+    "ratio": 11.93,
+    "rank": 60
+  },
+  {
+    "ngram": "効い",
+    "tokens": [
+      "効い"
+    ],
+    "ai_count": 119,
+    "clean_count": 6,
+    "ai_per_1k": 0.0702,
+    "clean_per_1k": 0.0025,
+    "G2": 170.54,
+    "ratio": 28.57,
+    "rank": 61
+  },
+  {
+    "ngram": "ほう",
+    "tokens": [
+      "ほう"
+    ],
+    "ai_count": 384,
+    "clean_count": 179,
+    "ai_per_1k": 0.2266,
+    "clean_per_1k": 0.0733,
+    "G2": 169.89,
+    "ratio": 3.09,
+    "rank": 62
+  },
+  {
+    "ngram": "必ず",
+    "tokens": [
+      "必ず"
+    ],
+    "ai_count": 284,
+    "clean_count": 103,
+    "ai_per_1k": 0.1676,
+    "clean_per_1k": 0.0422,
+    "G2": 166.95,
+    "ratio": 3.97,
+    "rank": 63
+  },
+  {
+    "ngram": "一気",
+    "tokens": [
+      "一気"
+    ],
+    "ai_count": 157,
+    "clean_count": 23,
+    "ai_per_1k": 0.0927,
+    "clean_per_1k": 0.0094,
+    "G2": 166.85,
+    "ratio": 9.83,
+    "rank": 64
+  },
+  {
+    "ngram": "違う",
+    "tokens": [
+      "違う"
+    ],
+    "ai_count": 340,
+    "clean_count": 146,
+    "ai_per_1k": 0.2007,
+    "clean_per_1k": 0.0598,
+    "G2": 166.57,
+    "ratio": 3.35,
+    "rank": 65
+  },
+  {
+    "ngram": "\n                ",
+    "tokens": [
+      "\n                "
+    ],
+    "ai_count": 93,
+    "clean_count": 0,
+    "ai_per_1k": 0.0549,
+    "clean_per_1k": 0.0,
+    "G2": 165.96,
+    "ratio": null,
+    "rank": 66
+  },
+  {
+    "ngram": "たび",
+    "tokens": [
+      "たび"
+    ],
+    "ai_count": 191,
+    "clean_count": 43,
+    "ai_per_1k": 0.1127,
+    "clean_per_1k": 0.0176,
+    "G2": 162.92,
+    "ratio": 6.4,
+    "rank": 67
+  },
+  {
+    "ngram": "場面",
+    "tokens": [
+      "場面"
+    ],
+    "ai_count": 282,
+    "clean_count": 106,
+    "ai_per_1k": 0.1664,
+    "clean_per_1k": 0.0434,
+    "G2": 159.94,
+    "ratio": 3.83,
+    "rank": 68
+  },
+  {
+    "ngram": "長く",
+    "tokens": [
+      "長く"
+    ],
+    "ai_count": 227,
+    "clean_count": 68,
+    "ai_per_1k": 0.134,
+    "clean_per_1k": 0.0279,
+    "G2": 158.25,
+    "ratio": 4.81,
+    "rank": 69
+  },
+  {
+    "ngram": "def",
+    "tokens": [
+      "def"
+    ],
+    "ai_count": 161,
+    "clean_count": 29,
+    "ai_per_1k": 0.095,
+    "clean_per_1k": 0.0119,
+    "G2": 155.53,
+    "ratio": 8.0,
+    "rank": 70
+  },
+  {
+    "ngram": "派手",
+    "tokens": [
+      "派手"
+    ],
+    "ai_count": 124,
+    "clean_count": 12,
+    "ai_per_1k": 0.0732,
+    "clean_per_1k": 0.0049,
+    "G2": 152.76,
+    "ratio": 14.89,
+    "rank": 71
+  },
+  {
+    "ngram": "if",
+    "tokens": [
+      "if"
+    ],
+    "ai_count": 260,
+    "clean_count": 95,
+    "ai_per_1k": 0.1535,
+    "clean_per_1k": 0.0389,
+    "G2": 151.73,
+    "ratio": 3.94,
+    "rank": 72
+  },
+  {
+    "ngram": "現場",
+    "tokens": [
+      "現場"
+    ],
+    "ai_count": 246,
+    "clean_count": 87,
+    "ai_per_1k": 0.1452,
+    "clean_per_1k": 0.0356,
+    "G2": 148.19,
+    "ratio": 4.07,
+    "rank": 73
+  },
+  {
+    "ngram": "string",
+    "tokens": [
+      "string"
+    ],
+    "ai_count": 163,
+    "clean_count": 33,
+    "ai_per_1k": 0.0962,
+    "clean_per_1k": 0.0135,
+    "G2": 147.98,
+    "ratio": 7.12,
+    "rank": 74
+  },
+  {
+    "ngram": "ビルド",
+    "tokens": [
+      "ビルド"
+    ],
+    "ai_count": 335,
+    "clean_count": 157,
+    "ai_per_1k": 0.1977,
+    "clean_per_1k": 0.0643,
+    "G2": 147.17,
+    "ratio": 3.07,
+    "rank": 75
+  },
+  {
+    "ngram": "PR",
+    "tokens": [
+      "PR"
+    ],
+    "ai_count": 181,
+    "clean_count": 44,
+    "ai_per_1k": 0.1068,
+    "clean_per_1k": 0.018,
+    "G2": 147.01,
+    "ratio": 5.93,
+    "rank": 76
+  },
+  {
+    "ngram": "CI",
+    "tokens": [
+      "CI"
+    ],
+    "ai_count": 217,
+    "clean_count": 69,
+    "ai_per_1k": 0.1281,
+    "clean_per_1k": 0.0283,
+    "G2": 143.95,
+    "ratio": 4.53,
+    "rank": 77
+  },
+  {
+    "ngram": "\n   ",
+    "tokens": [
+      "\n   "
+    ],
+    "ai_count": 103,
+    "clean_count": 6,
+    "ai_per_1k": 0.0608,
+    "clean_per_1k": 0.0025,
+    "G2": 143.67,
+    "ratio": 24.73,
+    "rank": 78
+  },
+  {
+    "ngram": "欠かせ",
+    "tokens": [
+      "欠かせ"
+    ],
+    "ai_count": 94,
+    "clean_count": 4,
+    "ai_per_1k": 0.0555,
+    "clean_per_1k": 0.0016,
+    "G2": 138.54,
+    "ratio": 33.86,
+    "rank": 79
+  },
+  {
+    "ngram": "現実的",
+    "tokens": [
+      "現実的"
+    ],
+    "ai_count": 110,
+    "clean_count": 10,
+    "ai_per_1k": 0.0649,
+    "clean_per_1k": 0.0041,
+    "G2": 138.0,
+    "ratio": 15.85,
+    "rank": 80
+  },
+  {
+    "ngram": "ちゃんと",
+    "tokens": [
+      "ちゃんと"
+    ],
+    "ai_count": 226,
+    "clean_count": 80,
+    "ai_per_1k": 0.1334,
+    "clean_per_1k": 0.0328,
+    "G2": 136.02,
+    "ratio": 4.07,
+    "rank": 81
+  },
+  {
+    "ngram": "積み重ね",
+    "tokens": [
+      "積み重ね"
+    ],
+    "ai_count": 101,
+    "clean_count": 7,
+    "ai_per_1k": 0.0596,
+    "clean_per_1k": 0.0029,
+    "G2": 135.77,
+    "ratio": 20.79,
+    "rank": 82
+  },
+  {
+    "ngram": "クラスタ",
+    "tokens": [
+      "クラスタ"
+    ],
+    "ai_count": 221,
+    "clean_count": 77,
+    "ai_per_1k": 0.1304,
+    "clean_per_1k": 0.0315,
+    "G2": 135.03,
+    "ratio": 4.13,
+    "rank": 83
+  },
+  {
+    "ngram": "確か",
+    "tokens": [
+      "確か"
+    ],
+    "ai_count": 190,
+    "clean_count": 56,
+    "ai_per_1k": 0.1121,
+    "clean_per_1k": 0.0229,
+    "G2": 134.19,
+    "ratio": 4.89,
+    "rank": 84
+  },
+  {
+    "ngram": "独特",
+    "tokens": [
+      "独特"
+    ],
+    "ai_count": 137,
+    "clean_count": 24,
+    "ai_per_1k": 0.0809,
+    "clean_per_1k": 0.0098,
+    "G2": 134.19,
+    "ratio": 8.22,
+    "rank": 85
+  },
+  {
+    "ngram": "並べ",
+    "tokens": [
+      "並べ"
+    ],
+    "ai_count": 154,
+    "clean_count": 34,
+    "ai_per_1k": 0.0909,
+    "clean_per_1k": 0.0139,
+    "G2": 132.94,
+    "ratio": 6.53,
+    "rank": 86
+  },
+  {
+    "ngram": "サーバー",
+    "tokens": [
+      "サーバー"
+    ],
+    "ai_count": 242,
+    "clean_count": 94,
+    "ai_per_1k": 0.1428,
+    "clean_per_1k": 0.0385,
+    "G2": 132.65,
+    "ratio": 3.71,
+    "rank": 87
+  },
+  {
+    "ngram": "手元",
+    "tokens": [
+      "手元"
+    ],
+    "ai_count": 152,
+    "clean_count": 33,
+    "ai_per_1k": 0.0897,
+    "clean_per_1k": 0.0135,
+    "G2": 132.54,
+    "ratio": 6.64,
+    "rank": 88
+  },
+  {
+    "ngram": "変わる",
+    "tokens": [
+      "変わる"
+    ],
+    "ai_count": 195,
+    "clean_count": 61,
+    "ai_per_1k": 0.1151,
+    "clean_per_1k": 0.025,
+    "G2": 131.16,
+    "ratio": 4.61,
+    "rank": 89
+  },
+  {
+    "ngram": "キャリア",
+    "tokens": [
+      "キャリア"
+    ],
+    "ai_count": 171,
+    "clean_count": 46,
+    "ai_per_1k": 0.1009,
+    "clean_per_1k": 0.0188,
+    "G2": 129.46,
+    "ratio": 5.36,
+    "rank": 90
+  },
+  {
+    "ngram": "扱う",
+    "tokens": [
+      "扱う"
+    ],
+    "ai_count": 217,
+    "clean_count": 78,
+    "ai_per_1k": 0.1281,
+    "clean_per_1k": 0.032,
+    "G2": 128.69,
+    "ratio": 4.01,
+    "rank": 91
+  },
+  {
+    "ngram": "残っ",
+    "tokens": [
+      "残っ"
+    ],
+    "ai_count": 227,
+    "clean_count": 87,
+    "ai_per_1k": 0.134,
+    "clean_per_1k": 0.0356,
+    "G2": 126.19,
+    "ratio": 3.76,
+    "rank": 92
+  },
+  {
+    "ngram": "new",
+    "tokens": [
+      "new"
+    ],
+    "ai_count": 234,
+    "clean_count": 96,
+    "ai_per_1k": 0.1381,
+    "clean_per_1k": 0.0393,
+    "G2": 120.84,
+    "ratio": 3.51,
+    "rank": 93
+  },
+  {
+    "ngram": "問い",
+    "tokens": [
+      "問い"
+    ],
+    "ai_count": 108,
+    "clean_count": 14,
+    "ai_per_1k": 0.0637,
+    "clean_per_1k": 0.0057,
+    "G2": 120.54,
+    "ratio": 11.11,
+    "rank": 94
+  },
+  {
+    "ngram": "ずつ",
+    "tokens": [
+      "ずつ"
+    ],
+    "ai_count": 231,
+    "clean_count": 94,
+    "ai_per_1k": 0.1363,
+    "clean_per_1k": 0.0385,
+    "G2": 120.38,
+    "ratio": 3.54,
+    "rank": 95
+  },
+  {
+    "ngram": "使い方",
+    "tokens": [
+      "使い方"
+    ],
+    "ai_count": 225,
+    "clean_count": 90,
+    "ai_per_1k": 0.1328,
+    "clean_per_1k": 0.0369,
+    "G2": 119.5,
+    "ratio": 3.6,
+    "rank": 96
+  },
+  {
+    "ngram": "むしろ",
+    "tokens": [
+      "むしろ"
+    ],
+    "ai_count": 202,
+    "clean_count": 73,
+    "ai_per_1k": 0.1192,
+    "clean_per_1k": 0.0299,
+    "G2": 119.16,
+    "ratio": 3.99,
+    "rank": 97
+  },
+  {
+    "ngram": "変わっ",
+    "tokens": [
+      "変わっ"
+    ],
+    "ai_count": 242,
+    "clean_count": 104,
+    "ai_per_1k": 0.1428,
+    "clean_per_1k": 0.0426,
+    "G2": 118.45,
+    "ratio": 3.35,
+    "rank": 98
+  },
+  {
+    "ngram": "扱い",
+    "tokens": [
+      "扱い"
+    ],
+    "ai_count": 184,
+    "clean_count": 61,
+    "ai_per_1k": 0.1086,
+    "clean_per_1k": 0.025,
+    "G2": 117.67,
+    "ratio": 4.35,
+    "rank": 99
+  },
+  {
+    "ngram": "何度",
+    "tokens": [
+      "何度"
+    ],
+    "ai_count": 250,
+    "clean_count": 111,
+    "ai_per_1k": 0.1476,
+    "clean_per_1k": 0.0455,
+    "G2": 117.64,
+    "ratio": 3.24,
+    "rank": 100
+  },
+  {
+    "ngram": "明示",
+    "tokens": [
+      "明示"
+    ],
+    "ai_count": 166,
+    "clean_count": 50,
+    "ai_per_1k": 0.098,
+    "clean_per_1k": 0.0205,
+    "G2": 115.21,
+    "ratio": 4.78,
+    "rank": 101
+  },
+  {
+    "ngram": "おすすめ",
+    "tokens": [
+      "おすすめ"
+    ],
+    "ai_count": 203,
+    "clean_count": 78,
+    "ai_per_1k": 0.1198,
+    "clean_per_1k": 0.032,
+    "G2": 112.55,
+    "ratio": 3.75,
+    "rank": 102
+  },
+  {
+    "ngram": "あいだ",
+    "tokens": [
+      "あいだ"
+    ],
+    "ai_count": 84,
+    "clean_count": 6,
+    "ai_per_1k": 0.0496,
+    "clean_per_1k": 0.0025,
+    "G2": 112.14,
+    "ratio": 20.17,
+    "rank": 103
+  },
+  {
+    "ngram": "語ら",
+    "tokens": [
+      "語ら"
+    ],
+    "ai_count": 110,
+    "clean_count": 18,
+    "ai_per_1k": 0.0649,
+    "clean_per_1k": 0.0074,
+    "G2": 111.32,
+    "ratio": 8.8,
+    "rank": 104
+  },
+  {
+    "ngram": "いわゆる",
+    "tokens": [
+      "いわゆる"
+    ],
+    "ai_count": 192,
+    "clean_count": 71,
+    "ai_per_1k": 0.1133,
+    "clean_per_1k": 0.0291,
+    "G2": 110.71,
+    "ratio": 3.9,
+    "rank": 105
+  },
+  {
+    "ngram": "眺め",
+    "tokens": [
+      "眺め"
+    ],
+    "ai_count": 139,
+    "clean_count": 35,
+    "ai_per_1k": 0.082,
+    "clean_per_1k": 0.0143,
+    "G2": 110.26,
+    "ratio": 5.72,
+    "rank": 106
+  },
+  {
+    "ngram": "静か",
+    "tokens": [
+      "静か"
+    ],
+    "ai_count": 134,
+    "clean_count": 32,
+    "ai_per_1k": 0.0791,
+    "clean_per_1k": 0.0131,
+    "G2": 110.11,
+    "ratio": 6.03,
+    "rank": 107
+  },
+  {
+    "ngram": "残し",
+    "tokens": [
+      "残し"
+    ],
+    "ai_count": 231,
+    "clean_count": 103,
+    "ai_per_1k": 0.1363,
+    "clean_per_1k": 0.0422,
+    "G2": 108.13,
+    "ratio": 3.23,
+    "rank": 108
+  },
+  {
+    "ngram": "決して",
+    "tokens": [
+      "決して"
+    ],
+    "ai_count": 132,
+    "clean_count": 32,
+    "ai_per_1k": 0.0779,
+    "clean_per_1k": 0.0131,
+    "G2": 107.41,
+    "ratio": 5.94,
+    "rank": 109
+  },
+  {
+    "ngram": "社内",
+    "tokens": [
+      "社内"
+    ],
+    "ai_count": 171,
+    "clean_count": 58,
+    "ai_per_1k": 0.1009,
+    "clean_per_1k": 0.0238,
+    "G2": 107.12,
+    "ratio": 4.25,
+    "rank": 110
+  },
+  {
+    "ngram": "どれ",
+    "tokens": [
+      "どれ"
+    ],
+    "ai_count": 237,
+    "clean_count": 109,
+    "ai_per_1k": 0.1399,
+    "clean_per_1k": 0.0447,
+    "G2": 106.69,
+    "ratio": 3.13,
+    "rank": 111
+  },
+  {
+    "ngram": "両方",
+    "tokens": [
+      "両方"
+    ],
+    "ai_count": 187,
+    "clean_count": 70,
+    "ai_per_1k": 0.1104,
+    "clean_per_1k": 0.0287,
+    "G2": 106.51,
+    "ratio": 3.85,
+    "rank": 112
+  },
+  {
+    "ngram": "支え",
+    "tokens": [
+      "支え"
+    ],
+    "ai_count": 119,
+    "clean_count": 25,
+    "ai_per_1k": 0.0702,
+    "clean_per_1k": 0.0102,
+    "G2": 105.79,
+    "ratio": 6.86,
+    "rank": 113
+  },
+  {
+    "ngram": "向い",
+    "tokens": [
+      "向い"
+    ],
+    "ai_count": 115,
+    "clean_count": 24,
+    "ai_per_1k": 0.0679,
+    "clean_per_1k": 0.0098,
+    "G2": 102.62,
+    "ratio": 6.9,
+    "rank": 114
+  },
+  {
+    "ngram": "動い",
+    "tokens": [
+      "動い"
+    ],
+    "ai_count": 156,
+    "clean_count": 51,
+    "ai_per_1k": 0.0921,
+    "clean_per_1k": 0.0209,
+    "G2": 101.01,
+    "ratio": 4.41,
+    "rank": 115
+  },
+  {
+    "ngram": "楽",
+    "tokens": [
+      "楽"
+    ],
+    "ai_count": 160,
+    "clean_count": 54,
+    "ai_per_1k": 0.0944,
+    "clean_per_1k": 0.0221,
+    "G2": 100.69,
+    "ratio": 4.27,
+    "rank": 116
+  },
+  {
+    "ngram": "差分",
+    "tokens": [
+      "差分"
+    ],
+    "ai_count": 110,
+    "clean_count": 22,
+    "ai_per_1k": 0.0649,
+    "clean_per_1k": 0.009,
+    "G2": 100.54,
+    "ratio": 7.2,
+    "rank": 117
+  },
+  {
+    "ngram": "渡す",
+    "tokens": [
+      "渡す"
+    ],
+    "ai_count": 161,
+    "clean_count": 55,
+    "ai_per_1k": 0.095,
+    "clean_per_1k": 0.0225,
+    "G2": 100.2,
+    "ratio": 4.22,
+    "rank": 118
+  },
+  {
+    "ngram": "おわり",
+    "tokens": [
+      "おわり"
+    ],
+    "ai_count": 148,
+    "clean_count": 46,
+    "ai_per_1k": 0.0874,
+    "clean_per_1k": 0.0188,
+    "G2": 100.09,
+    "ratio": 4.64,
+    "rank": 119
+  },
+  {
+    "ngram": "使い分け",
+    "tokens": [
+      "使い分け"
+    ],
+    "ai_count": 90,
+    "clean_count": 12,
+    "ai_per_1k": 0.0531,
+    "clean_per_1k": 0.0049,
+    "G2": 99.37,
+    "ratio": 10.8,
+    "rank": 120
+  },
+  {
+    "ngram": "空気",
+    "tokens": [
+      "空気"
+    ],
+    "ai_count": 155,
+    "clean_count": 52,
+    "ai_per_1k": 0.0915,
+    "clean_per_1k": 0.0213,
+    "G2": 98.07,
+    "ratio": 4.29,
+    "rank": 121
+  },
+  {
+    "ngram": "ぐっ",
+    "tokens": [
+      "ぐっ"
+    ],
+    "ai_count": 70,
+    "clean_count": 4,
+    "ai_per_1k": 0.0413,
+    "clean_per_1k": 0.0016,
+    "G2": 98.01,
+    "ratio": 25.21,
+    "rank": 122
+  },
+  {
+    "ngram": "土台",
+    "tokens": [
+      "土台"
+    ],
+    "ai_count": 80,
+    "clean_count": 8,
+    "ai_per_1k": 0.0472,
+    "clean_per_1k": 0.0033,
+    "G2": 97.58,
+    "ratio": 14.41,
+    "rank": 123
+  },
+  {
+    "ngram": "素直",
+    "tokens": [
+      "素直"
+    ],
+    "ai_count": 90,
+    "clean_count": 13,
+    "ai_per_1k": 0.0531,
+    "clean_per_1k": 0.0053,
+    "G2": 96.21,
+    "ratio": 9.97,
+    "rank": 124
+  },
+  {
+    "ngram": "ダッシュボード",
+    "tokens": [
+      "ダッシュボード"
+    ],
+    "ai_count": 112,
+    "clean_count": 25,
+    "ai_per_1k": 0.0661,
+    "clean_per_1k": 0.0102,
+    "G2": 96.04,
+    "ratio": 6.45,
+    "rank": 125
+  },
+  {
+    "ngram": "キー",
+    "tokens": [
+      "キー"
+    ],
+    "ai_count": 218,
+    "clean_count": 103,
+    "ai_per_1k": 0.1287,
+    "clean_per_1k": 0.0422,
+    "G2": 94.75,
+    "ratio": 3.05,
+    "rank": 126
+  },
+  {
+    "ngram": "印象",
+    "tokens": [
+      "印象"
+    ],
+    "ai_count": 170,
+    "clean_count": 65,
+    "ai_per_1k": 0.1003,
+    "clean_per_1k": 0.0266,
+    "G2": 94.74,
+    "ratio": 3.77,
+    "rank": 127
+  },
+  {
+    "ngram": "通知",
+    "tokens": [
+      "通知"
+    ],
+    "ai_count": 202,
+    "clean_count": 90,
+    "ai_per_1k": 0.1192,
+    "clean_per_1k": 0.0369,
+    "G2": 94.65,
+    "ratio": 3.23,
+    "rank": 128
+  },
+  {
+    "ngram": "丁寧",
+    "tokens": [
+      "丁寧"
+    ],
+    "ai_count": 125,
+    "clean_count": 34,
+    "ai_per_1k": 0.0738,
+    "clean_per_1k": 0.0139,
+    "G2": 93.87,
+    "ratio": 5.3,
+    "rank": 129
+  },
+  {
+    "ngram": "ほしい",
+    "tokens": [
+      "ほしい"
+    ],
+    "ai_count": 211,
+    "clean_count": 99,
+    "ai_per_1k": 0.1245,
+    "clean_per_1k": 0.0406,
+    "G2": 92.56,
+    "ratio": 3.07,
+    "rank": 130
+  },
+  {
+    "ngram": "組み立て",
+    "tokens": [
+      "組み立て"
+    ],
+    "ai_count": 85,
+    "clean_count": 12,
+    "ai_per_1k": 0.0502,
+    "clean_per_1k": 0.0049,
+    "G2": 91.73,
+    "ratio": 10.2,
+    "rank": 131
+  },
+  {
+    "ngram": "コミット",
+    "tokens": [
+      "コミット"
+    ],
+    "ai_count": 206,
+    "clean_count": 96,
+    "ai_per_1k": 0.1216,
+    "clean_per_1k": 0.0393,
+    "G2": 91.17,
+    "ratio": 3.09,
+    "rank": 132
+  },
+  {
+    "ngram": "規模",
+    "tokens": [
+      "規模"
+    ],
+    "ai_count": 145,
+    "clean_count": 49,
+    "ai_per_1k": 0.0856,
+    "clean_per_1k": 0.0201,
+    "G2": 91.14,
+    "ratio": 4.26,
+    "rank": 133
+  },
+  {
+    "ngram": "発想",
+    "tokens": [
+      "発想"
+    ],
+    "ai_count": 110,
+    "clean_count": 26,
+    "ai_per_1k": 0.0649,
+    "clean_per_1k": 0.0107,
+    "G2": 91.0,
+    "ratio": 6.1,
+    "rank": 134
+  },
+  {
+    "ngram": "動かす",
+    "tokens": [
+      "動かす"
+    ],
+    "ai_count": 174,
+    "clean_count": 71,
+    "ai_per_1k": 0.1027,
+    "clean_per_1k": 0.0291,
+    "G2": 90.4,
+    "ratio": 3.53,
+    "rank": 135
+  },
+  {
+    "ngram": "str",
+    "tokens": [
+      "str"
+    ],
+    "ai_count": 99,
+    "clean_count": 20,
+    "ai_per_1k": 0.0584,
+    "clean_per_1k": 0.0082,
+    "G2": 89.99,
+    "ratio": 7.13,
+    "rank": 136
+  },
+  {
+    "ngram": "直す",
+    "tokens": [
+      "直す"
+    ],
+    "ai_count": 75,
+    "clean_count": 8,
+    "ai_per_1k": 0.0443,
+    "clean_per_1k": 0.0033,
+    "G2": 89.64,
+    "ratio": 13.51,
+    "rank": 137
+  },
+  {
+    "ngram": "土地",
+    "tokens": [
+      "土地"
+    ],
+    "ai_count": 109,
+    "clean_count": 26,
+    "ai_per_1k": 0.0643,
+    "clean_per_1k": 0.0107,
+    "G2": 89.64,
+    "ratio": 6.04,
+    "rank": 138
+  },
+  {
+    "ngram": "まわり",
+    "tokens": [
+      "まわり"
+    ],
+    "ai_count": 89,
+    "clean_count": 15,
+    "ai_per_1k": 0.0525,
+    "clean_per_1k": 0.0061,
+    "G2": 88.82,
+    "ratio": 8.55,
+    "rank": 139
+  },
+  {
+    "ngram": "済む",
+    "tokens": [
+      "済む"
+    ],
+    "ai_count": 83,
+    "clean_count": 12,
+    "ai_per_1k": 0.049,
+    "clean_per_1k": 0.0049,
+    "G2": 88.7,
+    "ratio": 9.96,
+    "rank": 140
+  },
+  {
+    "ngram": "切り替え",
+    "tokens": [
+      "切り替え"
+    ],
+    "ai_count": 159,
+    "clean_count": 61,
+    "ai_per_1k": 0.0938,
+    "clean_per_1k": 0.025,
+    "G2": 88.3,
+    "ratio": 3.76,
+    "rank": 141
+  },
+  {
+    "ngram": "姿勢",
+    "tokens": [
+      "姿勢"
+    ],
+    "ai_count": 134,
+    "clean_count": 43,
+    "ai_per_1k": 0.0791,
+    "clean_per_1k": 0.0176,
+    "G2": 88.19,
+    "ratio": 4.49,
+    "rank": 142
+  },
+  {
+    "ngram": "ts",
+    "tokens": [
+      "ts"
+    ],
+    "ai_count": 138,
+    "clean_count": 46,
+    "ai_per_1k": 0.0815,
+    "clean_per_1k": 0.0188,
+    "G2": 87.82,
+    "ratio": 4.32,
+    "rank": 143
+  },
+  {
+    "ngram": "とおり",
+    "tokens": [
+      "とおり"
+    ],
+    "ai_count": 114,
+    "clean_count": 30,
+    "ai_per_1k": 0.0673,
+    "clean_per_1k": 0.0123,
+    "G2": 87.68,
+    "ratio": 5.47,
+    "rank": 144
+  },
+  {
+    "ngram": "中身",
+    "tokens": [
+      "中身"
+    ],
+    "ai_count": 153,
+    "clean_count": 57,
+    "ai_per_1k": 0.0903,
+    "clean_per_1k": 0.0234,
+    "G2": 87.57,
+    "ratio": 3.87,
+    "rank": 145
+  },
+  {
+    "ngram": "amount",
+    "tokens": [
+      "amount"
+    ],
+    "ai_count": 54,
+    "clean_count": 1,
+    "ai_per_1k": 0.0319,
+    "clean_per_1k": 0.0004,
+    "G2": 87.42,
+    "ratio": 77.79,
+    "rank": 146
+  },
+  {
+    "ngram": "歩み",
+    "tokens": [
+      "歩み"
+    ],
+    "ai_count": 80,
+    "clean_count": 11,
+    "ai_per_1k": 0.0472,
+    "clean_per_1k": 0.0045,
+    "G2": 87.26,
+    "ratio": 10.48,
+    "rank": 147
+  },
+  {
+    "ngram": "タグ",
+    "tokens": [
+      "タグ"
+    ],
+    "ai_count": 162,
+    "clean_count": 64,
+    "ai_per_1k": 0.0956,
+    "clean_per_1k": 0.0262,
+    "G2": 87.21,
+    "ratio": 3.65,
+    "rank": 148
+  },
+  {
+    "ngram": "書ける",
+    "tokens": [
+      "書ける"
+    ],
+    "ai_count": 140,
+    "clean_count": 48,
+    "ai_per_1k": 0.0826,
+    "clean_per_1k": 0.0197,
+    "G2": 86.83,
+    "ratio": 4.2,
+    "rank": 149
+  },
+  {
+    "ngram": "sql",
+    "tokens": [
+      "sql"
+    ],
+    "ai_count": 68,
+    "clean_count": 6,
+    "ai_per_1k": 0.0401,
+    "clean_per_1k": 0.0025,
+    "G2": 86.03,
+    "ratio": 16.33,
+    "rank": 150
+  },
+  {
+    "ngram": "にくい",
+    "tokens": [
+      "にくい"
+    ],
+    "ai_count": 180,
+    "clean_count": 79,
+    "ai_per_1k": 0.1062,
+    "clean_per_1k": 0.0324,
+    "G2": 85.91,
+    "ratio": 3.28,
+    "rank": 151
+  },
+  {
+    "ngram": "考え方",
+    "tokens": [
+      "考え方"
+    ],
+    "ai_count": 159,
+    "clean_count": 63,
+    "ai_per_1k": 0.0938,
+    "clean_per_1k": 0.0258,
+    "G2": 85.32,
+    "ratio": 3.64,
+    "rank": 152
+  },
+  {
+    "ngram": "すでに",
+    "tokens": [
+      "すでに"
+    ],
+    "ai_count": 197,
+    "clean_count": 94,
+    "ai_per_1k": 0.1163,
+    "clean_per_1k": 0.0385,
+    "G2": 84.51,
+    "ratio": 3.02,
+    "rank": 153
+  },
+  {
+    "ngram": "cv",
+    "tokens": [
+      "cv"
+    ],
+    "ai_count": 87,
+    "clean_count": 16,
+    "ai_per_1k": 0.0513,
+    "clean_per_1k": 0.0066,
+    "G2": 83.16,
+    "ratio": 7.83,
+    "rank": 154
+  },
+  {
+    "ngram": "触れ",
+    "tokens": [
+      "触れ"
+    ],
+    "ai_count": 141,
+    "clean_count": 51,
+    "ai_per_1k": 0.0832,
+    "clean_per_1k": 0.0209,
+    "G2": 83.11,
+    "ratio": 3.98,
+    "rank": 155
+  },
+  {
+    "ngram": "わたっ",
+    "tokens": [
+      "わたっ"
+    ],
+    "ai_count": 97,
+    "clean_count": 22,
+    "ai_per_1k": 0.0573,
+    "clean_per_1k": 0.009,
+    "G2": 82.36,
+    "ratio": 6.35,
+    "rank": 156
+  },
+  {
+    "ngram": "意外",
+    "tokens": [
+      "意外"
+    ],
+    "ai_count": 116,
+    "clean_count": 34,
+    "ai_per_1k": 0.0685,
+    "clean_per_1k": 0.0139,
+    "G2": 82.29,
+    "ratio": 4.92,
+    "rank": 157
+  },
+  {
+    "ngram": "押さえ",
+    "tokens": [
+      "押さえ"
+    ],
+    "ai_count": 74,
+    "clean_count": 10,
+    "ai_per_1k": 0.0437,
+    "clean_per_1k": 0.0041,
+    "G2": 81.27,
+    "ratio": 10.66,
+    "rank": 158
+  },
+  {
+    "ngram": "用途",
+    "tokens": [
+      "用途"
+    ],
+    "ai_count": 160,
+    "clean_count": 68,
+    "ai_per_1k": 0.0944,
+    "clean_per_1k": 0.0279,
+    "G2": 79.35,
+    "ratio": 3.39,
+    "rank": 159
+  },
+  {
+    "ngram": "完結",
+    "tokens": [
+      "完結"
+    ],
+    "ai_count": 115,
+    "clean_count": 35,
+    "ai_per_1k": 0.0679,
+    "clean_per_1k": 0.0143,
+    "G2": 79.14,
+    "ratio": 4.73,
+    "rank": 160
+  },
+  {
+    "ngram": "見た目",
+    "tokens": [
+      "見た目"
+    ],
+    "ai_count": 112,
+    "clean_count": 33,
+    "ai_per_1k": 0.0661,
+    "clean_per_1k": 0.0135,
+    "G2": 79.12,
+    "ratio": 4.89,
+    "rank": 161
+  },
+  {
+    "ngram": "改めて",
+    "tokens": [
+      "改めて"
+    ],
+    "ai_count": 163,
+    "clean_count": 71,
+    "ai_per_1k": 0.0962,
+    "clean_per_1k": 0.0291,
+    "G2": 78.51,
+    "ratio": 3.31,
+    "rank": 162
+  },
+  {
+    "ngram": "ハマり",
+    "tokens": [
+      "ハマり"
+    ],
+    "ai_count": 70,
+    "clean_count": 9,
+    "ai_per_1k": 0.0413,
+    "clean_per_1k": 0.0037,
+    "G2": 78.37,
+    "ratio": 11.21,
+    "rank": 163
+  },
+  {
+    "ngram": "大きい",
+    "tokens": [
+      "大きい"
+    ],
+    "ai_count": 159,
+    "clean_count": 68,
+    "ai_per_1k": 0.0938,
+    "clean_per_1k": 0.0279,
+    "G2": 78.27,
+    "ratio": 3.37,
+    "rank": 164
+  },
+  {
+    "ngram": "手軽",
+    "tokens": [
+      "手軽"
+    ],
+    "ai_count": 102,
+    "clean_count": 27,
+    "ai_per_1k": 0.0602,
+    "clean_per_1k": 0.0111,
+    "G2": 78.13,
+    "ratio": 5.44,
+    "rank": 165
+  },
+  {
+    "ngram": "一通り",
+    "tokens": [
+      "一通り"
+    ],
+    "ai_count": 100,
+    "clean_count": 26,
+    "ai_per_1k": 0.059,
+    "clean_per_1k": 0.0107,
+    "G2": 77.58,
+    "ratio": 5.54,
+    "rank": 166
+  },
+  {
+    "ngram": "print",
+    "tokens": [
+      "print"
+    ],
+    "ai_count": 148,
+    "clean_count": 60,
+    "ai_per_1k": 0.0874,
+    "clean_per_1k": 0.0246,
+    "G2": 77.45,
+    "ratio": 3.55,
+    "rank": 167
+  },
+  {
+    "ngram": "いちばん",
+    "tokens": [
+      "いちばん"
+    ],
+    "ai_count": 95,
+    "clean_count": 23,
+    "ai_per_1k": 0.0561,
+    "clean_per_1k": 0.0094,
+    "G2": 77.37,
+    "ratio": 5.95,
+    "rank": 168
+  },
+  {
+    "ngram": "書き方",
+    "tokens": [
+      "書き方"
+    ],
+    "ai_count": 107,
+    "clean_count": 31,
+    "ai_per_1k": 0.0632,
+    "clean_per_1k": 0.0127,
+    "G2": 76.6,
+    "ratio": 4.97,
+    "rank": 169
+  },
+  {
+    "ngram": "古い",
+    "tokens": [
+      "古い"
+    ],
+    "ai_count": 167,
+    "clean_count": 76,
+    "ai_per_1k": 0.0986,
+    "clean_per_1k": 0.0311,
+    "G2": 76.2,
+    "ratio": 3.17,
+    "rank": 170
+  },
+  {
+    "ngram": "効く",
+    "tokens": [
+      "効く"
+    ],
+    "ai_count": 66,
+    "clean_count": 8,
+    "ai_per_1k": 0.039,
+    "clean_per_1k": 0.0033,
+    "G2": 75.52,
+    "ratio": 11.89,
+    "rank": 171
+  },
+  {
+    "ngram": "支える",
+    "tokens": [
+      "支える"
+    ],
+    "ai_count": 83,
+    "clean_count": 17,
+    "ai_per_1k": 0.049,
+    "clean_per_1k": 0.007,
+    "G2": 74.86,
+    "ratio": 7.03,
+    "rank": 172
+  },
+  {
+    "ngram": "避け",
+    "tokens": [
+      "避け"
+    ],
+    "ai_count": 101,
+    "clean_count": 28,
+    "ai_per_1k": 0.0596,
+    "clean_per_1k": 0.0115,
+    "G2": 74.78,
+    "ratio": 5.2,
+    "rank": 173
+  },
+  {
+    "ngram": "結びつい",
+    "tokens": [
+      "結びつい"
+    ],
+    "ai_count": 50,
+    "clean_count": 2,
+    "ai_per_1k": 0.0295,
+    "clean_per_1k": 0.0008,
+    "G2": 74.38,
+    "ratio": 36.02,
+    "rank": 174
+  },
+  {
+    "ngram": "きちんと",
+    "tokens": [
+      "きちんと"
+    ],
+    "ai_count": 91,
+    "clean_count": 22,
+    "ai_per_1k": 0.0537,
+    "clean_per_1k": 0.009,
+    "G2": 74.18,
+    "ratio": 5.96,
+    "rank": 175
+  },
+  {
+    "ngram": "象徴",
+    "tokens": [
+      "象徴"
+    ],
+    "ai_count": 102,
+    "clean_count": 29,
+    "ai_per_1k": 0.0602,
+    "clean_per_1k": 0.0119,
+    "G2": 74.09,
+    "ratio": 5.07,
+    "rank": 176
+  },
+  {
+    "ngram": "mui",
+    "tokens": [
+      "mui"
+    ],
+    "ai_count": 46,
+    "clean_count": 1,
+    "ai_per_1k": 0.0272,
+    "clean_per_1k": 0.0004,
+    "G2": 73.46,
+    "ratio": 66.27,
+    "rank": 177
+  },
+  {
+    "ngram": "解像度",
+    "tokens": [
+      "解像度"
+    ],
+    "ai_count": 80,
+    "clean_count": 16,
+    "ai_per_1k": 0.0472,
+    "clean_per_1k": 0.0066,
+    "G2": 73.12,
+    "ratio": 7.2,
+    "rank": 178
+  },
+  {
+    "ngram": "世代",
+    "tokens": [
+      "世代"
+    ],
+    "ai_count": 149,
+    "clean_count": 64,
+    "ai_per_1k": 0.0879,
+    "clean_per_1k": 0.0262,
+    "G2": 72.97,
+    "ratio": 3.35,
+    "rank": 179
+  },
+  {
+    "ngram": "叩く",
+    "tokens": [
+      "叩く"
+    ],
+    "ai_count": 72,
+    "clean_count": 12,
+    "ai_per_1k": 0.0425,
+    "clean_per_1k": 0.0049,
+    "G2": 72.24,
+    "ratio": 8.64,
+    "rank": 180
+  },
+  {
+    "ngram": "当たり前",
+    "tokens": [
+      "当たり前"
+    ],
+    "ai_count": 115,
+    "clean_count": 39,
+    "ai_per_1k": 0.0679,
+    "clean_per_1k": 0.016,
+    "G2": 72.05,
+    "ratio": 4.25,
+    "rank": 181
+  },
+  {
+    "ngram": "事実",
+    "tokens": [
+      "事実"
+    ],
+    "ai_count": 131,
+    "clean_count": 51,
+    "ai_per_1k": 0.0773,
+    "clean_per_1k": 0.0209,
+    "G2": 71.63,
+    "ratio": 3.7,
+    "rank": 182
+  },
+  {
+    "ngram": "\n              ",
+    "tokens": [
+      "\n              "
+    ],
+    "ai_count": 63,
+    "clean_count": 8,
+    "ai_per_1k": 0.0372,
+    "clean_per_1k": 0.0033,
+    "G2": 70.87,
+    "ratio": 11.35,
+    "rank": 183
+  },
+  {
+    "ngram": "いま",
+    "tokens": [
+      "いま"
+    ],
+    "ai_count": 152,
+    "clean_count": 68,
+    "ai_per_1k": 0.0897,
+    "clean_per_1k": 0.0279,
+    "G2": 70.86,
+    "ratio": 3.22,
+    "rank": 184
+  },
+  {
+    "ngram": "短い",
+    "tokens": [
+      "短い"
+    ],
+    "ai_count": 103,
+    "clean_count": 32,
+    "ai_per_1k": 0.0608,
+    "clean_per_1k": 0.0131,
+    "G2": 69.68,
+    "ratio": 4.64,
+    "rank": 185
+  },
+  {
+    "ngram": "位置づけ",
+    "tokens": [
+      "位置づけ"
+    ],
+    "ai_count": 64,
+    "clean_count": 9,
+    "ai_per_1k": 0.0378,
+    "clean_per_1k": 0.0037,
+    "G2": 69.18,
+    "ratio": 10.24,
+    "rank": 186
+  },
+  {
+    "ngram": "ようやく",
+    "tokens": [
+      "ようやく"
+    ],
+    "ai_count": 98,
+    "clean_count": 29,
+    "ai_per_1k": 0.0578,
+    "clean_per_1k": 0.0119,
+    "G2": 68.99,
+    "ratio": 4.87,
+    "rank": 187
+  },
+  {
+    "ngram": "現実",
+    "tokens": [
+      "現実"
+    ],
+    "ai_count": 122,
+    "clean_count": 46,
+    "ai_per_1k": 0.072,
+    "clean_per_1k": 0.0188,
+    "G2": 68.98,
+    "ratio": 3.82,
+    "rank": 188
+  },
+  {
+    "ngram": "完璧",
+    "tokens": [
+      "完璧"
+    ],
+    "ai_count": 82,
+    "clean_count": 19,
+    "ai_per_1k": 0.0484,
+    "clean_per_1k": 0.0078,
+    "G2": 68.7,
+    "ratio": 6.22,
+    "rank": 189
+  },
+  {
+    "ngram": "ステータス",
+    "tokens": [
+      "ステータス"
+    ],
+    "ai_count": 88,
+    "clean_count": 23,
+    "ai_per_1k": 0.0519,
+    "clean_per_1k": 0.0094,
+    "G2": 68.02,
+    "ratio": 5.51,
+    "rank": 190
+  },
+  {
+    "ngram": "liff",
+    "tokens": [
+      "liff"
+    ],
+    "ai_count": 38,
+    "clean_count": 0,
+    "ai_per_1k": 0.0224,
+    "clean_per_1k": 0.0,
+    "G2": 67.81,
+    "ratio": null,
+    "rank": 191
+  },
+  {
+    "ngram": "道具",
+    "tokens": [
+      "道具"
+    ],
+    "ai_count": 86,
+    "clean_count": 22,
+    "ai_per_1k": 0.0508,
+    "clean_per_1k": 0.009,
+    "G2": 67.48,
+    "ratio": 5.63,
+    "rank": 192
+  },
+  {
+    "ngram": "確実",
+    "tokens": [
+      "確実"
+    ],
+    "ai_count": 135,
+    "clean_count": 57,
+    "ai_per_1k": 0.0797,
+    "clean_per_1k": 0.0234,
+    "G2": 67.46,
+    "ratio": 3.41,
+    "rank": 193
+  },
+  {
+    "ngram": "私たち",
+    "tokens": [
+      "私たち"
+    ],
+    "ai_count": 132,
+    "clean_count": 55,
+    "ai_per_1k": 0.0779,
+    "clean_per_1k": 0.0225,
+    "G2": 66.98,
+    "ratio": 3.46,
+    "rank": 194
+  },
+  {
+    "ngram": "KEY",
+    "tokens": [
+      "KEY"
+    ],
+    "ai_count": 66,
+    "clean_count": 11,
+    "ai_per_1k": 0.039,
+    "clean_per_1k": 0.0045,
+    "G2": 66.22,
+    "ratio": 8.64,
+    "rank": 195
+  },
+  {
+    "ngram": "ホスト",
+    "tokens": [
+      "ホスト"
+    ],
+    "ai_count": 135,
+    "clean_count": 58,
+    "ai_per_1k": 0.0797,
+    "clean_per_1k": 0.0238,
+    "G2": 66.1,
+    "ratio": 3.35,
+    "rank": 196
+  },
+  {
+    "ngram": "sudo",
+    "tokens": [
+      "sudo"
+    ],
+    "ai_count": 88,
+    "clean_count": 24,
+    "ai_per_1k": 0.0519,
+    "clean_per_1k": 0.0098,
+    "G2": 65.96,
+    "ratio": 5.28,
+    "rank": 197
+  },
+  {
+    "ngram": "抱え",
+    "tokens": [
+      "抱え"
+    ],
+    "ai_count": 94,
+    "clean_count": 28,
+    "ai_per_1k": 0.0555,
+    "clean_per_1k": 0.0115,
+    "G2": 65.83,
+    "ratio": 4.84,
+    "rank": 198
+  },
+  {
+    "ngram": "づけ",
+    "tokens": [
+      "づけ"
+    ],
+    "ai_count": 123,
+    "clean_count": 49,
+    "ai_per_1k": 0.0726,
+    "clean_per_1k": 0.0201,
+    "G2": 65.62,
+    "ratio": 3.62,
+    "rank": 199
+  },
+  {
+    "ngram": "済み",
+    "tokens": [
+      "済み"
+    ],
+    "ai_count": 139,
+    "clean_count": 62,
+    "ai_per_1k": 0.082,
+    "clean_per_1k": 0.0254,
+    "G2": 65.04,
+    "ratio": 3.23,
+    "rank": 200
+  },
+  {
+    "ngram": "手間",
+    "tokens": [
+      "手間"
+    ],
+    "ai_count": 67,
+    "clean_count": 12,
+    "ai_per_1k": 0.0395,
+    "clean_per_1k": 0.0049,
+    "G2": 64.91,
+    "ratio": 8.04,
+    "rank": 201
+  },
+  {
+    "ngram": "華やか",
+    "tokens": [
+      "華やか"
+    ],
+    "ai_count": 57,
+    "clean_count": 7,
+    "ai_per_1k": 0.0336,
+    "clean_per_1k": 0.0029,
+    "G2": 64.91,
+    "ratio": 11.73,
+    "rank": 202
+  },
+  {
+    "ngram": "意図",
+    "tokens": [
+      "意図"
+    ],
+    "ai_count": 121,
+    "clean_count": 48,
+    "ai_per_1k": 0.0714,
+    "clean_per_1k": 0.0197,
+    "G2": 64.85,
+    "ratio": 3.63,
+    "rank": 203
+  },
+  {
+    "ngram": "効き",
+    "tokens": [
+      "効き"
+    ],
+    "ai_count": 41,
+    "clean_count": 1,
+    "ai_per_1k": 0.0242,
+    "clean_per_1k": 0.0004,
+    "G2": 64.77,
+    "ratio": 59.07,
+    "rank": 204
+  },
+  {
+    "ngram": "kotlin",
+    "tokens": [
+      "kotlin"
+    ],
+    "ai_count": 41,
+    "clean_count": 1,
+    "ai_per_1k": 0.0242,
+    "clean_per_1k": 0.0004,
+    "G2": 64.77,
+    "ratio": 59.07,
+    "rank": 205
+  },
+  {
+    "ngram": "sf",
+    "tokens": [
+      "sf"
+    ],
+    "ai_count": 44,
+    "clean_count": 2,
+    "ai_per_1k": 0.026,
+    "clean_per_1k": 0.0008,
+    "G2": 64.17,
+    "ratio": 31.69,
+    "rank": 206
+  },
+  {
+    "ngram": "担う",
+    "tokens": [
+      "担う"
+    ],
+    "ai_count": 77,
+    "clean_count": 18,
+    "ai_per_1k": 0.0454,
+    "clean_per_1k": 0.0074,
+    "G2": 64.15,
+    "ratio": 6.16,
+    "rank": 207
+  },
+  {
+    "ngram": "並ん",
+    "tokens": [
+      "並ん"
+    ],
+    "ai_count": 122,
+    "clean_count": 50,
+    "ai_per_1k": 0.072,
+    "clean_per_1k": 0.0205,
+    "G2": 63.07,
+    "ratio": 3.52,
+    "rank": 208
+  },
+  {
+    "ngram": "地道",
+    "tokens": [
+      "地道"
+    ],
+    "ai_count": 51,
+    "clean_count": 5,
+    "ai_per_1k": 0.0301,
+    "clean_per_1k": 0.002,
+    "G2": 62.58,
+    "ratio": 14.69,
+    "rank": 209
+  },
+  {
+    "ngram": "立場",
+    "tokens": [
+      "立場"
+    ],
+    "ai_count": 124,
+    "clean_count": 52,
+    "ai_per_1k": 0.0732,
+    "clean_per_1k": 0.0213,
+    "G2": 62.46,
+    "ratio": 3.44,
+    "rank": 210
+  },
+  {
+    "ngram": "走る",
+    "tokens": [
+      "走る"
+    ],
+    "ai_count": 79,
+    "clean_count": 20,
+    "ai_per_1k": 0.0466,
+    "clean_per_1k": 0.0082,
+    "G2": 62.43,
+    "ratio": 5.69,
+    "rank": 211
+  },
+  {
+    "ngram": "float",
+    "tokens": [
+      "float"
+    ],
+    "ai_count": 74,
+    "clean_count": 17,
+    "ai_per_1k": 0.0437,
+    "clean_per_1k": 0.007,
+    "G2": 62.33,
+    "ratio": 6.27,
+    "rank": 212
+  },
+  {
+    "ngram": "枠組み",
+    "tokens": [
+      "枠組み"
+    ],
+    "ai_count": 59,
+    "clean_count": 9,
+    "ai_per_1k": 0.0348,
+    "clean_per_1k": 0.0037,
+    "G2": 61.62,
+    "ratio": 9.44,
+    "rank": 213
+  },
+  {
+    "ngram": "VPC",
+    "tokens": [
+      "VPC"
+    ],
+    "ai_count": 118,
+    "clean_count": 48,
+    "ai_per_1k": 0.0696,
+    "clean_per_1k": 0.0197,
+    "G2": 61.52,
+    "ratio": 3.54,
+    "rank": 214
+  },
+  {
+    "ngram": "気づい",
+    "tokens": [
+      "気づい"
+    ],
+    "ai_count": 119,
+    "clean_count": 49,
+    "ai_per_1k": 0.0702,
+    "clean_per_1k": 0.0201,
+    "G2": 61.2,
+    "ratio": 3.5,
+    "rank": 215
+  },
+  {
+    "ngram": "詰まっ",
+    "tokens": [
+      "詰まっ"
+    ],
+    "ai_count": 68,
+    "clean_count": 14,
+    "ai_per_1k": 0.0401,
+    "clean_per_1k": 0.0057,
+    "G2": 61.15,
+    "ratio": 7.0,
+    "rank": 216
+  },
+  {
+    "ngram": "整え",
+    "tokens": [
+      "整え"
+    ],
+    "ai_count": 78,
+    "clean_count": 20,
+    "ai_per_1k": 0.046,
+    "clean_per_1k": 0.0082,
+    "G2": 61.1,
+    "ratio": 5.62,
+    "rank": 217
+  },
+  {
+    "ngram": "出発点",
+    "tokens": [
+      "出発点"
+    ],
+    "ai_count": 45,
+    "clean_count": 3,
+    "ai_per_1k": 0.0266,
+    "clean_per_1k": 0.0012,
+    "G2": 61.02,
+    "ratio": 21.61,
+    "rank": 218
+  },
+  {
+    "ngram": "pkcs",
+    "tokens": [
+      "pkcs"
+    ],
+    "ai_count": 50,
+    "clean_count": 5,
+    "ai_per_1k": 0.0295,
+    "clean_per_1k": 0.002,
+    "G2": 60.99,
+    "ratio": 14.41,
+    "rank": 219
+  },
+  {
+    "ngram": "たいてい",
+    "tokens": [
+      "たいてい"
+    ],
+    "ai_count": 42,
+    "clean_count": 2,
+    "ai_per_1k": 0.0248,
+    "clean_per_1k": 0.0008,
+    "G2": 60.79,
+    "ratio": 30.25,
+    "rank": 220
+  },
+  {
+    "ngram": "行き来",
+    "tokens": [
+      "行き来"
+    ],
+    "ai_count": 42,
+    "clean_count": 2,
+    "ai_per_1k": 0.0248,
+    "clean_per_1k": 0.0008,
+    "G2": 60.79,
+    "ratio": 30.25,
+    "rank": 221
+  },
+  {
+    "ngram": "\n\n\n",
+    "tokens": [
+      "\n\n\n"
+    ],
+    "ai_count": 34,
+    "clean_count": 0,
+    "ai_per_1k": 0.0201,
+    "clean_per_1k": 0.0,
+    "G2": 60.67,
+    "ratio": null,
+    "rank": 222
+  },
+  {
+    "ngram": "window",
+    "tokens": [
+      "window"
+    ],
+    "ai_count": 76,
+    "clean_count": 19,
+    "ai_per_1k": 0.0449,
+    "clean_per_1k": 0.0078,
+    "G2": 60.58,
+    "ratio": 5.76,
+    "rank": 223
+  },
+  {
+    "ngram": "長年",
+    "tokens": [
+      "長年"
+    ],
+    "ai_count": 79,
+    "clean_count": 21,
+    "ai_per_1k": 0.0466,
+    "clean_per_1k": 0.0086,
+    "G2": 60.33,
+    "ratio": 5.42,
+    "rank": 224
+  },
+  {
+    "ngram": "強み",
+    "tokens": [
+      "強み"
+    ],
+    "ai_count": 56,
+    "clean_count": 8,
+    "ai_per_1k": 0.0331,
+    "clean_per_1k": 0.0033,
+    "G2": 60.14,
+    "ratio": 10.08,
+    "rank": 225
+  },
+  {
+    "ngram": "存在感",
+    "tokens": [
+      "存在感"
+    ],
+    "ai_count": 58,
+    "clean_count": 9,
+    "ai_per_1k": 0.0342,
+    "clean_per_1k": 0.0037,
+    "G2": 60.12,
+    "ratio": 9.28,
+    "rank": 226
+  },
+  {
+    "ngram": "奥",
+    "tokens": [
+      "奥"
+    ],
+    "ai_count": 74,
+    "clean_count": 18,
+    "ai_per_1k": 0.0437,
+    "clean_per_1k": 0.0074,
+    "G2": 60.08,
+    "ratio": 5.92,
+    "rank": 227
+  },
+  {
+    "ngram": "効か",
+    "tokens": [
+      "効か"
+    ],
+    "ai_count": 47,
+    "clean_count": 4,
+    "ai_per_1k": 0.0277,
+    "clean_per_1k": 0.0016,
+    "G2": 60.05,
+    "ratio": 16.93,
+    "rank": 228
+  },
+  {
+    "ngram": "scene",
+    "tokens": [
+      "scene"
+    ],
+    "ai_count": 38,
+    "clean_count": 1,
+    "ai_per_1k": 0.0224,
+    "clean_per_1k": 0.0004,
+    "G2": 59.56,
+    "ratio": 54.74,
+    "rank": 229
+  },
+  {
+    "ngram": "ちょうど",
+    "tokens": [
+      "ちょうど"
+    ],
+    "ai_count": 111,
+    "clean_count": 44,
+    "ai_per_1k": 0.0655,
+    "clean_per_1k": 0.018,
+    "G2": 59.54,
+    "ratio": 3.63,
+    "rank": 230
+  },
+  {
+    "ngram": "担っ",
+    "tokens": [
+      "担っ"
+    ],
+    "ai_count": 83,
+    "clean_count": 24,
+    "ai_per_1k": 0.049,
+    "clean_per_1k": 0.0098,
+    "G2": 59.51,
+    "ratio": 4.98,
+    "rank": 231
+  },
+  {
+    "ngram": "並べる",
+    "tokens": [
+      "並べる"
+    ],
+    "ai_count": 65,
+    "clean_count": 13,
+    "ai_per_1k": 0.0384,
+    "clean_per_1k": 0.0053,
+    "G2": 59.41,
+    "ratio": 7.2,
+    "rank": 232
+  },
+  {
+    "ngram": "素朴",
+    "tokens": [
+      "素朴"
+    ],
+    "ai_count": 41,
+    "clean_count": 2,
+    "ai_per_1k": 0.0242,
+    "clean_per_1k": 0.0008,
+    "G2": 59.1,
+    "ratio": 29.53,
+    "rank": 233
+  },
+  {
+    "ngram": "通れ",
+    "tokens": [
+      "通れ"
+    ],
+    "ai_count": 33,
+    "clean_count": 0,
+    "ai_per_1k": 0.0195,
+    "clean_per_1k": 0.0,
+    "G2": 58.89,
+    "ratio": null,
+    "rank": 234
+  },
+  {
+    "ngram": "つまずき",
+    "tokens": [
+      "つまずき"
+    ],
+    "ai_count": 33,
+    "clean_count": 0,
+    "ai_per_1k": 0.0195,
+    "clean_per_1k": 0.0,
+    "G2": 58.89,
+    "ratio": null,
+    "rank": 235
+  },
+  {
+    "ngram": "別途",
+    "tokens": [
+      "別途"
+    ],
+    "ai_count": 84,
+    "clean_count": 25,
+    "ai_per_1k": 0.0496,
+    "clean_per_1k": 0.0102,
+    "G2": 58.87,
+    "ratio": 4.84,
+    "rank": 236
+  },
+  {
+    "ngram": "注意点",
+    "tokens": [
+      "注意点"
+    ],
+    "ai_count": 105,
+    "clean_count": 40,
+    "ai_per_1k": 0.062,
+    "clean_per_1k": 0.0164,
+    "G2": 58.74,
+    "ratio": 3.78,
+    "rank": 237
+  },
+  {
+    "ngram": "しばらく",
+    "tokens": [
+      "しばらく"
+    ],
+    "ai_count": 116,
+    "clean_count": 49,
+    "ai_per_1k": 0.0685,
+    "clean_per_1k": 0.0201,
+    "G2": 57.94,
+    "ratio": 3.41,
+    "rank": 238
+  },
+  {
+    "ngram": "sre",
+    "tokens": [
+      "sre"
+    ],
+    "ai_count": 37,
+    "clean_count": 1,
+    "ai_per_1k": 0.0218,
+    "clean_per_1k": 0.0004,
+    "G2": 57.83,
+    "ratio": 53.3,
+    "rank": 239
+  },
+  {
+    "ngram": "None",
+    "tokens": [
+      "None"
+    ],
+    "ai_count": 77,
+    "clean_count": 21,
+    "ai_per_1k": 0.0454,
+    "clean_per_1k": 0.0086,
+    "G2": 57.71,
+    "ratio": 5.28,
+    "rank": 240
+  },
+  {
+    "ngram": "立つ",
+    "tokens": [
+      "立つ"
+    ],
+    "ai_count": 97,
+    "clean_count": 35,
+    "ai_per_1k": 0.0573,
+    "clean_per_1k": 0.0143,
+    "G2": 57.31,
+    "ratio": 3.99,
+    "rank": 241
+  },
+  {
+    "ngram": "速く",
+    "tokens": [
+      "速く"
+    ],
+    "ai_count": 54,
+    "clean_count": 8,
+    "ai_per_1k": 0.0319,
+    "clean_per_1k": 0.0033,
+    "G2": 57.12,
+    "ratio": 9.72,
+    "rank": 242
+  },
+  {
+    "ngram": "選び",
+    "tokens": [
+      "選び"
+    ],
+    "ai_count": 78,
+    "clean_count": 22,
+    "ai_per_1k": 0.046,
+    "clean_per_1k": 0.009,
+    "G2": 57.01,
+    "ratio": 5.11,
+    "rank": 243
+  },
+  {
+    "ngram": "length",
+    "tokens": [
+      "length"
+    ],
+    "ai_count": 73,
+    "clean_count": 19,
+    "ai_per_1k": 0.0431,
+    "clean_per_1k": 0.0078,
+    "G2": 56.59,
+    "ratio": 5.54,
+    "rank": 244
+  },
+  {
+    "ngram": "自前",
+    "tokens": [
+      "自前"
+    ],
+    "ai_count": 68,
+    "clean_count": 16,
+    "ai_per_1k": 0.0401,
+    "clean_per_1k": 0.0066,
+    "G2": 56.42,
+    "ratio": 6.12,
+    "rank": 245
+  },
+  {
+    "ngram": "まったく",
+    "tokens": [
+      "まったく"
+    ],
+    "ai_count": 128,
+    "clean_count": 60,
+    "ai_per_1k": 0.0755,
+    "clean_per_1k": 0.0246,
+    "G2": 56.22,
+    "ratio": 3.07,
+    "rank": 246
+  },
+  {
+    "ngram": "ロジック",
+    "tokens": [
+      "ロジック"
+    ],
+    "ai_count": 104,
+    "clean_count": 41,
+    "ai_per_1k": 0.0614,
+    "clean_per_1k": 0.0168,
+    "G2": 56.11,
+    "ratio": 3.65,
+    "rank": 247
+  },
+  {
+    "ngram": "思い浮かべる",
+    "tokens": [
+      "思い浮かべる"
+    ],
+    "ai_count": 36,
+    "clean_count": 1,
+    "ai_per_1k": 0.0212,
+    "clean_per_1k": 0.0004,
+    "G2": 56.1,
+    "ratio": 51.86,
+    "rank": 248
+  },
+  {
+    "ngram": "board",
+    "tokens": [
+      "board"
+    ],
+    "ai_count": 36,
+    "clean_count": 1,
+    "ai_per_1k": 0.0212,
+    "clean_per_1k": 0.0004,
+    "G2": 56.1,
+    "ratio": 51.86,
+    "rank": 249
+  },
+  {
+    "ngram": "相性",
+    "tokens": [
+      "相性"
+    ],
+    "ai_count": 77,
+    "clean_count": 22,
+    "ai_per_1k": 0.0454,
+    "clean_per_1k": 0.009,
+    "G2": 55.72,
+    "ratio": 5.04,
+    "rank": 250
+  },
+  {
+    "ngram": "違っ",
+    "tokens": [
+      "違っ"
+    ],
+    "ai_count": 107,
+    "clean_count": 44,
+    "ai_per_1k": 0.0632,
+    "clean_per_1k": 0.018,
+    "G2": 55.11,
+    "ratio": 3.5,
+    "rank": 251
+  },
+  {
+    "ngram": "風景",
+    "tokens": [
+      "風景"
+    ],
+    "ai_count": 67,
+    "clean_count": 16,
+    "ai_per_1k": 0.0395,
+    "clean_per_1k": 0.0066,
+    "G2": 55.06,
+    "ratio": 6.03,
+    "rank": 252
+  },
+  {
+    "ngram": "las",
+    "tokens": [
+      "las"
+    ],
+    "ai_count": 70,
+    "clean_count": 18,
+    "ai_per_1k": 0.0413,
+    "clean_per_1k": 0.0074,
+    "G2": 54.73,
+    "ratio": 5.6,
+    "rank": 253
+  },
+  {
+    "ngram": "body",
+    "tokens": [
+      "body"
+    ],
+    "ai_count": 89,
+    "clean_count": 31,
+    "ai_per_1k": 0.0525,
+    "clean_per_1k": 0.0127,
+    "G2": 54.39,
+    "ratio": 4.14,
+    "rank": 254
+  },
+  {
+    "ngram": "来年",
+    "tokens": [
+      "来年"
+    ],
+    "ai_count": 56,
+    "clean_count": 10,
+    "ai_per_1k": 0.0331,
+    "clean_per_1k": 0.0041,
+    "G2": 54.33,
+    "ratio": 8.07,
+    "rank": 255
+  },
+  {
+    "ngram": "入り口",
+    "tokens": [
+      "入り口"
+    ],
+    "ai_count": 68,
+    "clean_count": 17,
+    "ai_per_1k": 0.0401,
+    "clean_per_1k": 0.007,
+    "G2": 54.2,
+    "ratio": 5.76,
+    "rank": 256
+  },
+  {
+    "ngram": "関わる",
+    "tokens": [
+      "関わる"
+    ],
+    "ai_count": 63,
+    "clean_count": 14,
+    "ai_per_1k": 0.0372,
+    "clean_per_1k": 0.0057,
+    "G2": 54.17,
+    "ratio": 6.48,
+    "rank": 257
+  },
+  {
+    "ngram": "単体",
+    "tokens": [
+      "単体"
+    ],
+    "ai_count": 80,
+    "clean_count": 25,
+    "ai_per_1k": 0.0472,
+    "clean_per_1k": 0.0102,
+    "G2": 53.86,
+    "ratio": 4.61,
+    "rank": 258
+  },
+  {
+    "ngram": "表情",
+    "tokens": [
+      "表情"
+    ],
+    "ai_count": 80,
+    "clean_count": 25,
+    "ai_per_1k": 0.0472,
+    "clean_per_1k": 0.0102,
+    "G2": 53.86,
+    "ratio": 4.61,
+    "rank": 259
+  },
+  {
+    "ngram": "DIR",
+    "tokens": [
+      "DIR"
+    ],
+    "ai_count": 30,
+    "clean_count": 0,
+    "ai_per_1k": 0.0177,
+    "clean_per_1k": 0.0,
+    "G2": 53.54,
+    "ratio": null,
+    "rank": 260
+  },
+  {
+    "ngram": "apt",
+    "tokens": [
+      "apt"
+    ],
+    "ai_count": 81,
+    "clean_count": 26,
+    "ai_per_1k": 0.0478,
+    "clean_per_1k": 0.0107,
+    "G2": 53.3,
+    "ratio": 4.49,
+    "rank": 261
+  },
+  {
+    "ngram": "つもり",
+    "tokens": [
+      "つもり"
+    ],
+    "ai_count": 96,
+    "clean_count": 37,
+    "ai_per_1k": 0.0567,
+    "clean_per_1k": 0.0152,
+    "G2": 53.05,
+    "ratio": 3.74,
+    "rank": 262
+  },
+  {
+    "ngram": "魅力",
+    "tokens": [
+      "魅力"
+    ],
+    "ai_count": 85,
+    "clean_count": 29,
+    "ai_per_1k": 0.0502,
+    "clean_per_1k": 0.0119,
+    "G2": 52.96,
+    "ratio": 4.22,
+    "rank": 263
+  },
+  {
+    "ngram": "レビュアー",
+    "tokens": [
+      "レビュアー"
+    ],
+    "ai_count": 40,
+    "clean_count": 3,
+    "ai_per_1k": 0.0236,
+    "clean_per_1k": 0.0012,
+    "G2": 52.78,
+    "ratio": 19.21,
+    "rank": 264
+  },
+  {
+    "ngram": "ターミナル",
+    "tokens": [
+      "ターミナル"
+    ],
+    "ai_count": 122,
+    "clean_count": 58,
+    "ai_per_1k": 0.072,
+    "clean_per_1k": 0.0238,
+    "G2": 52.59,
+    "ratio": 3.03,
+    "rank": 265
+  },
+  {
+    "ngram": "tsx",
+    "tokens": [
+      "tsx"
+    ],
+    "ai_count": 113,
+    "clean_count": 51,
+    "ai_per_1k": 0.0667,
+    "clean_per_1k": 0.0209,
+    "G2": 52.1,
+    "ratio": 3.19,
+    "rank": 266
+  },
+  {
+    "ngram": "組み立てる",
+    "tokens": [
+      "組み立てる"
+    ],
+    "ai_count": 42,
+    "clean_count": 4,
+    "ai_per_1k": 0.0248,
+    "clean_per_1k": 0.0016,
+    "G2": 51.99,
+    "ratio": 15.13,
+    "rank": 267
+  },
+  {
+    "ngram": "いえる",
+    "tokens": [
+      "いえる"
+    ],
+    "ai_count": 71,
+    "clean_count": 20,
+    "ai_per_1k": 0.0419,
+    "clean_per_1k": 0.0082,
+    "G2": 51.94,
+    "ratio": 5.11,
+    "rank": 268
+  },
+  {
+    "ngram": "棚卸し",
+    "tokens": [
+      "棚卸し"
+    ],
+    "ai_count": 29,
+    "clean_count": 0,
+    "ai_per_1k": 0.0171,
+    "clean_per_1k": 0.0,
+    "G2": 51.75,
+    "ratio": null,
+    "rank": 269
+  },
+  {
+    "ngram": "fn",
+    "tokens": [
+      "fn"
+    ],
+    "ai_count": 29,
+    "clean_count": 0,
+    "ai_per_1k": 0.0171,
+    "clean_per_1k": 0.0,
+    "G2": 51.75,
+    "ratio": null,
+    "rank": 270
+  },
+  {
+    "ngram": "\n\n        ",
+    "tokens": [
+      "\n\n        "
+    ],
+    "ai_count": 29,
+    "clean_count": 0,
+    "ai_per_1k": 0.0171,
+    "clean_per_1k": 0.0,
+    "G2": 51.75,
+    "ratio": null,
+    "rank": 271
+  },
+  {
+    "ngram": "コツ",
+    "tokens": [
+      "コツ"
+    ],
+    "ai_count": 66,
+    "clean_count": 17,
+    "ai_per_1k": 0.039,
+    "clean_per_1k": 0.007,
+    "G2": 51.54,
+    "ratio": 5.59,
+    "rank": 272
+  },
+  {
+    "ngram": "たどっ",
+    "tokens": [
+      "たどっ"
+    ],
+    "ai_count": 44,
+    "clean_count": 5,
+    "ai_per_1k": 0.026,
+    "clean_per_1k": 0.002,
+    "G2": 51.5,
+    "ratio": 12.68,
+    "rank": 273
+  },
+  {
+    "ngram": "std",
+    "tokens": [
+      "std"
+    ],
+    "ai_count": 54,
+    "clean_count": 10,
+    "ai_per_1k": 0.0319,
+    "clean_per_1k": 0.0041,
+    "G2": 51.43,
+    "ratio": 7.78,
+    "rank": 274
+  },
+  {
+    "ngram": "叩い",
+    "tokens": [
+      "叩い"
+    ],
+    "ai_count": 52,
+    "clean_count": 9,
+    "ai_per_1k": 0.0307,
+    "clean_per_1k": 0.0037,
+    "G2": 51.24,
+    "ratio": 8.32,
+    "rank": 275
+  },
+  {
+    "ngram": "リアルタイム",
+    "tokens": [
+      "リアルタイム"
+    ],
+    "ai_count": 89,
+    "clean_count": 33,
+    "ai_per_1k": 0.0525,
+    "clean_per_1k": 0.0135,
+    "G2": 51.18,
+    "ratio": 3.89,
+    "rank": 276
+  },
+  {
+    "ngram": "θ",
+    "tokens": [
+      "θ"
+    ],
+    "ai_count": 50,
+    "clean_count": 8,
+    "ai_per_1k": 0.0295,
+    "clean_per_1k": 0.0033,
+    "G2": 51.12,
+    "ratio": 9.0,
+    "rank": 277
+  },
+  {
+    "ngram": "落とし穴",
+    "tokens": [
+      "落とし穴"
+    ],
+    "ai_count": 33,
+    "clean_count": 1,
+    "ai_per_1k": 0.0195,
+    "clean_per_1k": 0.0004,
+    "G2": 50.92,
+    "ratio": 47.54,
+    "rank": 278
+  },
+  {
+    "ngram": "SNS",
+    "tokens": [
+      "SNS"
+    ],
+    "ai_count": 103,
+    "clean_count": 44,
+    "ai_per_1k": 0.0608,
+    "clean_per_1k": 0.018,
+    "G2": 50.77,
+    "ratio": 3.37,
+    "rank": 279
+  },
+  {
+    "ngram": "無難",
+    "tokens": [
+      "無難"
+    ],
+    "ai_count": 36,
+    "clean_count": 2,
+    "ai_per_1k": 0.0212,
+    "clean_per_1k": 0.0008,
+    "G2": 50.68,
+    "ratio": 25.93,
+    "rank": 280
+  },
+  {
+    "ngram": "np",
+    "tokens": [
+      "np"
+    ],
+    "ai_count": 114,
+    "clean_count": 53,
+    "ai_per_1k": 0.0673,
+    "clean_per_1k": 0.0217,
+    "G2": 50.61,
+    "ratio": 3.1,
+    "rank": 281
+  },
+  {
+    "ngram": "SHA",
+    "tokens": [
+      "SHA"
+    ],
+    "ai_count": 41,
+    "clean_count": 4,
+    "ai_per_1k": 0.0242,
+    "clean_per_1k": 0.0016,
+    "G2": 50.39,
+    "ratio": 14.77,
+    "rank": 282
+  },
+  {
+    "ngram": "BABYLON",
+    "tokens": [
+      "BABYLON"
+    ],
+    "ai_count": 28,
+    "clean_count": 0,
+    "ai_per_1k": 0.0165,
+    "clean_per_1k": 0.0,
+    "G2": 49.97,
+    "ratio": null,
+    "rank": 283
+  },
+  {
+    "ngram": "sample",
+    "tokens": [
+      "sample"
+    ],
+    "ai_count": 106,
+    "clean_count": 47,
+    "ai_per_1k": 0.0626,
+    "clean_per_1k": 0.0193,
+    "G2": 49.96,
+    "ratio": 3.25,
+    "rank": 284
+  },
+  {
+    "ngram": "ptr",
+    "tokens": [
+      "ptr"
+    ],
+    "ai_count": 63,
+    "clean_count": 16,
+    "ai_per_1k": 0.0372,
+    "clean_per_1k": 0.0066,
+    "G2": 49.68,
+    "ratio": 5.67,
+    "rank": 285
+  },
+  {
+    "ngram": "os",
+    "tokens": [
+      "os"
+    ],
+    "ai_count": 66,
+    "clean_count": 18,
+    "ai_per_1k": 0.039,
+    "clean_per_1k": 0.0074,
+    "G2": 49.47,
+    "ratio": 5.28,
+    "rank": 286
+  },
+  {
+    "ngram": "ゼロ",
+    "tokens": [
+      "ゼロ"
+    ],
+    "ai_count": 103,
+    "clean_count": 45,
+    "ai_per_1k": 0.0608,
+    "clean_per_1k": 0.0184,
+    "G2": 49.43,
+    "ratio": 3.3,
+    "rank": 287
+  },
+  {
+    "ngram": "auth",
+    "tokens": [
+      "auth"
+    ],
+    "ai_count": 103,
+    "clean_count": 45,
+    "ai_per_1k": 0.0608,
+    "clean_per_1k": 0.0184,
+    "G2": 49.43,
+    "ratio": 3.3,
+    "rank": 288
+  },
+  {
+    "ngram": "libs",
+    "tokens": [
+      "libs"
+    ],
+    "ai_count": 32,
+    "clean_count": 1,
+    "ai_per_1k": 0.0189,
+    "clean_per_1k": 0.0004,
+    "G2": 49.2,
+    "ratio": 46.1,
+    "rank": 289
+  },
+  {
+    "ngram": "email",
+    "tokens": [
+      "email"
+    ],
+    "ai_count": 83,
+    "clean_count": 30,
+    "ai_per_1k": 0.049,
+    "clean_per_1k": 0.0123,
+    "G2": 48.96,
+    "ratio": 3.99,
+    "rank": 290
+  },
+  {
+    "ngram": "文脈",
+    "tokens": [
+      "文脈"
+    ],
+    "ai_count": 91,
+    "clean_count": 36,
+    "ai_per_1k": 0.0537,
+    "clean_per_1k": 0.0147,
+    "G2": 48.91,
+    "ratio": 3.64,
+    "rank": 291
+  },
+  {
+    "ngram": "眺める",
+    "tokens": [
+      "眺める"
+    ],
+    "ai_count": 54,
+    "clean_count": 11,
+    "ai_per_1k": 0.0319,
+    "clean_per_1k": 0.0045,
+    "G2": 48.86,
+    "ratio": 7.07,
+    "rank": 292
+  },
+  {
+    "ngram": "とりわけ",
+    "tokens": [
+      "とりわけ"
+    ],
+    "ai_count": 54,
+    "clean_count": 11,
+    "ai_per_1k": 0.0319,
+    "clean_per_1k": 0.0045,
+    "G2": 48.86,
+    "ratio": 7.07,
+    "rank": 293
+  },
+  {
+    "ngram": "とどまら",
+    "tokens": [
+      "とどまら"
+    ],
+    "ai_count": 40,
+    "clean_count": 4,
+    "ai_per_1k": 0.0236,
+    "clean_per_1k": 0.0016,
+    "G2": 48.79,
+    "ratio": 14.41,
+    "rank": 294
+  },
+  {
+    "ngram": "冷蔵庫",
+    "tokens": [
+      "冷蔵庫"
+    ],
+    "ai_count": 70,
+    "clean_count": 21,
+    "ai_per_1k": 0.0413,
+    "clean_per_1k": 0.0086,
+    "G2": 48.74,
+    "ratio": 4.8,
+    "rank": 295
+  },
+  {
+    "ngram": "変わり",
+    "tokens": [
+      "変わり"
+    ],
+    "ai_count": 96,
+    "clean_count": 40,
+    "ai_per_1k": 0.0567,
+    "clean_per_1k": 0.0164,
+    "G2": 48.71,
+    "ratio": 3.46,
+    "rank": 296
+  },
+  {
+    "ngram": "gh",
+    "tokens": [
+      "gh"
+    ],
+    "ai_count": 88,
+    "clean_count": 34,
+    "ai_per_1k": 0.0519,
+    "clean_per_1k": 0.0139,
+    "G2": 48.51,
+    "ratio": 3.73,
+    "rank": 297
+  },
+  {
+    "ngram": "users",
+    "tokens": [
+      "users"
+    ],
+    "ai_count": 102,
+    "clean_count": 45,
+    "ai_per_1k": 0.0602,
+    "clean_per_1k": 0.0184,
+    "G2": 48.37,
+    "ratio": 3.27,
+    "rank": 298
+  },
+  {
+    "ngram": "消え",
+    "tokens": [
+      "消え"
+    ],
+    "ai_count": 93,
+    "clean_count": 38,
+    "ai_per_1k": 0.0549,
+    "clean_per_1k": 0.0156,
+    "G2": 48.24,
+    "ratio": 3.53,
+    "rank": 299
+  },
+  {
+    "ngram": "キュー",
+    "tokens": [
+      "キュー"
+    ],
+    "ai_count": 81,
+    "clean_count": 29,
+    "ai_per_1k": 0.0478,
+    "clean_per_1k": 0.0119,
+    "G2": 48.22,
+    "ratio": 4.02,
+    "rank": 300
+  },
+  {
+    "ngram": "誡",
+    "tokens": [
+      "誡"
+    ],
+    "ai_count": 27,
+    "clean_count": 0,
+    "ai_per_1k": 0.0159,
+    "clean_per_1k": 0.0,
+    "G2": 48.18,
+    "ratio": null,
+    "rank": 301
+  },
+  {
+    "ngram": "整える",
+    "tokens": [
+      "整える"
+    ],
+    "ai_count": 48,
+    "clean_count": 8,
+    "ai_per_1k": 0.0283,
+    "clean_per_1k": 0.0033,
+    "G2": 48.16,
+    "ratio": 8.64,
+    "rank": 302
+  },
+  {
+    "ngram": "検知",
+    "tokens": [
+      "検知"
+    ],
+    "ai_count": 98,
+    "clean_count": 42,
+    "ai_per_1k": 0.0578,
+    "clean_per_1k": 0.0172,
+    "G2": 48.12,
+    "ratio": 3.36,
+    "rank": 303
+  },
+  {
+    "ngram": "触る",
+    "tokens": [
+      "触る"
+    ],
+    "ai_count": 55,
+    "clean_count": 12,
+    "ai_per_1k": 0.0325,
+    "clean_per_1k": 0.0049,
+    "G2": 47.82,
+    "ratio": 6.6,
+    "rank": 304
+  },
+  {
+    "ngram": "営み",
+    "tokens": [
+      "営み"
+    ],
+    "ai_count": 31,
+    "clean_count": 1,
+    "ai_per_1k": 0.0183,
+    "clean_per_1k": 0.0004,
+    "G2": 47.47,
+    "ratio": 44.66,
+    "rank": 305
+  },
+  {
+    "ngram": "妙",
+    "tokens": [
+      "妙"
+    ],
+    "ai_count": 53,
+    "clean_count": 11,
+    "ai_per_1k": 0.0313,
+    "clean_per_1k": 0.0045,
+    "G2": 47.45,
+    "ratio": 6.94,
+    "rank": 306
+  },
+  {
+    "ngram": "境界",
+    "tokens": [
+      "境界"
+    ],
+    "ai_count": 70,
+    "clean_count": 22,
+    "ai_per_1k": 0.0413,
+    "clean_per_1k": 0.009,
+    "G2": 46.9,
+    "ratio": 4.58,
+    "rank": 307
+  },
+  {
+    "ngram": "output",
+    "tokens": [
+      "output"
+    ],
+    "ai_count": 67,
+    "clean_count": 20,
+    "ai_per_1k": 0.0395,
+    "clean_per_1k": 0.0082,
+    "G2": 46.84,
+    "ratio": 4.83,
+    "rank": 308
+  },
+  {
+    "ngram": "レンダリング",
+    "tokens": [
+      "レンダリング"
+    ],
+    "ai_count": 89,
+    "clean_count": 36,
+    "ai_per_1k": 0.0525,
+    "clean_per_1k": 0.0147,
+    "G2": 46.69,
+    "ratio": 3.56,
+    "rank": 309
+  },
+  {
+    "ngram": "きれい",
+    "tokens": [
+      "きれい"
+    ],
+    "ai_count": 54,
+    "clean_count": 12,
+    "ai_per_1k": 0.0319,
+    "clean_per_1k": 0.0049,
+    "G2": 46.43,
+    "ratio": 6.48,
+    "rank": 310
+  },
+  {
+    "ngram": "外せ",
+    "tokens": [
+      "外せ"
+    ],
+    "ai_count": 26,
+    "clean_count": 0,
+    "ai_per_1k": 0.0153,
+    "clean_per_1k": 0.0,
+    "G2": 46.4,
+    "ratio": null,
+    "rank": 311
+  },
+  {
+    "ngram": "暮らし",
+    "tokens": [
+      "暮らし"
+    ],
+    "ai_count": 86,
+    "clean_count": 34,
+    "ai_per_1k": 0.0508,
+    "clean_per_1k": 0.0139,
+    "G2": 46.26,
+    "ratio": 3.64,
+    "rank": 312
+  },
+  {
+    "ngram": "バリデーション",
+    "tokens": [
+      "バリデーション"
+    ],
+    "ai_count": 30,
+    "clean_count": 1,
+    "ai_per_1k": 0.0177,
+    "clean_per_1k": 0.0004,
+    "G2": 45.75,
+    "ratio": 43.22,
+    "rank": 313
+  },
+  {
+    "ngram": "質感",
+    "tokens": [
+      "質感"
+    ],
+    "ai_count": 30,
+    "clean_count": 1,
+    "ai_per_1k": 0.0177,
+    "clean_per_1k": 0.0004,
+    "G2": 45.75,
+    "ratio": 43.22,
+    "rank": 314
+  },
+  {
+    "ngram": "userId",
+    "tokens": [
+      "userId"
+    ],
+    "ai_count": 30,
+    "clean_count": 1,
+    "ai_per_1k": 0.0177,
+    "clean_per_1k": 0.0004,
+    "G2": 45.75,
+    "ratio": 43.22,
+    "rank": 315
+  },
+  {
+    "ngram": "fx",
+    "tokens": [
+      "fx"
+    ],
+    "ai_count": 30,
+    "clean_count": 1,
+    "ai_per_1k": 0.0177,
+    "clean_per_1k": 0.0004,
+    "G2": 45.75,
+    "ratio": 43.22,
+    "rank": 316
+  },
+  {
+    "ngram": "配下",
+    "tokens": [
+      "配下"
+    ],
+    "ai_count": 73,
+    "clean_count": 25,
+    "ai_per_1k": 0.0431,
+    "clean_per_1k": 0.0102,
+    "G2": 45.33,
+    "ratio": 4.21,
+    "rank": 317
+  },
+  {
+    "ngram": "重い",
+    "tokens": [
+      "重い"
+    ],
+    "ai_count": 64,
+    "clean_count": 19,
+    "ai_per_1k": 0.0378,
+    "clean_per_1k": 0.0078,
+    "G2": 44.94,
+    "ratio": 4.85,
+    "rank": 318
+  },
+  {
+    "ngram": "定番",
+    "tokens": [
+      "定番"
+    ],
+    "ai_count": 86,
+    "clean_count": 35,
+    "ai_per_1k": 0.0508,
+    "clean_per_1k": 0.0143,
+    "G2": 44.81,
+    "ratio": 3.54,
+    "rank": 319
+  },
+  {
+    "ngram": "まさに",
+    "tokens": [
+      "まさに"
+    ],
+    "ai_count": 86,
+    "clean_count": 35,
+    "ai_per_1k": 0.0508,
+    "clean_per_1k": 0.0143,
+    "G2": 44.81,
+    "ratio": 3.54,
+    "rank": 320
+  },
+  {
+    "ngram": "はっきり",
+    "tokens": [
+      "はっきり"
+    ],
+    "ai_count": 82,
+    "clean_count": 32,
+    "ai_per_1k": 0.0484,
+    "clean_per_1k": 0.0131,
+    "G2": 44.73,
+    "ratio": 3.69,
+    "rank": 321
+  },
+  {
+    "ngram": "日常的",
+    "tokens": [
+      "日常的"
+    ],
+    "ai_count": 51,
+    "clean_count": 11,
+    "ai_per_1k": 0.0301,
+    "clean_per_1k": 0.0045,
+    "G2": 44.64,
+    "ratio": 6.68,
+    "rank": 322
+  },
+  {
+    "ngram": "退避",
+    "tokens": [
+      "退避"
+    ],
+    "ai_count": 35,
+    "clean_count": 3,
+    "ai_per_1k": 0.0207,
+    "clean_per_1k": 0.0012,
+    "G2": 44.63,
+    "ratio": 16.81,
+    "rank": 323
+  },
+  {
+    "ngram": "肩書き",
+    "tokens": [
+      "肩書き"
+    ],
+    "ai_count": 35,
+    "clean_count": 3,
+    "ai_per_1k": 0.0207,
+    "clean_per_1k": 0.0012,
+    "G2": 44.63,
+    "ratio": 16.81,
+    "rank": 324
+  },
+  {
+    "ngram": "振り返っ",
+    "tokens": [
+      "振り返っ"
+    ],
+    "ai_count": 71,
+    "clean_count": 24,
+    "ai_per_1k": 0.0419,
+    "clean_per_1k": 0.0098,
+    "G2": 44.62,
+    "ratio": 4.26,
+    "rank": 325
+  },
+  {
+    "ngram": "Widget",
+    "tokens": [
+      "Widget"
+    ],
+    "ai_count": 25,
+    "clean_count": 0,
+    "ai_per_1k": 0.0148,
+    "clean_per_1k": 0.0,
+    "G2": 44.61,
+    "ratio": null,
+    "rank": 326
+  },
+  {
+    "ngram": "DEPLOY",
+    "tokens": [
+      "DEPLOY"
+    ],
+    "ai_count": 25,
+    "clean_count": 0,
+    "ai_per_1k": 0.0148,
+    "clean_per_1k": 0.0,
+    "G2": 44.61,
+    "ratio": null,
+    "rank": 327
+  },
+  {
+    "ngram": "ざっくり",
+    "tokens": [
+      "ざっくり"
+    ],
+    "ai_count": 79,
+    "clean_count": 30,
+    "ai_per_1k": 0.0466,
+    "clean_per_1k": 0.0123,
+    "G2": 44.34,
+    "ratio": 3.79,
+    "rank": 328
+  },
+  {
+    "ngram": "material",
+    "tokens": [
+      "material"
+    ],
+    "ai_count": 65,
+    "clean_count": 20,
+    "ai_per_1k": 0.0384,
+    "clean_per_1k": 0.0082,
+    "G2": 44.33,
+    "ratio": 4.68,
+    "rank": 329
+  },
+  {
+    "ngram": "backend",
+    "tokens": [
+      "backend"
+    ],
+    "ai_count": 98,
+    "clean_count": 45,
+    "ai_per_1k": 0.0578,
+    "clean_per_1k": 0.0184,
+    "G2": 44.21,
+    "ratio": 3.14,
+    "rank": 330
+  },
+  {
+    "ngram": "フェーズ",
+    "tokens": [
+      "フェーズ"
+    ],
+    "ai_count": 84,
+    "clean_count": 34,
+    "ai_per_1k": 0.0496,
+    "clean_per_1k": 0.0139,
+    "G2": 44.04,
+    "ratio": 3.56,
+    "rank": 331
+  },
+  {
+    "ngram": "観客",
+    "tokens": [
+      "観客"
+    ],
+    "ai_count": 84,
+    "clean_count": 34,
+    "ai_per_1k": 0.0496,
+    "clean_per_1k": 0.0139,
+    "G2": 44.04,
+    "ratio": 3.56,
+    "rank": 332
+  },
+  {
+    "ngram": "\n\n      ",
+    "tokens": [
+      "\n\n      "
+    ],
+    "ai_count": 29,
+    "clean_count": 1,
+    "ai_per_1k": 0.0171,
+    "clean_per_1k": 0.0004,
+    "G2": 44.04,
+    "ratio": 41.78,
+    "rank": 333
+  },
+  {
+    "ngram": "混在",
+    "tokens": [
+      "混在"
+    ],
+    "ai_count": 37,
+    "clean_count": 4,
+    "ai_per_1k": 0.0218,
+    "clean_per_1k": 0.0016,
+    "G2": 44.03,
+    "ratio": 13.33,
+    "rank": 334
+  },
+  {
+    "ngram": "feature",
+    "tokens": [
+      "feature"
+    ],
+    "ai_count": 73,
+    "clean_count": 26,
+    "ai_per_1k": 0.0431,
+    "clean_per_1k": 0.0107,
+    "G2": 43.68,
+    "ratio": 4.04,
+    "rank": 335
+  },
+  {
+    "ngram": "据え",
+    "tokens": [
+      "据え"
+    ],
+    "ai_count": 43,
+    "clean_count": 7,
+    "ai_per_1k": 0.0254,
+    "clean_per_1k": 0.0029,
+    "G2": 43.62,
+    "ratio": 8.85,
+    "rank": 336
+  },
+  {
+    "ngram": "減り",
+    "tokens": [
+      "減り"
+    ],
+    "ai_count": 41,
+    "clean_count": 6,
+    "ai_per_1k": 0.0242,
+    "clean_per_1k": 0.0025,
+    "G2": 43.59,
+    "ratio": 9.84,
+    "rank": 337
+  },
+  {
+    "ngram": "聞か",
+    "tokens": [
+      "聞か"
+    ],
+    "ai_count": 86,
+    "clean_count": 36,
+    "ai_per_1k": 0.0508,
+    "clean_per_1k": 0.0147,
+    "G2": 43.41,
+    "ratio": 3.44,
+    "rank": 338
+  },
+  {
+    "ngram": "足す",
+    "tokens": [
+      "足す"
+    ],
+    "ai_count": 34,
+    "clean_count": 3,
+    "ai_per_1k": 0.0201,
+    "clean_per_1k": 0.0012,
+    "G2": 43.01,
+    "ratio": 16.33,
+    "rank": 339
+  },
+  {
+    "ngram": "\n                    ",
+    "tokens": [
+      "\n                    "
+    ],
+    "ai_count": 24,
+    "clean_count": 0,
+    "ai_per_1k": 0.0142,
+    "clean_per_1k": 0.0,
+    "G2": 42.83,
+    "ratio": null,
+    "rank": 340
+  },
+  {
+    "ngram": "gha",
+    "tokens": [
+      "gha"
+    ],
+    "ai_count": 24,
+    "clean_count": 0,
+    "ai_per_1k": 0.0142,
+    "clean_per_1k": 0.0,
+    "G2": 42.83,
+    "ratio": null,
+    "rank": 341
+  },
+  {
+    "ngram": "ALB",
+    "tokens": [
+      "ALB"
+    ],
+    "ai_count": 46,
+    "clean_count": 9,
+    "ai_per_1k": 0.0272,
+    "clean_per_1k": 0.0037,
+    "G2": 42.56,
+    "ratio": 7.36,
+    "rank": 342
+  },
+  {
+    "ngram": "ハマっ",
+    "tokens": [
+      "ハマっ"
+    ],
+    "ai_count": 65,
+    "clean_count": 21,
+    "ai_per_1k": 0.0384,
+    "clean_per_1k": 0.0086,
+    "G2": 42.53,
+    "ratio": 4.46,
+    "rank": 343
+  },
+  {
+    "ngram": "絞る",
+    "tokens": [
+      "絞る"
+    ],
+    "ai_count": 36,
+    "clean_count": 4,
+    "ai_per_1k": 0.0212,
+    "clean_per_1k": 0.0016,
+    "G2": 42.45,
+    "ratio": 12.97,
+    "rank": 344
+  },
+  {
+    "ngram": "振り返る",
+    "tokens": [
+      "振り返る"
+    ],
+    "ai_count": 76,
+    "clean_count": 29,
+    "ai_per_1k": 0.0449,
+    "clean_per_1k": 0.0119,
+    "G2": 42.44,
+    "ratio": 3.78,
+    "rank": 345
+  },
+  {
+    "ngram": "size",
+    "tokens": [
+      "size"
+    ],
+    "ai_count": 95,
+    "clean_count": 44,
+    "ai_per_1k": 0.0561,
+    "clean_per_1k": 0.018,
+    "G2": 42.38,
+    "ratio": 3.11,
+    "rank": 346
+  },
+  {
+    "ngram": "position",
+    "tokens": [
+      "position"
+    ],
+    "ai_count": 28,
+    "clean_count": 1,
+    "ai_per_1k": 0.0165,
+    "clean_per_1k": 0.0004,
+    "G2": 42.32,
+    "ratio": 40.34,
+    "rank": 347
+  },
+  {
+    "ngram": "iam",
+    "tokens": [
+      "iam"
+    ],
+    "ai_count": 28,
+    "clean_count": 1,
+    "ai_per_1k": 0.0165,
+    "clean_per_1k": 0.0004,
+    "G2": 42.32,
+    "ratio": 40.34,
+    "rank": 348
+  },
+  {
+    "ngram": "止まる",
+    "tokens": [
+      "止まる"
+    ],
+    "ai_count": 44,
+    "clean_count": 8,
+    "ai_per_1k": 0.026,
+    "clean_per_1k": 0.0033,
+    "G2": 42.3,
+    "ratio": 7.92,
+    "rank": 349
+  },
+  {
+    "ngram": "保ち",
+    "tokens": [
+      "保ち"
+    ],
+    "ai_count": 42,
+    "clean_count": 7,
+    "ai_per_1k": 0.0248,
+    "clean_per_1k": 0.0029,
+    "G2": 42.14,
+    "ratio": 8.64,
+    "rank": 350
+  },
+  {
+    "ngram": "useState",
+    "tokens": [
+      "useState"
+    ],
+    "ai_count": 66,
+    "clean_count": 22,
+    "ai_per_1k": 0.039,
+    "clean_per_1k": 0.009,
+    "G2": 42.0,
+    "ratio": 4.32,
+    "rank": 351
+  },
+  {
+    "ngram": "題材",
+    "tokens": [
+      "題材"
+    ],
+    "ai_count": 79,
+    "clean_count": 32,
+    "ai_per_1k": 0.0466,
+    "clean_per_1k": 0.0131,
+    "G2": 41.38,
+    "ratio": 3.56,
+    "rank": 352
+  },
+  {
+    "ngram": "void",
+    "tokens": [
+      "void"
+    ],
+    "ai_count": 71,
+    "clean_count": 26,
+    "ai_per_1k": 0.0419,
+    "clean_per_1k": 0.0107,
+    "G2": 41.34,
+    "ratio": 3.93,
+    "rank": 353
+  },
+  {
+    "ngram": "向こう",
+    "tokens": [
+      "向こう"
+    ],
+    "ai_count": 61,
+    "clean_count": 19,
+    "ai_per_1k": 0.036,
+    "clean_per_1k": 0.0078,
+    "G2": 41.18,
+    "ratio": 4.63,
+    "rank": 354
+  },
+  {
+    "ngram": "arn",
+    "tokens": [
+      "arn"
+    ],
+    "ai_count": 23,
+    "clean_count": 0,
+    "ai_per_1k": 0.0136,
+    "clean_per_1k": 0.0,
+    "G2": 41.04,
+    "ratio": null,
+    "rank": 355
+  },
+  {
+    "ngram": "emitter",
+    "tokens": [
+      "emitter"
+    ],
+    "ai_count": 23,
+    "clean_count": 0,
+    "ai_per_1k": 0.0136,
+    "clean_per_1k": 0.0,
+    "G2": 41.04,
+    "ratio": null,
+    "rank": 356
+  },
+  {
+    "ngram": "私自身",
+    "tokens": [
+      "私自身"
+    ],
+    "ai_count": 50,
+    "clean_count": 12,
+    "ai_per_1k": 0.0295,
+    "clean_per_1k": 0.0049,
+    "G2": 40.95,
+    "ratio": 6.0,
+    "rank": 357
+  },
+  {
+    "ngram": "書き換え",
+    "tokens": [
+      "書き換え"
+    ],
+    "ai_count": 81,
+    "clean_count": 34,
+    "ai_per_1k": 0.0478,
+    "clean_per_1k": 0.0139,
+    "G2": 40.75,
+    "ratio": 3.43,
+    "rank": 358
+  },
+  {
+    "ngram": "典型的",
+    "tokens": [
+      "典型的"
+    ],
+    "ai_count": 53,
+    "clean_count": 14,
+    "ai_per_1k": 0.0313,
+    "clean_per_1k": 0.0057,
+    "G2": 40.66,
+    "ratio": 5.45,
+    "rank": 359
+  },
+  {
+    "ngram": "全体像",
+    "tokens": [
+      "全体像"
+    ],
+    "ai_count": 53,
+    "clean_count": 14,
+    "ai_per_1k": 0.0313,
+    "clean_per_1k": 0.0057,
+    "G2": 40.66,
+    "ratio": 5.45,
+    "rank": 360
+  },
+  {
+    "ngram": "書き出し",
+    "tokens": [
+      "書き出し"
+    ],
+    "ai_count": 53,
+    "clean_count": 14,
+    "ai_per_1k": 0.0313,
+    "clean_per_1k": 0.0057,
+    "G2": 40.66,
+    "ratio": 5.45,
+    "rank": 361
+  },
+  {
+    "ngram": "重宝",
+    "tokens": [
+      "重宝"
+    ],
+    "ai_count": 37,
+    "clean_count": 5,
+    "ai_per_1k": 0.0218,
+    "clean_per_1k": 0.002,
+    "G2": 40.64,
+    "ratio": 10.66,
+    "rank": 362
+  },
+  {
+    "ngram": "語り継が",
+    "tokens": [
+      "語り継が"
+    ],
+    "ai_count": 27,
+    "clean_count": 1,
+    "ai_per_1k": 0.0159,
+    "clean_per_1k": 0.0004,
+    "G2": 40.61,
+    "ratio": 38.9,
+    "rank": 363
+  },
+  {
+    "ngram": "ときどき",
+    "tokens": [
+      "ときどき"
+    ],
+    "ai_count": 27,
+    "clean_count": 1,
+    "ai_per_1k": 0.0159,
+    "clean_per_1k": 0.0004,
+    "G2": 40.61,
+    "ratio": 38.9,
+    "rank": 364
+  },
+  {
+    "ngram": "スタック",
+    "tokens": [
+      "スタック"
+    ],
+    "ai_count": 69,
+    "clean_count": 25,
+    "ai_per_1k": 0.0407,
+    "clean_per_1k": 0.0102,
+    "G2": 40.6,
+    "ratio": 3.98,
+    "rank": 365
+  },
+  {
+    "ngram": "本格的",
+    "tokens": [
+      "本格的"
+    ],
+    "ai_count": 88,
+    "clean_count": 40,
+    "ai_per_1k": 0.0519,
+    "clean_per_1k": 0.0164,
+    "G2": 40.21,
+    "ratio": 3.17,
+    "rank": 366
+  },
+  {
+    "ngram": "壊れ",
+    "tokens": [
+      "壊れ"
+    ],
+    "ai_count": 46,
+    "clean_count": 10,
+    "ai_per_1k": 0.0272,
+    "clean_per_1k": 0.0041,
+    "G2": 40.08,
+    "ratio": 6.63,
+    "rank": 367
+  },
+  {
+    "ngram": "目安",
+    "tokens": [
+      "目安"
+    ],
+    "ai_count": 44,
+    "clean_count": 9,
+    "ai_per_1k": 0.026,
+    "clean_per_1k": 0.0037,
+    "G2": 39.72,
+    "ratio": 7.04,
+    "rank": 368
+  },
+  {
+    "ngram": "走ら",
+    "tokens": [
+      "走ら"
+    ],
+    "ai_count": 49,
+    "clean_count": 12,
+    "ai_per_1k": 0.0289,
+    "clean_per_1k": 0.0049,
+    "G2": 39.6,
+    "ratio": 5.88,
+    "rank": 369
+  },
+  {
+    "ngram": "観察",
+    "tokens": [
+      "観察"
+    ],
+    "ai_count": 81,
+    "clean_count": 35,
+    "ai_per_1k": 0.0478,
+    "clean_per_1k": 0.0143,
+    "G2": 39.39,
+    "ratio": 3.33,
+    "rank": 370
+  },
+  {
+    "ngram": "サイドバー",
+    "tokens": [
+      "サイドバー"
+    ],
+    "ai_count": 34,
+    "clean_count": 4,
+    "ai_per_1k": 0.0201,
+    "clean_per_1k": 0.0016,
+    "G2": 39.32,
+    "ratio": 12.25,
+    "rank": 371
+  },
+  {
+    "ngram": "純粋",
+    "tokens": [
+      "純粋"
+    ],
+    "ai_count": 55,
+    "clean_count": 16,
+    "ai_per_1k": 0.0325,
+    "clean_per_1k": 0.0066,
+    "G2": 39.25,
+    "ratio": 4.95,
+    "rank": 372
+  },
+  {
+    "ngram": "バックエンド",
+    "tokens": [
+      "バックエンド"
+    ],
+    "ai_count": 87,
+    "clean_count": 40,
+    "ai_per_1k": 0.0513,
+    "clean_per_1k": 0.0164,
+    "G2": 39.18,
+    "ratio": 3.13,
+    "rank": 373
+  },
+  {
+    "ngram": "関わり",
+    "tokens": [
+      "関わり"
+    ],
+    "ai_count": 47,
+    "clean_count": 11,
+    "ai_per_1k": 0.0277,
+    "clean_per_1k": 0.0045,
+    "G2": 39.13,
+    "ratio": 6.16,
+    "rank": 374
+  },
+  {
+    "ngram": "ロール",
+    "tokens": [
+      "ロール"
+    ],
+    "ai_count": 82,
+    "clean_count": 36,
+    "ai_per_1k": 0.0484,
+    "clean_per_1k": 0.0147,
+    "G2": 39.12,
+    "ratio": 3.28,
+    "rank": 375
+  },
+  {
+    "ngram": "意識的",
+    "tokens": [
+      "意識的"
+    ],
+    "ai_count": 36,
+    "clean_count": 5,
+    "ai_per_1k": 0.0212,
+    "clean_per_1k": 0.002,
+    "G2": 39.11,
+    "ratio": 10.37,
+    "rank": 376
+  },
+  {
+    "ngram": "おおむね",
+    "tokens": [
+      "おおむね"
+    ],
+    "ai_count": 36,
+    "clean_count": 5,
+    "ai_per_1k": 0.0212,
+    "clean_per_1k": 0.002,
+    "G2": 39.11,
+    "ratio": 10.37,
+    "rank": 377
+  },
+  {
+    "ngram": "組み込む",
+    "tokens": [
+      "組み込む"
+    ],
+    "ai_count": 36,
+    "clean_count": 5,
+    "ai_per_1k": 0.0212,
+    "clean_per_1k": 0.002,
+    "G2": 39.11,
+    "ratio": 10.37,
+    "rank": 378
+  },
+  {
+    "ngram": "手触り",
+    "tokens": [
+      "手触り"
+    ],
+    "ai_count": 29,
+    "clean_count": 2,
+    "ai_per_1k": 0.0171,
+    "clean_per_1k": 0.0008,
+    "G2": 39.03,
+    "ratio": 20.89,
+    "rank": 379
+  },
+  {
+    "ngram": "gpg",
+    "tokens": [
+      "gpg"
+    ],
+    "ai_count": 29,
+    "clean_count": 2,
+    "ai_per_1k": 0.0171,
+    "clean_per_1k": 0.0008,
+    "G2": 39.03,
+    "ratio": 20.89,
+    "rank": 380
+  },
+  {
+    "ngram": "奥行き",
+    "tokens": [
+      "奥行き"
+    ],
+    "ai_count": 26,
+    "clean_count": 1,
+    "ai_per_1k": 0.0153,
+    "clean_per_1k": 0.0004,
+    "G2": 38.9,
+    "ratio": 37.46,
+    "rank": 381
+  },
+  {
+    "ngram": "acc",
+    "tokens": [
+      "acc"
+    ],
+    "ai_count": 26,
+    "clean_count": 1,
+    "ai_per_1k": 0.0153,
+    "clean_per_1k": 0.0004,
+    "G2": 38.9,
+    "ratio": 37.46,
+    "rank": 382
+  },
+  {
+    "ngram": "広がっ",
+    "tokens": [
+      "広がっ"
+    ],
+    "ai_count": 78,
+    "clean_count": 33,
+    "ai_per_1k": 0.046,
+    "clean_per_1k": 0.0135,
+    "G2": 38.89,
+    "ratio": 3.41,
+    "rank": 383
+  },
+  {
+    "ngram": "本質",
+    "tokens": [
+      "本質"
+    ],
+    "ai_count": 59,
+    "clean_count": 19,
+    "ai_per_1k": 0.0348,
+    "clean_per_1k": 0.0078,
+    "G2": 38.71,
+    "ratio": 4.47,
+    "rank": 384
+  },
+  {
+    "ngram": "Kotlin",
+    "tokens": [
+      "Kotlin"
+    ],
+    "ai_count": 66,
+    "clean_count": 24,
+    "ai_per_1k": 0.039,
+    "clean_per_1k": 0.0098,
+    "G2": 38.7,
+    "ratio": 3.96,
+    "rank": 385
+  },
+  {
+    "ngram": "ありがたい",
+    "tokens": [
+      "ありがたい"
+    ],
+    "ai_count": 45,
+    "clean_count": 10,
+    "ai_per_1k": 0.0266,
+    "clean_per_1k": 0.0041,
+    "G2": 38.69,
+    "ratio": 6.48,
+    "rank": 386
+  },
+  {
+    "ngram": "観",
+    "tokens": [
+      "観"
+    ],
+    "ai_count": 84,
+    "clean_count": 38,
+    "ai_per_1k": 0.0496,
+    "clean_per_1k": 0.0156,
+    "G2": 38.62,
+    "ratio": 3.18,
+    "rank": 387
+  },
+  {
+    "ngram": "切り替える",
+    "tokens": [
+      "切り替える"
+    ],
+    "ai_count": 79,
+    "clean_count": 34,
+    "ai_per_1k": 0.0466,
+    "clean_per_1k": 0.0139,
+    "G2": 38.6,
+    "ratio": 3.35,
+    "rank": 388
+  },
+  {
+    "ngram": "ぼんやり",
+    "tokens": [
+      "ぼんやり"
+    ],
+    "ai_count": 43,
+    "clean_count": 9,
+    "ai_per_1k": 0.0254,
+    "clean_per_1k": 0.0037,
+    "G2": 38.31,
+    "ratio": 6.88,
+    "rank": 389
+  },
+  {
+    "ngram": "overlay",
+    "tokens": [
+      "overlay"
+    ],
+    "ai_count": 43,
+    "clean_count": 9,
+    "ai_per_1k": 0.0254,
+    "clean_per_1k": 0.0037,
+    "G2": 38.31,
+    "ratio": 6.88,
+    "rank": 390
+  },
+  {
+    "ngram": "サブネット",
+    "tokens": [
+      "サブネット"
+    ],
+    "ai_count": 46,
+    "clean_count": 11,
+    "ai_per_1k": 0.0272,
+    "clean_per_1k": 0.0045,
+    "G2": 37.77,
+    "ratio": 6.02,
+    "rank": 391
+  },
+  {
+    "ngram": "決定的",
+    "tokens": [
+      "決定的"
+    ],
+    "ai_count": 39,
+    "clean_count": 7,
+    "ai_per_1k": 0.023,
+    "clean_per_1k": 0.0029,
+    "G2": 37.74,
+    "ratio": 8.03,
+    "rank": 392
+  },
+  {
+    "ngram": "String",
+    "tokens": [
+      "String"
+    ],
+    "ai_count": 69,
+    "clean_count": 27,
+    "ai_per_1k": 0.0407,
+    "clean_per_1k": 0.0111,
+    "G2": 37.53,
+    "ratio": 3.68,
+    "rank": 393
+  },
+  {
+    "ngram": "raise",
+    "tokens": [
+      "raise"
+    ],
+    "ai_count": 21,
+    "clean_count": 0,
+    "ai_per_1k": 0.0124,
+    "clean_per_1k": 0.0,
+    "G2": 37.47,
+    "ratio": null,
+    "rank": 394
+  },
+  {
+    "ngram": "cls",
+    "tokens": [
+      "cls"
+    ],
+    "ai_count": 21,
+    "clean_count": 0,
+    "ai_per_1k": 0.0124,
+    "clean_per_1k": 0.0,
+    "G2": 37.47,
+    "ratio": null,
+    "rank": 395
+  },
+  {
+    "ngram": "department",
+    "tokens": [
+      "department"
+    ],
+    "ai_count": 21,
+    "clean_count": 0,
+    "ai_per_1k": 0.0124,
+    "clean_per_1k": 0.0,
+    "G2": 37.47,
+    "ratio": null,
+    "rank": 396
+  },
+  {
+    "ngram": "hcl",
+    "tokens": [
+      "hcl"
+    ],
+    "ai_count": 21,
+    "clean_count": 0,
+    "ai_per_1k": 0.0124,
+    "clean_per_1k": 0.0,
+    "G2": 37.47,
+    "ratio": null,
+    "rank": 397
+  },
+  {
+    "ngram": "構造的",
+    "tokens": [
+      "構造的"
+    ],
+    "ai_count": 28,
+    "clean_count": 2,
+    "ai_per_1k": 0.0165,
+    "clean_per_1k": 0.0008,
+    "G2": 37.38,
+    "ratio": 20.17,
+    "rank": 398
+  },
+  {
+    "ngram": "数十",
+    "tokens": [
+      "数十"
+    ],
+    "ai_count": 55,
+    "clean_count": 17,
+    "ai_per_1k": 0.0325,
+    "clean_per_1k": 0.007,
+    "G2": 37.37,
+    "ratio": 4.66,
+    "rank": 399
+  },
+  {
+    "ngram": "段階的",
+    "tokens": [
+      "段階的"
+    ],
+    "ai_count": 52,
+    "clean_count": 15,
+    "ai_per_1k": 0.0307,
+    "clean_per_1k": 0.0061,
+    "G2": 37.35,
+    "ratio": 4.99,
+    "rank": 400
+  },
+  {
+    "ngram": "寄り",
+    "tokens": [
+      "寄り"
+    ],
+    "ai_count": 44,
+    "clean_count": 10,
+    "ai_per_1k": 0.026,
+    "clean_per_1k": 0.0041,
+    "G2": 37.31,
+    "ratio": 6.34,
+    "rank": 401
+  },
+  {
+    "ngram": "しまえ",
+    "tokens": [
+      "しまえ"
+    ],
+    "ai_count": 62,
+    "clean_count": 22,
+    "ai_per_1k": 0.0366,
+    "clean_per_1k": 0.009,
+    "G2": 37.23,
+    "ratio": 4.06,
+    "rank": 402
+  },
+  {
+    "ngram": "ステージング",
+    "tokens": [
+      "ステージング"
+    ],
+    "ai_count": 25,
+    "clean_count": 1,
+    "ai_per_1k": 0.0148,
+    "clean_per_1k": 0.0004,
+    "G2": 37.19,
+    "ratio": 36.02,
+    "rank": 403
+  },
+  {
+    "ngram": "実感",
+    "tokens": [
+      "実感"
+    ],
+    "ai_count": 66,
+    "clean_count": 25,
+    "ai_per_1k": 0.039,
+    "clean_per_1k": 0.0102,
+    "G2": 37.14,
+    "ratio": 3.8,
+    "rank": 404
+  },
+  {
+    "ngram": "つながっ",
+    "tokens": [
+      "つながっ"
+    ],
+    "ai_count": 59,
+    "clean_count": 20,
+    "ai_per_1k": 0.0348,
+    "clean_per_1k": 0.0082,
+    "G2": 36.98,
+    "ratio": 4.25,
+    "rank": 405
+  },
+  {
+    "ngram": "向き",
+    "tokens": [
+      "向き"
+    ],
+    "ai_count": 50,
+    "clean_count": 14,
+    "ai_per_1k": 0.0295,
+    "clean_per_1k": 0.0057,
+    "G2": 36.75,
+    "ratio": 5.15,
+    "rank": 406
+  },
+  {
+    "ngram": "macOS",
+    "tokens": [
+      "macOS"
+    ],
+    "ai_count": 72,
+    "clean_count": 30,
+    "ai_per_1k": 0.0425,
+    "clean_per_1k": 0.0123,
+    "G2": 36.53,
+    "ratio": 3.46,
+    "rank": 407
+  },
+  {
+    "ngram": "広がり",
+    "tokens": [
+      "広がり"
+    ],
+    "ai_count": 45,
+    "clean_count": 11,
+    "ai_per_1k": 0.0266,
+    "clean_per_1k": 0.0045,
+    "G2": 36.42,
+    "ratio": 5.89,
+    "rank": 408
+  },
+  {
+    "ngram": "残す",
+    "tokens": [
+      "残す"
+    ],
+    "ai_count": 64,
+    "clean_count": 24,
+    "ai_per_1k": 0.0378,
+    "clean_per_1k": 0.0098,
+    "G2": 36.39,
+    "ratio": 3.84,
+    "rank": 409
+  },
+  {
+    "ngram": "ICMP",
+    "tokens": [
+      "ICMP"
+    ],
+    "ai_count": 32,
+    "clean_count": 4,
+    "ai_per_1k": 0.0189,
+    "clean_per_1k": 0.0016,
+    "G2": 36.21,
+    "ratio": 11.53,
+    "rank": 410
+  },
+  {
+    "ngram": "扱える",
+    "tokens": [
+      "扱える"
+    ],
+    "ai_count": 48,
+    "clean_count": 13,
+    "ai_per_1k": 0.0283,
+    "clean_per_1k": 0.0053,
+    "G2": 36.16,
+    "ratio": 5.32,
+    "rank": 411
+  },
+  {
+    "ngram": "表れ",
+    "tokens": [
+      "表れ"
+    ],
+    "ai_count": 36,
+    "clean_count": 6,
+    "ai_per_1k": 0.0212,
+    "clean_per_1k": 0.0025,
+    "G2": 36.12,
+    "ratio": 8.64,
+    "rank": 412
+  },
+  {
+    "ngram": "気づく",
+    "tokens": [
+      "気づく"
+    ],
+    "ai_count": 51,
+    "clean_count": 15,
+    "ai_per_1k": 0.0301,
+    "clean_per_1k": 0.0061,
+    "G2": 36.08,
+    "ratio": 4.9,
+    "rank": 413
+  },
+  {
+    "ngram": "分岐",
+    "tokens": [
+      "分岐"
+    ],
+    "ai_count": 51,
+    "clean_count": 15,
+    "ai_per_1k": 0.0301,
+    "clean_per_1k": 0.0061,
+    "G2": 36.08,
+    "ratio": 4.9,
+    "rank": 414
+  },
+  {
+    "ngram": "hadolint",
+    "tokens": [
+      "hadolint"
+    ],
+    "ai_count": 51,
+    "clean_count": 15,
+    "ai_per_1k": 0.0301,
+    "clean_per_1k": 0.0061,
+    "G2": 36.08,
+    "ratio": 4.9,
+    "rank": 415
+  },
+  {
+    "ngram": "歩い",
+    "tokens": [
+      "歩い"
+    ],
+    "ai_count": 69,
+    "clean_count": 28,
+    "ai_per_1k": 0.0407,
+    "clean_per_1k": 0.0115,
+    "G2": 36.07,
+    "ratio": 3.55,
+    "rank": 416
+  },
+  {
+    "ngram": "使い分ける",
+    "tokens": [
+      "使い分ける"
+    ],
+    "ai_count": 34,
+    "clean_count": 5,
+    "ai_per_1k": 0.0201,
+    "clean_per_1k": 0.002,
+    "G2": 36.07,
+    "ratio": 9.8,
+    "rank": 417
+  },
+  {
+    "ngram": "pip",
+    "tokens": [
+      "pip"
+    ],
+    "ai_count": 65,
+    "clean_count": 25,
+    "ai_per_1k": 0.0384,
+    "clean_per_1k": 0.0102,
+    "G2": 36.0,
+    "ratio": 3.75,
+    "rank": 418
+  },
+  {
+    "ngram": "ぶん",
+    "tokens": [
+      "ぶん"
+    ],
+    "ai_count": 43,
+    "clean_count": 10,
+    "ai_per_1k": 0.0254,
+    "clean_per_1k": 0.0041,
+    "G2": 35.94,
+    "ratio": 6.19,
+    "rank": 419
+  },
+  {
+    "ngram": "書き手",
+    "tokens": [
+      "書き手"
+    ],
+    "ai_count": 27,
+    "clean_count": 2,
+    "ai_per_1k": 0.0159,
+    "clean_per_1k": 0.0008,
+    "G2": 35.74,
+    "ratio": 19.45,
+    "rank": 420
+  },
+  {
+    "ngram": "Storybook",
+    "tokens": [
+      "Storybook"
+    ],
+    "ai_count": 27,
+    "clean_count": 2,
+    "ai_per_1k": 0.0159,
+    "clean_per_1k": 0.0008,
+    "G2": 35.74,
+    "ratio": 19.45,
+    "rank": 421
+  },
+  {
+    "ngram": "アサーション",
+    "tokens": [
+      "アサーション"
+    ],
+    "ai_count": 27,
+    "clean_count": 2,
+    "ai_per_1k": 0.0159,
+    "clean_per_1k": 0.0008,
+    "G2": 35.74,
+    "ratio": 19.45,
+    "rank": 422
+  },
+  {
+    "ngram": "myapp",
+    "tokens": [
+      "myapp"
+    ],
+    "ai_count": 20,
+    "clean_count": 0,
+    "ai_per_1k": 0.0118,
+    "clean_per_1k": 0.0,
+    "G2": 35.69,
+    "ratio": null,
+    "rank": 423
+  },
+  {
+    "ngram": "ParentClass",
+    "tokens": [
+      "ParentClass"
+    ],
+    "ai_count": 20,
+    "clean_count": 0,
+    "ai_per_1k": 0.0118,
+    "clean_per_1k": 0.0,
+    "G2": 35.69,
+    "ratio": null,
+    "rank": 424
+  },
+  {
+    "ngram": "積み上げ",
+    "tokens": [
+      "積み上げ"
+    ],
+    "ai_count": 46,
+    "clean_count": 12,
+    "ai_per_1k": 0.0272,
+    "clean_per_1k": 0.0049,
+    "G2": 35.6,
+    "ratio": 5.52,
+    "rank": 425
+  },
+  {
+    "ngram": "論点",
+    "tokens": [
+      "論点"
+    ],
+    "ai_count": 24,
+    "clean_count": 1,
+    "ai_per_1k": 0.0142,
+    "clean_per_1k": 0.0004,
+    "G2": 35.49,
+    "ratio": 34.58,
+    "rank": 426
+  },
+  {
+    "ngram": "戻り値",
+    "tokens": [
+      "戻り値"
+    ],
+    "ai_count": 59,
+    "clean_count": 21,
+    "ai_per_1k": 0.0348,
+    "clean_per_1k": 0.0086,
+    "G2": 35.32,
+    "ratio": 4.05,
+    "rank": 427
+  },
+  {
+    "ngram": "打つ",
+    "tokens": [
+      "打つ"
+    ],
+    "ai_count": 60,
+    "clean_count": 22,
+    "ai_per_1k": 0.0354,
+    "clean_per_1k": 0.009,
+    "G2": 34.89,
+    "ratio": 3.93,
+    "rank": 428
+  },
+  {
+    "ngram": "足し",
+    "tokens": [
+      "足し"
+    ],
+    "ai_count": 47,
+    "clean_count": 13,
+    "ai_per_1k": 0.0277,
+    "clean_per_1k": 0.0053,
+    "G2": 34.86,
+    "ratio": 5.21,
+    "rank": 429
+  },
+  {
+    "ngram": "所感",
+    "tokens": [
+      "所感"
+    ],
+    "ai_count": 35,
+    "clean_count": 6,
+    "ai_per_1k": 0.0207,
+    "clean_per_1k": 0.0025,
+    "G2": 34.65,
+    "ratio": 8.4,
+    "rank": 430
+  },
+  {
+    "ngram": "arr",
+    "tokens": [
+      "arr"
+    ],
+    "ai_count": 42,
+    "clean_count": 10,
+    "ai_per_1k": 0.0248,
+    "clean_per_1k": 0.0041,
+    "G2": 34.58,
+    "ratio": 6.05,
+    "rank": 431
+  },
+  {
+    "ngram": "象徴的",
+    "tokens": [
+      "象徴的"
+    ],
+    "ai_count": 33,
+    "clean_count": 5,
+    "ai_per_1k": 0.0195,
+    "clean_per_1k": 0.002,
+    "G2": 34.57,
+    "ratio": 9.51,
+    "rank": 432
+  },
+  {
+    "ngram": "mark",
+    "tokens": [
+      "mark"
+    ],
+    "ai_count": 33,
+    "clean_count": 5,
+    "ai_per_1k": 0.0195,
+    "clean_per_1k": 0.002,
+    "G2": 34.57,
+    "ratio": 9.51,
+    "rank": 433
+  },
+  {
+    "ngram": "ふと",
+    "tokens": [
+      "ふと"
+    ],
+    "ai_count": 75,
+    "clean_count": 34,
+    "ai_per_1k": 0.0443,
+    "clean_per_1k": 0.0139,
+    "G2": 34.39,
+    "ratio": 3.18,
+    "rank": 434
+  },
+  {
+    "ngram": "params",
+    "tokens": [
+      "params"
+    ],
+    "ai_count": 48,
+    "clean_count": 14,
+    "ai_per_1k": 0.0283,
+    "clean_per_1k": 0.0057,
+    "G2": 34.18,
+    "ratio": 4.94,
+    "rank": 435
+  },
+  {
+    "ngram": "エイリアス",
+    "tokens": [
+      "エイリアス"
+    ],
+    "ai_count": 48,
+    "clean_count": 14,
+    "ai_per_1k": 0.0283,
+    "clean_per_1k": 0.0057,
+    "G2": 34.18,
+    "ratio": 4.94,
+    "rank": 436
+  },
+  {
+    "ngram": "gcloud",
+    "tokens": [
+      "gcloud"
+    ],
+    "ai_count": 26,
+    "clean_count": 2,
+    "ai_per_1k": 0.0153,
+    "clean_per_1k": 0.0008,
+    "G2": 34.1,
+    "ratio": 18.73,
+    "rank": 437
+  },
+  {
+    "ngram": "typescript",
+    "tokens": [
+      "typescript"
+    ],
+    "ai_count": 71,
+    "clean_count": 31,
+    "ai_per_1k": 0.0419,
+    "clean_per_1k": 0.0127,
+    "G2": 34.1,
+    "ratio": 3.3,
+    "rank": 438
+  },
+  {
+    "ngram": "半日",
+    "tokens": [
+      "半日"
+    ],
+    "ai_count": 19,
+    "clean_count": 0,
+    "ai_per_1k": 0.0112,
+    "clean_per_1k": 0.0,
+    "G2": 33.91,
+    "ratio": null,
+    "rank": 439
+  },
+  {
+    "ngram": "Counter",
+    "tokens": [
+      "Counter"
+    ],
+    "ai_count": 19,
+    "clean_count": 0,
+    "ai_per_1k": 0.0112,
+    "clean_per_1k": 0.0,
+    "G2": 33.91,
+    "ratio": null,
+    "rank": 440
+  },
+  {
+    "ngram": "pcd",
+    "tokens": [
+      "pcd"
+    ],
+    "ai_count": 19,
+    "clean_count": 0,
+    "ai_per_1k": 0.0112,
+    "clean_per_1k": 0.0,
+    "G2": 33.91,
+    "ratio": null,
+    "rank": 441
+  },
+  {
+    "ngram": "後段",
+    "tokens": [
+      "後段"
+    ],
+    "ai_count": 19,
+    "clean_count": 0,
+    "ai_per_1k": 0.0112,
+    "clean_per_1k": 0.0,
+    "G2": 33.91,
+    "ratio": null,
+    "rank": 442
+  },
+  {
+    "ngram": "大さじ",
+    "tokens": [
+      "大さじ"
+    ],
+    "ai_count": 19,
+    "clean_count": 0,
+    "ai_per_1k": 0.0112,
+    "clean_per_1k": 0.0,
+    "G2": 33.91,
+    "ratio": null,
+    "rank": 443
+  },
+  {
+    "ngram": "パイプライン",
+    "tokens": [
+      "パイプライン"
+    ],
+    "ai_count": 67,
+    "clean_count": 28,
+    "ai_per_1k": 0.0395,
+    "clean_per_1k": 0.0115,
+    "G2": 33.88,
+    "ratio": 3.45,
+    "rank": 444
+  },
+  {
+    "ngram": "軽い",
+    "tokens": [
+      "軽い"
+    ],
+    "ai_count": 55,
+    "clean_count": 19,
+    "ai_per_1k": 0.0325,
+    "clean_per_1k": 0.0078,
+    "G2": 33.88,
+    "ratio": 4.17,
+    "rank": 445
+  },
+  {
+    "ngram": "詰まる",
+    "tokens": [
+      "詰まる"
+    ],
+    "ai_count": 23,
+    "clean_count": 1,
+    "ai_per_1k": 0.0136,
+    "clean_per_1k": 0.0004,
+    "G2": 33.78,
+    "ratio": 33.13,
+    "rank": 446
+  },
+  {
+    "ngram": "作れ",
+    "tokens": [
+      "作れ"
+    ],
+    "ai_count": 63,
+    "clean_count": 25,
+    "ai_per_1k": 0.0372,
+    "clean_per_1k": 0.0102,
+    "G2": 33.75,
+    "ratio": 3.63,
+    "rank": 447
+  },
+  {
+    "ngram": "体系的",
+    "tokens": [
+      "体系的"
+    ],
+    "ai_count": 46,
+    "clean_count": 13,
+    "ai_per_1k": 0.0272,
+    "clean_per_1k": 0.0053,
+    "G2": 33.57,
+    "ratio": 5.1,
+    "rank": 448
+  },
+  {
+    "ngram": "PATH",
+    "tokens": [
+      "PATH"
+    ],
+    "ai_count": 28,
+    "clean_count": 3,
+    "ai_per_1k": 0.0165,
+    "clean_per_1k": 0.0012,
+    "G2": 33.42,
+    "ratio": 13.45,
+    "rank": 449
+  },
+  {
+    "ngram": "見え方",
+    "tokens": [
+      "見え方"
+    ],
+    "ai_count": 28,
+    "clean_count": 3,
+    "ai_per_1k": 0.0165,
+    "clean_per_1k": 0.0012,
+    "G2": 33.42,
+    "ratio": 13.45,
+    "rank": 450
+  },
+  {
+    "ngram": "モック",
+    "tokens": [
+      "モック"
+    ],
+    "ai_count": 36,
+    "clean_count": 7,
+    "ai_per_1k": 0.0212,
+    "clean_per_1k": 0.0029,
+    "G2": 33.42,
+    "ratio": 7.41,
+    "rank": 451
+  },
+  {
+    "ngram": "曖昧",
+    "tokens": [
+      "曖昧"
+    ],
+    "ai_count": 60,
+    "clean_count": 23,
+    "ai_per_1k": 0.0354,
+    "clean_per_1k": 0.0094,
+    "G2": 33.35,
+    "ratio": 3.76,
+    "rank": 452
+  },
+  {
+    "ngram": "location",
+    "tokens": [
+      "location"
+    ],
+    "ai_count": 41,
+    "clean_count": 10,
+    "ai_per_1k": 0.0242,
+    "clean_per_1k": 0.0041,
+    "G2": 33.23,
+    "ratio": 5.91,
+    "rank": 453
+  },
+  {
+    "ngram": "組む",
+    "tokens": [
+      "組む"
+    ],
+    "ai_count": 34,
+    "clean_count": 6,
+    "ai_per_1k": 0.0201,
+    "clean_per_1k": 0.0025,
+    "G2": 33.18,
+    "ratio": 8.16,
+    "rank": 454
+  },
+  {
+    "ngram": "かたち",
+    "tokens": [
+      "かたち"
+    ],
+    "ai_count": 30,
+    "clean_count": 4,
+    "ai_per_1k": 0.0177,
+    "clean_per_1k": 0.0016,
+    "G2": 33.12,
+    "ratio": 10.8,
+    "rank": 455
+  },
+  {
+    "ngram": "JOIN",
+    "tokens": [
+      "JOIN"
+    ],
+    "ai_count": 30,
+    "clean_count": 4,
+    "ai_per_1k": 0.0177,
+    "clean_per_1k": 0.0016,
+    "G2": 33.12,
+    "ratio": 10.8,
+    "rank": 456
+  },
+  {
+    "ngram": "腑",
+    "tokens": [
+      "腑"
+    ],
+    "ai_count": 32,
+    "clean_count": 5,
+    "ai_per_1k": 0.0189,
+    "clean_per_1k": 0.002,
+    "G2": 33.07,
+    "ratio": 9.22,
+    "rank": 457
+  },
+  {
+    "ngram": "忘れる",
+    "tokens": [
+      "忘れる"
+    ],
+    "ai_count": 39,
+    "clean_count": 9,
+    "ai_per_1k": 0.023,
+    "clean_per_1k": 0.0037,
+    "G2": 32.76,
+    "ratio": 6.24,
+    "rank": 458
+  },
+  {
+    "ngram": "実用的",
+    "tokens": [
+      "実用的"
+    ],
+    "ai_count": 39,
+    "clean_count": 9,
+    "ai_per_1k": 0.023,
+    "clean_per_1k": 0.0037,
+    "G2": 32.76,
+    "ratio": 6.24,
+    "rank": 459
+  },
+  {
+    "ngram": "直し",
+    "tokens": [
+      "直し"
+    ],
+    "ai_count": 67,
+    "clean_count": 29,
+    "ai_per_1k": 0.0395,
+    "clean_per_1k": 0.0119,
+    "G2": 32.52,
+    "ratio": 3.33,
+    "rank": 460
+  },
+  {
+    "ngram": "扱わ",
+    "tokens": [
+      "扱わ"
+    ],
+    "ai_count": 67,
+    "clean_count": 29,
+    "ai_per_1k": 0.0395,
+    "clean_per_1k": 0.0119,
+    "G2": 32.52,
+    "ratio": 3.33,
+    "rank": 461
+  },
+  {
+    "ngram": "バイナリ",
+    "tokens": [
+      "バイナリ"
+    ],
+    "ai_count": 51,
+    "clean_count": 17,
+    "ai_per_1k": 0.0301,
+    "clean_per_1k": 0.007,
+    "G2": 32.46,
+    "ratio": 4.32,
+    "rank": 462
+  },
+  {
+    "ngram": "standalone",
+    "tokens": [
+      "standalone"
+    ],
+    "ai_count": 25,
+    "clean_count": 2,
+    "ai_per_1k": 0.0148,
+    "clean_per_1k": 0.0008,
+    "G2": 32.46,
+    "ratio": 18.01,
+    "rank": 463
+  },
+  {
+    "ngram": "根ざし",
+    "tokens": [
+      "根ざし"
+    ],
+    "ai_count": 25,
+    "clean_count": 2,
+    "ai_per_1k": 0.0148,
+    "clean_per_1k": 0.0008,
+    "G2": 32.46,
+    "ratio": 18.01,
+    "rank": 464
+  },
+  {
+    "ngram": "credential",
+    "tokens": [
+      "credential"
+    ],
+    "ai_count": 25,
+    "clean_count": 2,
+    "ai_per_1k": 0.0148,
+    "clean_per_1k": 0.0008,
+    "G2": 32.46,
+    "ratio": 18.01,
+    "rank": 465
+  },
+  {
+    "ngram": "酸味",
+    "tokens": [
+      "酸味"
+    ],
+    "ai_count": 25,
+    "clean_count": 2,
+    "ai_per_1k": 0.0148,
+    "clean_per_1k": 0.0008,
+    "G2": 32.46,
+    "ratio": 18.01,
+    "rank": 466
+  },
+  {
+    "ngram": "質",
+    "tokens": [
+      "質"
+    ],
+    "ai_count": 68,
+    "clean_count": 30,
+    "ai_per_1k": 0.0401,
+    "clean_per_1k": 0.0123,
+    "G2": 32.25,
+    "ratio": 3.27,
+    "rank": 467
+  },
+  {
+    "ngram": "一貫",
+    "tokens": [
+      "一貫"
+    ],
+    "ai_count": 59,
+    "clean_count": 23,
+    "ai_per_1k": 0.0348,
+    "clean_per_1k": 0.0094,
+    "G2": 32.22,
+    "ratio": 3.7,
+    "rank": 468
+  },
+  {
+    "ngram": "熱量",
+    "tokens": [
+      "熱量"
+    ],
+    "ai_count": 18,
+    "clean_count": 0,
+    "ai_per_1k": 0.0106,
+    "clean_per_1k": 0.0,
+    "G2": 32.12,
+    "ratio": null,
+    "rank": 469
+  },
+  {
+    "ngram": "動か",
+    "tokens": [
+      "動か"
+    ],
+    "ai_count": 74,
+    "clean_count": 35,
+    "ai_per_1k": 0.0437,
+    "clean_per_1k": 0.0143,
+    "G2": 32.12,
+    "ratio": 3.05,
+    "rank": 470
+  },
+  {
+    "ngram": "vite",
+    "tokens": [
+      "vite"
+    ],
+    "ai_count": 18,
+    "clean_count": 0,
+    "ai_per_1k": 0.0106,
+    "clean_per_1k": 0.0,
+    "G2": 32.12,
+    "ratio": null,
+    "rank": 471
+  },
+  {
+    "ngram": "channels",
+    "tokens": [
+      "channels"
+    ],
+    "ai_count": 18,
+    "clean_count": 0,
+    "ai_per_1k": 0.0106,
+    "clean_per_1k": 0.0,
+    "G2": 32.12,
+    "ratio": null,
+    "rank": 472
+  },
+  {
+    "ngram": "ChildClass",
+    "tokens": [
+      "ChildClass"
+    ],
+    "ai_count": 18,
+    "clean_count": 0,
+    "ai_per_1k": 0.0106,
+    "clean_per_1k": 0.0,
+    "G2": 32.12,
+    "ratio": null,
+    "rank": 473
+  },
+  {
+    "ngram": "培っ",
+    "tokens": [
+      "培っ"
+    ],
+    "ai_count": 22,
+    "clean_count": 1,
+    "ai_per_1k": 0.013,
+    "clean_per_1k": 0.0004,
+    "G2": 32.09,
+    "ratio": 31.69,
+    "rank": 474
+  },
+  {
+    "ngram": "描画",
+    "tokens": [
+      "描画"
+    ],
+    "ai_count": 69,
+    "clean_count": 31,
+    "ai_per_1k": 0.0407,
+    "clean_per_1k": 0.0127,
+    "G2": 32.0,
+    "ratio": 3.21,
+    "rank": 475
+  },
+  {
+    "ngram": "余白",
+    "tokens": [
+      "余白"
+    ],
+    "ai_count": 27,
+    "clean_count": 3,
+    "ai_per_1k": 0.0159,
+    "clean_per_1k": 0.0012,
+    "G2": 31.84,
+    "ratio": 12.97,
+    "rank": 476
+  },
+  {
+    "ngram": "消し",
+    "tokens": [
+      "消し"
+    ],
+    "ai_count": 56,
+    "clean_count": 21,
+    "ai_per_1k": 0.0331,
+    "clean_per_1k": 0.0086,
+    "G2": 31.84,
+    "ratio": 3.84,
+    "rank": 477
+  },
+  {
+    "ngram": "向き合う",
+    "tokens": [
+      "向き合う"
+    ],
+    "ai_count": 27,
+    "clean_count": 3,
+    "ai_per_1k": 0.0159,
+    "clean_per_1k": 0.0012,
+    "G2": 31.84,
+    "ratio": 12.97,
+    "rank": 478
+  },
+  {
+    "ngram": "最小",
+    "tokens": [
+      "最小"
+    ],
+    "ai_count": 49,
+    "clean_count": 16,
+    "ai_per_1k": 0.0289,
+    "clean_per_1k": 0.0066,
+    "G2": 31.76,
+    "ratio": 4.41,
+    "rank": 479
+  },
+  {
+    "ngram": "kubelet",
+    "tokens": [
+      "kubelet"
+    ],
+    "ai_count": 46,
+    "clean_count": 14,
+    "ai_per_1k": 0.0272,
+    "clean_per_1k": 0.0057,
+    "G2": 31.66,
+    "ratio": 4.73,
+    "rank": 480
+  },
+  {
+    "ngram": "ずいぶん",
+    "tokens": [
+      "ずいぶん"
+    ],
+    "ai_count": 29,
+    "clean_count": 4,
+    "ai_per_1k": 0.0171,
+    "clean_per_1k": 0.0016,
+    "G2": 31.59,
+    "ratio": 10.44,
+    "rank": 481
+  },
+  {
+    "ngram": "Metasploitable",
+    "tokens": [
+      "Metasploitable"
+    ],
+    "ai_count": 29,
+    "clean_count": 4,
+    "ai_per_1k": 0.0171,
+    "clean_per_1k": 0.0016,
+    "G2": 31.59,
+    "ratio": 10.44,
+    "rank": 482
+  },
+  {
+    "ngram": "慣れる",
+    "tokens": [
+      "慣れる"
+    ],
+    "ai_count": 31,
+    "clean_count": 5,
+    "ai_per_1k": 0.0183,
+    "clean_per_1k": 0.002,
+    "G2": 31.58,
+    "ratio": 8.93,
+    "rank": 483
+  },
+  {
+    "ngram": "済ま",
+    "tokens": [
+      "済ま"
+    ],
+    "ai_count": 53,
+    "clean_count": 19,
+    "ai_per_1k": 0.0313,
+    "clean_per_1k": 0.0078,
+    "G2": 31.51,
+    "ratio": 4.02,
+    "rank": 484
+  },
+  {
+    "ngram": "force",
+    "tokens": [
+      "force"
+    ],
+    "ai_count": 50,
+    "clean_count": 17,
+    "ai_per_1k": 0.0295,
+    "clean_per_1k": 0.007,
+    "G2": 31.25,
+    "ratio": 4.24,
+    "rank": 485
+  },
+  {
+    "ngram": "ほんの",
+    "tokens": [
+      "ほんの"
+    ],
+    "ai_count": 50,
+    "clean_count": 17,
+    "ai_per_1k": 0.0295,
+    "clean_per_1k": 0.007,
+    "G2": 31.25,
+    "ratio": 4.24,
+    "rank": 486
+  },
+  {
+    "ngram": "repo",
+    "tokens": [
+      "repo"
+    ],
+    "ai_count": 73,
+    "clean_count": 35,
+    "ai_per_1k": 0.0431,
+    "clean_per_1k": 0.0143,
+    "G2": 31.11,
+    "ratio": 3.0,
+    "rank": 487
+  },
+  {
+    "ngram": "手がけ",
+    "tokens": [
+      "手がけ"
+    ],
+    "ai_count": 41,
+    "clean_count": 11,
+    "ai_per_1k": 0.0242,
+    "clean_per_1k": 0.0045,
+    "G2": 31.1,
+    "ratio": 5.37,
+    "rank": 488
+  },
+  {
+    "ngram": "響き",
+    "tokens": [
+      "響き"
+    ],
+    "ai_count": 47,
+    "clean_count": 15,
+    "ai_per_1k": 0.0277,
+    "clean_per_1k": 0.0061,
+    "G2": 31.08,
+    "ratio": 4.51,
+    "rank": 489
+  },
+  {
+    "ngram": "Text",
+    "tokens": [
+      "Text"
+    ],
+    "ai_count": 36,
+    "clean_count": 8,
+    "ai_per_1k": 0.0212,
+    "clean_per_1k": 0.0033,
+    "G2": 30.95,
+    "ratio": 6.48,
+    "rank": 490
+  },
+  {
+    "ngram": "手がかり",
+    "tokens": [
+      "手がかり"
+    ],
+    "ai_count": 36,
+    "clean_count": 8,
+    "ai_per_1k": 0.0212,
+    "clean_per_1k": 0.0033,
+    "G2": 30.95,
+    "ratio": 6.48,
+    "rank": 491
+  },
+  {
+    "ngram": "xx",
+    "tokens": [
+      "xx"
+    ],
+    "ai_count": 36,
+    "clean_count": 8,
+    "ai_per_1k": 0.0212,
+    "clean_per_1k": 0.0033,
+    "G2": 30.95,
+    "ratio": 6.48,
+    "rank": 492
+  },
+  {
+    "ngram": "ハッシュ",
+    "tokens": [
+      "ハッシュ"
+    ],
+    "ai_count": 63,
+    "clean_count": 27,
+    "ai_per_1k": 0.0372,
+    "clean_per_1k": 0.0111,
+    "G2": 30.94,
+    "ratio": 3.36,
+    "rank": 493
+  },
+  {
+    "ngram": "SECRET",
+    "tokens": [
+      "SECRET"
+    ],
+    "ai_count": 24,
+    "clean_count": 2,
+    "ai_per_1k": 0.0142,
+    "clean_per_1k": 0.0008,
+    "G2": 30.84,
+    "ratio": 17.29,
+    "rank": 494
+  },
+  {
+    "ngram": "対話",
+    "tokens": [
+      "対話"
+    ],
+    "ai_count": 51,
+    "clean_count": 18,
+    "ai_per_1k": 0.0301,
+    "clean_per_1k": 0.0074,
+    "G2": 30.78,
+    "ratio": 4.08,
+    "rank": 495
+  },
+  {
+    "ngram": "子どもたち",
+    "tokens": [
+      "子どもたち"
+    ],
+    "ai_count": 39,
+    "clean_count": 10,
+    "ai_per_1k": 0.023,
+    "clean_per_1k": 0.0041,
+    "G2": 30.55,
+    "ratio": 5.62,
+    "rank": 496
+  },
+  {
+    "ngram": "Order",
+    "tokens": [
+      "Order"
+    ],
+    "ai_count": 39,
+    "clean_count": 10,
+    "ai_per_1k": 0.023,
+    "clean_per_1k": 0.0041,
+    "G2": 30.55,
+    "ratio": 5.62,
+    "rank": 497
+  },
+  {
+    "ngram": "いかに",
+    "tokens": [
+      "いかに"
+    ],
+    "ai_count": 65,
+    "clean_count": 29,
+    "ai_per_1k": 0.0384,
+    "clean_per_1k": 0.0119,
+    "G2": 30.4,
+    "ratio": 3.23,
+    "rank": 498
+  },
+  {
+    "ngram": "low",
+    "tokens": [
+      "low"
+    ],
+    "ai_count": 21,
+    "clean_count": 1,
+    "ai_per_1k": 0.0124,
+    "clean_per_1k": 0.0004,
+    "G2": 30.39,
+    "ratio": 30.25,
+    "rank": 499
+  },
+  {
+    "ngram": "通読",
+    "tokens": [
+      "通読"
+    ],
+    "ai_count": 21,
+    "clean_count": 1,
+    "ai_per_1k": 0.0124,
+    "clean_per_1k": 0.0004,
+    "G2": 30.39,
+    "ratio": 30.25,
+    "rank": 500
+  }
+]

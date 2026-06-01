@@ -1,0 +1,7002 @@
+[
+  {
+    "ngram": "``",
+    "tokens": [
+      "`",
+      "`"
+    ],
+    "ai_count": 9668,
+    "clean_count": 11,
+    "ai_per_1k": 5.71,
+    "clean_per_1k": 0.0045,
+    "G2": 17095.5,
+    "ratio": 1266.45,
+    "rank": 1
+  },
+  {
+    "ngram": "。\n\n",
+    "tokens": [
+      "。",
+      "\n\n"
+    ],
+    "ai_count": 20445,
+    "clean_count": 5194,
+    "ai_per_1k": 12.075,
+    "clean_per_1k": 2.1289,
+    "G2": 16122.69,
+    "ratio": 5.67,
+    "rank": 2
+  },
+  {
+    "ngram": "##",
+    "tokens": [
+      "#",
+      "#"
+    ],
+    "ai_count": 8709,
+    "clean_count": 50,
+    "ai_per_1k": 5.1436,
+    "clean_per_1k": 0.0205,
+    "G2": 14979.88,
+    "ratio": 250.98,
+    "rank": 3
+  },
+  {
+    "ngram": "\n\n#",
+    "tokens": [
+      "\n\n",
+      "#"
+    ],
+    "ai_count": 7015,
+    "clean_count": 7,
+    "ai_per_1k": 4.1431,
+    "clean_per_1k": 0.0029,
+    "G2": 12416.72,
+    "ratio": 1444.02,
+    "rank": 4
+  },
+  {
+    "ngram": "` ",
+    "tokens": [
+      "`",
+      " "
+    ],
+    "ai_count": 6465,
+    "clean_count": 73,
+    "ai_per_1k": 3.8183,
+    "clean_per_1k": 0.0299,
+    "G2": 10813.98,
+    "ratio": 127.61,
+    "rank": 5
+  },
+  {
+    "ngram": "# ",
+    "tokens": [
+      "#",
+      " "
+    ],
+    "ai_count": 7705,
+    "clean_count": 651,
+    "ai_per_1k": 4.5506,
+    "clean_per_1k": 0.2668,
+    "G2": 9864.93,
+    "ratio": 17.05,
+    "rank": 6
+  },
+  {
+    "ngram": " `",
+    "tokens": [
+      " ",
+      "`"
+    ],
+    "ai_count": 5052,
+    "clean_count": 108,
+    "ai_per_1k": 2.9838,
+    "clean_per_1k": 0.0443,
+    "G2": 8081.55,
+    "ratio": 67.4,
+    "rank": 7
+  },
+  {
+    "ngram": "**",
+    "tokens": [
+      "*",
+      "*"
+    ],
+    "ai_count": 4672,
+    "clean_count": 59,
+    "ai_per_1k": 2.7593,
+    "clean_per_1k": 0.0242,
+    "G2": 7765.97,
+    "ratio": 114.1,
+    "rank": 8
+  },
+  {
+    "ngram": "\n-",
+    "tokens": [
+      "\n",
+      "-"
+    ],
+    "ai_count": 4488,
+    "clean_count": 37,
+    "ai_per_1k": 2.6506,
+    "clean_per_1k": 0.0152,
+    "G2": 7619.63,
+    "ratio": 174.78,
+    "rank": 9
+  },
+  {
+    "ngram": "\n\n`",
+    "tokens": [
+      "\n\n",
+      "`"
+    ],
+    "ai_count": 3230,
+    "clean_count": 0,
+    "ai_per_1k": 1.9077,
+    "clean_per_1k": 0.0,
+    "G2": 5764.77,
+    "ratio": null,
+    "rank": 10
+  },
+  {
+    "ngram": "`\n\n",
+    "tokens": [
+      "`",
+      "\n\n"
+    ],
+    "ai_count": 2512,
+    "clean_count": 1,
+    "ai_per_1k": 1.4836,
+    "clean_per_1k": 0.0004,
+    "G2": 4466.71,
+    "ratio": 3619.62,
+    "rank": 11
+  },
+  {
+    "ngram": "\n`",
+    "tokens": [
+      "\n",
+      "`"
+    ],
+    "ai_count": 2429,
+    "clean_count": 0,
+    "ai_per_1k": 1.4346,
+    "clean_per_1k": 0.0,
+    "G2": 4335.18,
+    "ratio": null,
+    "rank": 12
+  },
+  {
+    "ngram": "\n\n-",
+    "tokens": [
+      "\n\n",
+      "-"
+    ],
+    "ai_count": 1518,
+    "clean_count": 10,
+    "ai_per_1k": 0.8965,
+    "clean_per_1k": 0.0041,
+    "G2": 2599.29,
+    "ratio": 218.73,
+    "rank": 13
+  },
+  {
+    "ngram": "、`",
+    "tokens": [
+      "、",
+      "`"
+    ],
+    "ai_count": 1259,
+    "clean_count": 0,
+    "ai_per_1k": 0.7436,
+    "clean_per_1k": 0.0,
+    "G2": 2247.01,
+    "ratio": null,
+    "rank": 14
+  },
+  {
+    "ngram": "*:",
+    "tokens": [
+      "*",
+      ":"
+    ],
+    "ai_count": 1057,
+    "clean_count": 3,
+    "ai_per_1k": 0.6243,
+    "clean_per_1k": 0.0012,
+    "G2": 1848.46,
+    "ratio": 507.69,
+    "rank": 15
+  },
+  {
+    "ngram": "と、",
+    "tokens": [
+      "と",
+      "、"
+    ],
+    "ai_count": 3977,
+    "clean_count": 1784,
+    "ai_per_1k": 2.3488,
+    "clean_per_1k": 0.7312,
+    "G2": 1848.42,
+    "ratio": 3.21,
+    "rank": 16
+  },
+  {
+    "ngram": " *",
+    "tokens": [
+      " ",
+      "*"
+    ],
+    "ai_count": 1866,
+    "clean_count": 341,
+    "ai_per_1k": 1.1021,
+    "clean_per_1k": 0.1398,
+    "G2": 1789.83,
+    "ratio": 7.88,
+    "rank": 17
+  },
+  {
+    "ngram": "、と",
+    "tokens": [
+      "、",
+      "と"
+    ],
+    "ai_count": 1704,
+    "clean_count": 267,
+    "ai_per_1k": 1.0064,
+    "clean_per_1k": 0.1094,
+    "G2": 1759.13,
+    "ratio": 9.2,
+    "rank": 18
+  },
+  {
+    "ngram": "だ。",
+    "tokens": [
+      "だ",
+      "。"
+    ],
+    "ai_count": 2558,
+    "clean_count": 804,
+    "ai_per_1k": 1.5108,
+    "clean_per_1k": 0.3295,
+    "G2": 1714.17,
+    "ratio": 4.58,
+    "rank": 19
+  },
+  {
+    "ngram": "`\n",
+    "tokens": [
+      "`",
+      "\n"
+    ],
+    "ai_count": 815,
+    "clean_count": 0,
+    "ai_per_1k": 0.4813,
+    "clean_per_1k": 0.0,
+    "G2": 1454.58,
+    "ratio": null,
+    "rank": 20
+  },
+  {
+    "ngram": "。`",
+    "tokens": [
+      "。",
+      "`"
+    ],
+    "ai_count": 636,
+    "clean_count": 0,
+    "ai_per_1k": 0.3756,
+    "clean_per_1k": 0.0,
+    "G2": 1135.11,
+    "ratio": null,
+    "rank": 21
+  },
+  {
+    "ngram": ";\n",
+    "tokens": [
+      ";",
+      "\n"
+    ],
+    "ai_count": 662,
+    "clean_count": 7,
+    "ai_per_1k": 0.391,
+    "clean_per_1k": 0.0029,
+    "G2": 1111.12,
+    "ratio": 136.27,
+    "rank": 22
+  },
+  {
+    "ngram": "のが",
+    "tokens": [
+      "の",
+      "が"
+    ],
+    "ai_count": 1795,
+    "clean_count": 641,
+    "ai_per_1k": 1.0601,
+    "clean_per_1k": 0.2627,
+    "G2": 1071.58,
+    "ratio": 4.04,
+    "rank": 23
+  },
+  {
+    "ngram": "}\n",
+    "tokens": [
+      "}",
+      "\n"
+    ],
+    "ai_count": 572,
+    "clean_count": 3,
+    "ai_per_1k": 0.3378,
+    "clean_per_1k": 0.0012,
+    "G2": 986.53,
+    "ratio": 274.74,
+    "rank": 24
+  },
+  {
+    "ngram": "\n}",
+    "tokens": [
+      "\n",
+      "}"
+    ],
+    "ai_count": 567,
+    "clean_count": 4,
+    "ai_per_1k": 0.3349,
+    "clean_per_1k": 0.0016,
+    "G2": 968.51,
+    "ratio": 204.25,
+    "rank": 25
+  },
+  {
+    "ngram": ",\n    ",
+    "tokens": [
+      ",",
+      "\n    "
+    ],
+    "ai_count": 523,
+    "clean_count": 0,
+    "ai_per_1k": 0.3089,
+    "clean_per_1k": 0.0,
+    "G2": 933.43,
+    "ratio": null,
+    "rank": 26
+  },
+  {
+    "ngram": ")\n",
+    "tokens": [
+      ")",
+      "\n"
+    ],
+    "ai_count": 1076,
+    "clean_count": 259,
+    "ai_per_1k": 0.6355,
+    "clean_per_1k": 0.1062,
+    "G2": 879.84,
+    "ratio": 5.99,
+    "rank": 27
+  },
+  {
+    "ngram": ")`",
+    "tokens": [
+      ")",
+      "`"
+    ],
+    "ai_count": 463,
+    "clean_count": 0,
+    "ai_per_1k": 0.2735,
+    "clean_per_1k": 0.0,
+    "G2": 826.34,
+    "ratio": null,
+    "rank": 28
+  },
+  {
+    "ngram": "\n\n「",
+    "tokens": [
+      "\n\n",
+      "「"
+    ],
+    "ai_count": 783,
+    "clean_count": 118,
+    "ai_per_1k": 0.4624,
+    "clean_per_1k": 0.0484,
+    "G2": 822.29,
+    "ratio": 9.56,
+    "rank": 29
+  },
+  {
+    "ngram": "bash\n",
+    "tokens": [
+      "bash",
+      "\n"
+    ],
+    "ai_count": 448,
+    "clean_count": 0,
+    "ai_per_1k": 0.2646,
+    "clean_per_1k": 0.0,
+    "G2": 799.57,
+    "ratio": null,
+    "rank": 30
+  },
+  {
+    "ngram": "`bash",
+    "tokens": [
+      "`",
+      "bash"
+    ],
+    "ai_count": 436,
+    "clean_count": 0,
+    "ai_per_1k": 0.2575,
+    "clean_per_1k": 0.0,
+    "G2": 778.15,
+    "ratio": null,
+    "rank": 31
+  },
+  {
+    "ngram": "{\n  ",
+    "tokens": [
+      "{",
+      "\n  "
+    ],
+    "ai_count": 434,
+    "clean_count": 0,
+    "ai_per_1k": 0.2563,
+    "clean_per_1k": 0.0,
+    "G2": 774.59,
+    "ratio": null,
+    "rank": 32
+  },
+  {
+    "ngram": "{\n    ",
+    "tokens": [
+      "{",
+      "\n    "
+    ],
+    "ai_count": 401,
+    "clean_count": 0,
+    "ai_per_1k": 0.2368,
+    "clean_per_1k": 0.0,
+    "G2": 715.69,
+    "ratio": null,
+    "rank": 33
+  },
+  {
+    "ngram": "──",
+    "tokens": [
+      "─",
+      "─"
+    ],
+    "ai_count": 1076,
+    "clean_count": 362,
+    "ai_per_1k": 0.6355,
+    "clean_per_1k": 0.1484,
+    "G2": 679.27,
+    "ratio": 4.28,
+    "rank": 34
+  },
+  {
+    "ngram": ");",
+    "tokens": [
+      ")",
+      ";"
+    ],
+    "ai_count": 932,
+    "clean_count": 265,
+    "ai_per_1k": 0.5504,
+    "clean_per_1k": 0.1086,
+    "G2": 677.15,
+    "ratio": 5.07,
+    "rank": 35
+  },
+  {
+    "ngram": "いった",
+    "tokens": [
+      "いっ",
+      "た"
+    ],
+    "ai_count": 1229,
+    "clean_count": 479,
+    "ai_per_1k": 0.7259,
+    "clean_per_1k": 0.1963,
+    "G2": 671.46,
+    "ratio": 3.7,
+    "rank": 36
+  },
+  {
+    "ngram": ",\n  ",
+    "tokens": [
+      ",",
+      "\n  "
+    ],
+    "ai_count": 362,
+    "clean_count": 0,
+    "ai_per_1k": 0.2138,
+    "clean_per_1k": 0.0,
+    "G2": 646.08,
+    "ratio": null,
+    "rank": 37
+  },
+  {
+    "ngram": ":\n    ",
+    "tokens": [
+      ":",
+      "\n    "
+    ],
+    "ai_count": 357,
+    "clean_count": 0,
+    "ai_per_1k": 0.2108,
+    "clean_per_1k": 0.0,
+    "G2": 637.16,
+    "ratio": null,
+    "rank": 38
+  },
+  {
+    "ngram": " が",
+    "tokens": [
+      " ",
+      "が"
+    ],
+    "ai_count": 1308,
+    "clean_count": 588,
+    "ai_per_1k": 0.7725,
+    "clean_per_1k": 0.241,
+    "G2": 606.31,
+    "ratio": 3.21,
+    "rank": 39
+  },
+  {
+    "ngram": "。これ",
+    "tokens": [
+      "。",
+      "これ"
+    ],
+    "ai_count": 1263,
+    "clean_count": 563,
+    "ai_per_1k": 0.7459,
+    "clean_per_1k": 0.2308,
+    "G2": 591.62,
+    "ratio": 3.23,
+    "rank": 40
+  },
+  {
+    "ngram": "か」",
+    "tokens": [
+      "か",
+      "」"
+    ],
+    "ai_count": 664,
+    "clean_count": 141,
+    "ai_per_1k": 0.3922,
+    "clean_per_1k": 0.0578,
+    "G2": 586.73,
+    "ratio": 6.79,
+    "rank": 41
+  },
+  {
+    "ngram": ";\n  ",
+    "tokens": [
+      ";",
+      "\n  "
+    ],
+    "ai_count": 328,
+    "clean_count": 0,
+    "ai_per_1k": 0.1937,
+    "clean_per_1k": 0.0,
+    "G2": 585.4,
+    "ratio": null,
+    "rank": 42
+  },
+  {
+    "ngram": "か\n\n",
+    "tokens": [
+      "か",
+      "\n\n"
+    ],
+    "ai_count": 397,
+    "clean_count": 18,
+    "ai_per_1k": 0.2345,
+    "clean_per_1k": 0.0074,
+    "G2": 579.35,
+    "ratio": 31.78,
+    "rank": 43
+  },
+  {
+    "ngram": "といっ",
+    "tokens": [
+      "と",
+      "いっ"
+    ],
+    "ai_count": 924,
+    "clean_count": 318,
+    "ai_per_1k": 0.5457,
+    "clean_per_1k": 0.1303,
+    "G2": 571.27,
+    "ratio": 4.19,
+    "rank": 44
+  },
+  {
+    "ngram": "、自分",
+    "tokens": [
+      "、",
+      "自分"
+    ],
+    "ai_count": 758,
+    "clean_count": 212,
+    "ai_per_1k": 0.4477,
+    "clean_per_1k": 0.0869,
+    "G2": 557.69,
+    "ratio": 5.15,
+    "rank": 45
+  },
+  {
+    "ngram": "\")",
+    "tokens": [
+      "\"",
+      ")"
+    ],
+    "ai_count": 359,
+    "clean_count": 11,
+    "ai_per_1k": 0.212,
+    "clean_per_1k": 0.0045,
+    "G2": 553.31,
+    "ratio": 47.03,
+    "rank": 46
+  },
+  {
+    "ngram": "\n\nこの",
+    "tokens": [
+      "\n\n",
+      "この"
+    ],
+    "ai_count": 776,
+    "clean_count": 229,
+    "ai_per_1k": 0.4583,
+    "clean_per_1k": 0.0939,
+    "G2": 547.66,
+    "ratio": 4.88,
+    "rank": 47
+  },
+  {
+    "ngram": "そのもの",
+    "tokens": [
+      "その",
+      "もの"
+    ],
+    "ai_count": 458,
+    "clean_count": 55,
+    "ai_per_1k": 0.2705,
+    "clean_per_1k": 0.0225,
+    "G2": 525.9,
+    "ratio": 12.0,
+    "rank": 48
+  },
+  {
+    "ngram": "`python",
+    "tokens": [
+      "`",
+      "python"
+    ],
+    "ai_count": 294,
+    "clean_count": 0,
+    "ai_per_1k": 0.1736,
+    "clean_per_1k": 0.0,
+    "G2": 524.72,
+    "ratio": null,
+    "rank": 49
+  },
+  {
+    "ngram": "(\"",
+    "tokens": [
+      "(",
+      "\""
+    ],
+    "ai_count": 351,
+    "clean_count": 14,
+    "ai_per_1k": 0.2073,
+    "clean_per_1k": 0.0057,
+    "G2": 522.45,
+    "ratio": 36.13,
+    "rank": 50
+  },
+  {
+    "ngram": "\nimport",
+    "tokens": [
+      "\n",
+      "import"
+    ],
+    "ai_count": 307,
+    "clean_count": 3,
+    "ai_per_1k": 0.1813,
+    "clean_per_1k": 0.0012,
+    "G2": 517.28,
+    "ratio": 147.46,
+    "rank": 51
+  },
+  {
+    "ngram": "python\n",
+    "tokens": [
+      "python",
+      "\n"
+    ],
+    "ai_count": 286,
+    "clean_count": 0,
+    "ai_per_1k": 0.1689,
+    "clean_per_1k": 0.0,
+    "G2": 510.44,
+    "ratio": null,
+    "rank": 52
+  },
+  {
+    "ngram": "\n  -",
+    "tokens": [
+      "\n  ",
+      "-"
+    ],
+    "ai_count": 282,
+    "clean_count": 0,
+    "ai_per_1k": 0.1666,
+    "clean_per_1k": 0.0,
+    "G2": 503.3,
+    "ratio": null,
+    "rank": 53
+  },
+  {
+    "ngram": "を、",
+    "tokens": [
+      "を",
+      "、"
+    ],
+    "ai_count": 920,
+    "clean_count": 365,
+    "ai_per_1k": 0.5434,
+    "clean_per_1k": 0.1496,
+    "G2": 493.15,
+    "ratio": 3.63,
+    "rank": 54
+  },
+  {
+    "ngram": "だけで",
+    "tokens": [
+      "だけ",
+      "で"
+    ],
+    "ai_count": 1087,
+    "clean_count": 501,
+    "ai_per_1k": 0.642,
+    "clean_per_1k": 0.2053,
+    "G2": 488.18,
+    "ratio": 3.13,
+    "rank": 55
+  },
+  {
+    "ngram": "まとめ\n\n",
+    "tokens": [
+      "まとめ",
+      "\n\n"
+    ],
+    "ai_count": 377,
+    "clean_count": 32,
+    "ai_per_1k": 0.2227,
+    "clean_per_1k": 0.0131,
+    "G2": 482.09,
+    "ratio": 16.98,
+    "rank": 56
+  },
+  {
+    "ngram": "\n  }",
+    "tokens": [
+      "\n  ",
+      "}"
+    ],
+    "ai_count": 277,
+    "clean_count": 2,
+    "ai_per_1k": 0.1636,
+    "clean_per_1k": 0.0008,
+    "G2": 472.75,
+    "ratio": 199.57,
+    "rank": 57
+  },
+  {
+    "ngram": ":\n      ",
+    "tokens": [
+      ":",
+      "\n      "
+    ],
+    "ai_count": 258,
+    "clean_count": 0,
+    "ai_per_1k": 0.1524,
+    "clean_per_1k": 0.0,
+    "G2": 460.47,
+    "ratio": null,
+    "rank": 58
+  },
+  {
+    "ngram": "\\\n  ",
+    "tokens": [
+      "\\",
+      "\n  "
+    ],
+    "ai_count": 258,
+    "clean_count": 0,
+    "ai_per_1k": 0.1524,
+    "clean_per_1k": 0.0,
+    "G2": 460.47,
+    "ratio": null,
+    "rank": 59
+  },
+  {
+    "ngram": ":\n  ",
+    "tokens": [
+      ":",
+      "\n  "
+    ],
+    "ai_count": 280,
+    "clean_count": 5,
+    "ai_per_1k": 0.1654,
+    "clean_per_1k": 0.002,
+    "G2": 454.66,
+    "ratio": 80.69,
+    "rank": 60
+  },
+  {
+    "ngram": "yaml\n",
+    "tokens": [
+      "yaml",
+      "\n"
+    ],
+    "ai_count": 253,
+    "clean_count": 0,
+    "ai_per_1k": 0.1494,
+    "clean_per_1k": 0.0,
+    "G2": 451.54,
+    "ratio": null,
+    "rank": 61
+  },
+  {
+    "ngram": "ひとつ",
+    "tokens": [
+      "ひと",
+      "つ"
+    ],
+    "ai_count": 574,
+    "clean_count": 147,
+    "ai_per_1k": 0.339,
+    "clean_per_1k": 0.0603,
+    "G2": 450.14,
+    "ratio": 5.63,
+    "rank": 62
+  },
+  {
+    "ngram": "\n    }",
+    "tokens": [
+      "\n    ",
+      "}"
+    ],
+    "ai_count": 248,
+    "clean_count": 0,
+    "ai_per_1k": 0.1465,
+    "clean_per_1k": 0.0,
+    "G2": 442.62,
+    "ratio": null,
+    "rank": 63
+  },
+  {
+    "ngram": "けれど、",
+    "tokens": [
+      "けれど",
+      "、"
+    ],
+    "ai_count": 325,
+    "clean_count": 22,
+    "ai_per_1k": 0.1919,
+    "clean_per_1k": 0.009,
+    "G2": 439.3,
+    "ratio": 21.29,
+    "rank": 64
+  },
+  {
+    "ngram": "思う。",
+    "tokens": [
+      "思う",
+      "。"
+    ],
+    "ai_count": 478,
+    "clean_count": 98,
+    "ai_per_1k": 0.2823,
+    "clean_per_1k": 0.0402,
+    "G2": 430.99,
+    "ratio": 7.03,
+    "rank": 65
+  },
+  {
+    "ngram": ";\n    ",
+    "tokens": [
+      ";",
+      "\n    "
+    ],
+    "ai_count": 239,
+    "clean_count": 0,
+    "ai_per_1k": 0.1412,
+    "clean_per_1k": 0.0,
+    "G2": 426.56,
+    "ratio": null,
+    "rank": 66
+  },
+  {
+    "ngram": "`.",
+    "tokens": [
+      "`",
+      "."
+    ],
+    "ai_count": 239,
+    "clean_count": 0,
+    "ai_per_1k": 0.1412,
+    "clean_per_1k": 0.0,
+    "G2": 426.56,
+    "ratio": null,
+    "rank": 67
+  },
+  {
+    "ngram": "\n\nここ",
+    "tokens": [
+      "\n\n",
+      "ここ"
+    ],
+    "ai_count": 453,
+    "clean_count": 87,
+    "ai_per_1k": 0.2675,
+    "clean_per_1k": 0.0357,
+    "G2": 423.38,
+    "ratio": 7.5,
+    "rank": 68
+  },
+  {
+    "ngram": "自分の",
+    "tokens": [
+      "自分",
+      "の"
+    ],
+    "ai_count": 829,
+    "clean_count": 344,
+    "ai_per_1k": 0.4896,
+    "clean_per_1k": 0.141,
+    "G2": 422.76,
+    "ratio": 3.47,
+    "rank": 69
+  },
+  {
+    "ngram": "ておき",
+    "tokens": [
+      "て",
+      "おき"
+    ],
+    "ai_count": 574,
+    "clean_count": 162,
+    "ai_per_1k": 0.339,
+    "clean_per_1k": 0.0664,
+    "G2": 419.42,
+    "ratio": 5.11,
+    "rank": 70
+  },
+  {
+    "ngram": "\n      -",
+    "tokens": [
+      "\n      ",
+      "-"
+    ],
+    "ai_count": 227,
+    "clean_count": 0,
+    "ai_per_1k": 0.1341,
+    "clean_per_1k": 0.0,
+    "G2": 405.14,
+    "ratio": null,
+    "rank": 71
+  },
+  {
+    "ngram": ")\n    ",
+    "tokens": [
+      ")",
+      "\n    "
+    ],
+    "ai_count": 226,
+    "clean_count": 0,
+    "ai_per_1k": 0.1335,
+    "clean_per_1k": 0.0,
+    "G2": 403.36,
+    "ratio": null,
+    "rank": 72
+  },
+  {
+    "ngram": "*：",
+    "tokens": [
+      "*",
+      "："
+    ],
+    "ai_count": 223,
+    "clean_count": 0,
+    "ai_per_1k": 0.1317,
+    "clean_per_1k": 0.0,
+    "G2": 398.0,
+    "ratio": null,
+    "rank": 73
+  },
+  {
+    "ngram": ";\n\n",
+    "tokens": [
+      ";",
+      "\n\n"
+    ],
+    "ai_count": 222,
+    "clean_count": 0,
+    "ai_per_1k": 0.1311,
+    "clean_per_1k": 0.0,
+    "G2": 396.22,
+    "ratio": null,
+    "rank": 74
+  },
+  {
+    "ngram": "`、",
+    "tokens": [
+      "`",
+      "、"
+    ],
+    "ai_count": 222,
+    "clean_count": 0,
+    "ai_per_1k": 0.1311,
+    "clean_per_1k": 0.0,
+    "G2": 396.22,
+    "ratio": null,
+    "rank": 75
+  },
+  {
+    "ngram": "\"\n",
+    "tokens": [
+      "\"",
+      "\n"
+    ],
+    "ai_count": 225,
+    "clean_count": 1,
+    "ai_per_1k": 0.1329,
+    "clean_per_1k": 0.0004,
+    "G2": 389.79,
+    "ratio": 324.21,
+    "rank": 76
+  },
+  {
+    "ngram": "てみる",
+    "tokens": [
+      "て",
+      "みる"
+    ],
+    "ai_count": 671,
+    "clean_count": 248,
+    "ai_per_1k": 0.3963,
+    "clean_per_1k": 0.1017,
+    "G2": 387.24,
+    "ratio": 3.9,
+    "rank": 77
+  },
+  {
+    "ngram": "、私",
+    "tokens": [
+      "、",
+      "私"
+    ],
+    "ai_count": 615,
+    "clean_count": 213,
+    "ai_per_1k": 0.3632,
+    "clean_per_1k": 0.0873,
+    "G2": 377.99,
+    "ratio": 4.16,
+    "rank": 78
+  },
+  {
+    "ngram": ":\n        ",
+    "tokens": [
+      ":",
+      "\n        "
+    ],
+    "ai_count": 206,
+    "clean_count": 0,
+    "ai_per_1k": 0.1217,
+    "clean_per_1k": 0.0,
+    "G2": 367.66,
+    "ratio": null,
+    "rank": 79
+  },
+  {
+    "ngram": "が ",
+    "tokens": [
+      "が",
+      " "
+    ],
+    "ai_count": 586,
+    "clean_count": 200,
+    "ai_per_1k": 0.3461,
+    "clean_per_1k": 0.082,
+    "G2": 365.11,
+    "ratio": 4.22,
+    "rank": 80
+  },
+  {
+    "ngram": "、こう",
+    "tokens": [
+      "、",
+      "こう"
+    ],
+    "ai_count": 360,
+    "clean_count": 59,
+    "ai_per_1k": 0.2126,
+    "clean_per_1k": 0.0242,
+    "G2": 364.12,
+    "ratio": 8.79,
+    "rank": 81
+  },
+  {
+    "ngram": "。「",
+    "tokens": [
+      "。",
+      "「"
+    ],
+    "ai_count": 764,
+    "clean_count": 338,
+    "ai_per_1k": 0.4512,
+    "clean_per_1k": 0.1385,
+    "G2": 361.22,
+    "ratio": 3.26,
+    "rank": 82
+  },
+  {
+    "ngram": "にとっ",
+    "tokens": [
+      "に",
+      "とっ"
+    ],
+    "ai_count": 544,
+    "clean_count": 178,
+    "ai_per_1k": 0.3213,
+    "clean_per_1k": 0.073,
+    "G2": 352.08,
+    "ratio": 4.4,
+    "rank": 83
+  },
+  {
+    "ngram": "`--",
+    "tokens": [
+      "`",
+      "--"
+    ],
+    "ai_count": 197,
+    "clean_count": 0,
+    "ai_per_1k": 0.1163,
+    "clean_per_1k": 0.0,
+    "G2": 351.6,
+    "ratio": null,
+    "rank": 84
+  },
+  {
+    "ngram": "のなか",
+    "tokens": [
+      "の",
+      "なか"
+    ],
+    "ai_count": 312,
+    "clean_count": 40,
+    "ai_per_1k": 0.1843,
+    "clean_per_1k": 0.0164,
+    "G2": 349.76,
+    "ratio": 11.24,
+    "rank": 85
+  },
+  {
+    "ngram": "\n    \"",
+    "tokens": [
+      "\n    ",
+      "\""
+    ],
+    "ai_count": 193,
+    "clean_count": 0,
+    "ai_per_1k": 0.114,
+    "clean_per_1k": 0.0,
+    "G2": 344.46,
+    "ratio": null,
+    "rank": 86
+  },
+  {
+    "ngram": "`:",
+    "tokens": [
+      "`",
+      ":"
+    ],
+    "ai_count": 192,
+    "clean_count": 0,
+    "ai_per_1k": 0.1134,
+    "clean_per_1k": 0.0,
+    "G2": 342.67,
+    "ratio": null,
+    "rank": 87
+  },
+  {
+    "ngram": "`yaml",
+    "tokens": [
+      "`",
+      "yaml"
+    ],
+    "ai_count": 191,
+    "clean_count": 0,
+    "ai_per_1k": 0.1128,
+    "clean_per_1k": 0.0,
+    "G2": 340.89,
+    "ratio": null,
+    "rank": 88
+  },
+  {
+    "ngram": "\n$",
+    "tokens": [
+      "\n",
+      "$"
+    ],
+    "ai_count": 331,
+    "clean_count": 53,
+    "ai_per_1k": 0.1955,
+    "clean_per_1k": 0.0217,
+    "G2": 338.39,
+    "ratio": 9.0,
+    "rank": 89
+  },
+  {
+    "ngram": "おくと",
+    "tokens": [
+      "おく",
+      "と"
+    ],
+    "ai_count": 460,
+    "clean_count": 131,
+    "ai_per_1k": 0.2717,
+    "clean_per_1k": 0.0537,
+    "G2": 333.81,
+    "ratio": 5.06,
+    "rank": 90
+  },
+  {
+    "ngram": "なかで",
+    "tokens": [
+      "なか",
+      "で"
+    ],
+    "ai_count": 286,
+    "clean_count": 33,
+    "ai_per_1k": 0.1689,
+    "clean_per_1k": 0.0135,
+    "G2": 333.03,
+    "ratio": 12.49,
+    "rank": 91
+  },
+  {
+    "ngram": "---\n\n",
+    "tokens": [
+      "---",
+      "\n\n"
+    ],
+    "ai_count": 278,
+    "clean_count": 30,
+    "ai_per_1k": 0.1642,
+    "clean_per_1k": 0.0123,
+    "G2": 331.08,
+    "ratio": 13.35,
+    "rank": 92
+  },
+  {
+    "ngram": "\n  \"",
+    "tokens": [
+      "\n  ",
+      "\""
+    ],
+    "ai_count": 185,
+    "clean_count": 0,
+    "ai_per_1k": 0.1093,
+    "clean_per_1k": 0.0,
+    "G2": 330.18,
+    "ratio": null,
+    "rank": 93
+  },
+  {
+    "ngram": "うえで",
+    "tokens": [
+      "うえ",
+      "で"
+    ],
+    "ai_count": 288,
+    "clean_count": 37,
+    "ai_per_1k": 0.1701,
+    "clean_per_1k": 0.0152,
+    "G2": 322.6,
+    "ratio": 11.22,
+    "rank": 94
+  },
+  {
+    "ngram": "('",
+    "tokens": [
+      "(",
+      "'"
+    ],
+    "ai_count": 269,
+    "clean_count": 30,
+    "ai_per_1k": 0.1589,
+    "clean_per_1k": 0.0123,
+    "G2": 316.89,
+    "ratio": 12.92,
+    "rank": 95
+  },
+  {
+    "ngram": "こうし",
+    "tokens": [
+      "こう",
+      "し"
+    ],
+    "ai_count": 436,
+    "clean_count": 126,
+    "ai_per_1k": 0.2575,
+    "clean_per_1k": 0.0516,
+    "G2": 312.82,
+    "ratio": 4.99,
+    "rank": 96
+  },
+  {
+    "ngram": "\n#",
+    "tokens": [
+      "\n",
+      "#"
+    ],
+    "ai_count": 175,
+    "clean_count": 0,
+    "ai_per_1k": 0.1034,
+    "clean_per_1k": 0.0,
+    "G2": 312.33,
+    "ratio": null,
+    "rank": 97
+  },
+  {
+    "ngram": "\n\nこれ",
+    "tokens": [
+      "\n\n",
+      "これ"
+    ],
+    "ai_count": 475,
+    "clean_count": 153,
+    "ai_per_1k": 0.2805,
+    "clean_per_1k": 0.0627,
+    "G2": 311.68,
+    "ratio": 4.47,
+    "rank": 98
+  },
+  {
+    "ngram": "とき、",
+    "tokens": [
+      "とき",
+      "、"
+    ],
+    "ai_count": 427,
+    "clean_count": 125,
+    "ai_per_1k": 0.2522,
+    "clean_per_1k": 0.0512,
+    "G2": 303.28,
+    "ratio": 4.92,
+    "rank": 99
+  },
+  {
+    "ngram": "\n\n---",
+    "tokens": [
+      "\n\n",
+      "---"
+    ],
+    "ai_count": 278,
+    "clean_count": 40,
+    "ai_per_1k": 0.1642,
+    "clean_per_1k": 0.0164,
+    "G2": 297.73,
+    "ratio": 10.01,
+    "rank": 100
+  },
+  {
+    "ngram": "const ",
+    "tokens": [
+      "const",
+      " "
+    ],
+    "ai_count": 465,
+    "clean_count": 156,
+    "ai_per_1k": 0.2746,
+    "clean_per_1k": 0.0639,
+    "G2": 294.3,
+    "ratio": 4.3,
+    "rank": 101
+  },
+  {
+    "ngram": "とって",
+    "tokens": [
+      "とっ",
+      "て"
+    ],
+    "ai_count": 557,
+    "clean_count": 225,
+    "ai_per_1k": 0.329,
+    "clean_per_1k": 0.0922,
+    "G2": 292.74,
+    "ratio": 3.57,
+    "rank": 102
+  },
+  {
+    "ngram": "\n  --",
+    "tokens": [
+      "\n  ",
+      "--"
+    ],
+    "ai_count": 164,
+    "clean_count": 0,
+    "ai_per_1k": 0.0969,
+    "clean_per_1k": 0.0,
+    "G2": 292.7,
+    "ratio": null,
+    "rank": 103
+  },
+  {
+    "ngram": "、彼",
+    "tokens": [
+      "、",
+      "彼"
+    ],
+    "ai_count": 445,
+    "clean_count": 144,
+    "ai_per_1k": 0.2628,
+    "clean_per_1k": 0.059,
+    "G2": 290.83,
+    "ratio": 4.45,
+    "rank": 104
+  },
+  {
+    "ngram": "\n\nまず",
+    "tokens": [
+      "\n\n",
+      "まず"
+    ],
+    "ai_count": 369,
+    "clean_count": 94,
+    "ai_per_1k": 0.2179,
+    "clean_per_1k": 0.0385,
+    "G2": 290.44,
+    "ratio": 5.66,
+    "rank": 105
+  },
+  {
+    "ngram": ",\n        ",
+    "tokens": [
+      ",",
+      "\n        "
+    ],
+    "ai_count": 162,
+    "clean_count": 0,
+    "ai_per_1k": 0.0957,
+    "clean_per_1k": 0.0,
+    "G2": 289.13,
+    "ratio": null,
+    "rank": 106
+  },
+  {
+    "ngram": "たい。",
+    "tokens": [
+      "たい",
+      "。"
+    ],
+    "ai_count": 377,
+    "clean_count": 100,
+    "ai_per_1k": 0.2227,
+    "clean_per_1k": 0.041,
+    "G2": 288.41,
+    "ratio": 5.43,
+    "rank": 107
+  },
+  {
+    "ngram": "くる。",
+    "tokens": [
+      "くる",
+      "。"
+    ],
+    "ai_count": 309,
+    "clean_count": 60,
+    "ai_per_1k": 0.1825,
+    "clean_per_1k": 0.0246,
+    "G2": 287.1,
+    "ratio": 7.42,
+    "rank": 108
+  },
+  {
+    "ngram": ",\n      ",
+    "tokens": [
+      ",",
+      "\n      "
+    ],
+    "ai_count": 155,
+    "clean_count": 0,
+    "ai_per_1k": 0.0915,
+    "clean_per_1k": 0.0,
+    "G2": 276.64,
+    "ratio": null,
+    "rank": 109
+  },
+  {
+    "ngram": "`を",
+    "tokens": [
+      "`",
+      "を"
+    ],
+    "ai_count": 155,
+    "clean_count": 0,
+    "ai_per_1k": 0.0915,
+    "clean_per_1k": 0.0,
+    "G2": 276.64,
+    "ratio": null,
+    "rank": 110
+  },
+  {
+    "ngram": "。今回",
+    "tokens": [
+      "。",
+      "今回"
+    ],
+    "ai_count": 280,
+    "clean_count": 49,
+    "ai_per_1k": 0.1654,
+    "clean_per_1k": 0.0201,
+    "G2": 274.46,
+    "ratio": 8.23,
+    "rank": 111
+  },
+  {
+    "ngram": "次の",
+    "tokens": [
+      "次",
+      "の"
+    ],
+    "ai_count": 586,
+    "clean_count": 262,
+    "ai_per_1k": 0.3461,
+    "clean_per_1k": 0.1074,
+    "G2": 273.48,
+    "ratio": 3.22,
+    "rank": 112
+  },
+  {
+    "ngram": "{\n        ",
+    "tokens": [
+      "{",
+      "\n        "
+    ],
+    "ai_count": 152,
+    "clean_count": 0,
+    "ai_per_1k": 0.0898,
+    "clean_per_1k": 0.0,
+    "G2": 271.28,
+    "ratio": null,
+    "rank": 113
+  },
+  {
+    "ngram": "、そして",
+    "tokens": [
+      "、",
+      "そして"
+    ],
+    "ai_count": 360,
+    "clean_count": 99,
+    "ai_per_1k": 0.2126,
+    "clean_per_1k": 0.0406,
+    "G2": 268.24,
+    "ratio": 5.24,
+    "rank": 114
+  },
+  {
+    "ngram": "(`",
+    "tokens": [
+      "(",
+      "`"
+    ],
+    "ai_count": 170,
+    "clean_count": 5,
+    "ai_per_1k": 0.1004,
+    "clean_per_1k": 0.002,
+    "G2": 263.27,
+    "ratio": 48.99,
+    "rank": 115
+  },
+  {
+    "ngram": "たいとき",
+    "tokens": [
+      "たい",
+      "とき"
+    ],
+    "ai_count": 219,
+    "clean_count": 23,
+    "ai_per_1k": 0.1293,
+    "clean_per_1k": 0.0094,
+    "G2": 263.11,
+    "ratio": 13.72,
+    "rank": 116
+  },
+  {
+    "ngram": "たとき",
+    "tokens": [
+      "た",
+      "とき"
+    ],
+    "ai_count": 604,
+    "clean_count": 288,
+    "ai_per_1k": 0.3567,
+    "clean_per_1k": 0.118,
+    "G2": 259.44,
+    "ratio": 3.02,
+    "rank": 117
+  },
+  {
+    "ngram": "、たぶん",
+    "tokens": [
+      "、",
+      "たぶん"
+    ],
+    "ai_count": 169,
+    "clean_count": 6,
+    "ai_per_1k": 0.0998,
+    "clean_per_1k": 0.0025,
+    "G2": 255.68,
+    "ratio": 40.59,
+    "rank": 118
+  },
+  {
+    "ngram": ")*",
+    "tokens": [
+      ")",
+      "*"
+    ],
+    "ai_count": 153,
+    "clean_count": 2,
+    "ai_per_1k": 0.0904,
+    "clean_per_1k": 0.0008,
+    "G2": 253.8,
+    "ratio": 110.23,
+    "rank": 119
+  },
+  {
+    "ngram": "一つ",
+    "tokens": [
+      "一",
+      "つ"
+    ],
+    "ai_count": 569,
+    "clean_count": 264,
+    "ai_per_1k": 0.3361,
+    "clean_per_1k": 0.1082,
+    "G2": 253.36,
+    "ratio": 3.11,
+    "rank": 120
+  },
+  {
+    "ngram": "に\n\n",
+    "tokens": [
+      "に",
+      "\n\n"
+    ],
+    "ai_count": 283,
+    "clean_count": 59,
+    "ai_per_1k": 0.1671,
+    "clean_per_1k": 0.0242,
+    "G2": 252.75,
+    "ratio": 6.91,
+    "rank": 121
+  },
+  {
+    "ngram": "。けれど",
+    "tokens": [
+      "。",
+      "けれど"
+    ],
+    "ai_count": 163,
+    "clean_count": 5,
+    "ai_per_1k": 0.0963,
+    "clean_per_1k": 0.002,
+    "G2": 251.19,
+    "ratio": 46.97,
+    "rank": 122
+  },
+  {
+    "ngram": "整理し",
+    "tokens": [
+      "整理",
+      "し"
+    ],
+    "ai_count": 275,
+    "clean_count": 56,
+    "ai_per_1k": 0.1624,
+    "clean_per_1k": 0.023,
+    "G2": 248.9,
+    "ratio": 7.08,
+    "rank": 123
+  },
+  {
+    "ngram": "」\n\n",
+    "tokens": [
+      "」",
+      "\n\n"
+    ],
+    "ai_count": 496,
+    "clean_count": 209,
+    "ai_per_1k": 0.2929,
+    "clean_per_1k": 0.0857,
+    "G2": 248.52,
+    "ratio": 3.42,
+    "rank": 124
+  },
+  {
+    "ngram": "いい。",
+    "tokens": [
+      "いい",
+      "。"
+    ],
+    "ai_count": 225,
+    "clean_count": 30,
+    "ai_per_1k": 0.1329,
+    "clean_per_1k": 0.0123,
+    "G2": 248.47,
+    "ratio": 10.81,
+    "rank": 125
+  },
+  {
+    "ngram": "\"]",
+    "tokens": [
+      "\"",
+      "]"
+    ],
+    "ai_count": 194,
+    "clean_count": 17,
+    "ai_per_1k": 0.1146,
+    "clean_per_1k": 0.007,
+    "G2": 245.94,
+    "ratio": 16.44,
+    "rank": 126
+  },
+  {
+    "ngram": "`,",
+    "tokens": [
+      "`",
+      ","
+    ],
+    "ai_count": 185,
+    "clean_count": 14,
+    "ai_per_1k": 0.1093,
+    "clean_per_1k": 0.0057,
+    "G2": 243.63,
+    "ratio": 19.04,
+    "rank": 127
+  },
+  {
+    "ngram": "など)",
+    "tokens": [
+      "など",
+      ")"
+    ],
+    "ai_count": 190,
+    "clean_count": 16,
+    "ai_per_1k": 0.1122,
+    "clean_per_1k": 0.0066,
+    "G2": 243.48,
+    "ratio": 17.11,
+    "rank": 128
+  },
+  {
+    "ngram": "})",
+    "tokens": [
+      "}",
+      ")"
+    ],
+    "ai_count": 265,
+    "clean_count": 53,
+    "ai_per_1k": 0.1565,
+    "clean_per_1k": 0.0217,
+    "G2": 242.28,
+    "ratio": 7.2,
+    "rank": 129
+  },
+  {
+    "ngram": "`)",
+    "tokens": [
+      "`",
+      ")"
+    ],
+    "ai_count": 156,
+    "clean_count": 5,
+    "ai_per_1k": 0.0921,
+    "clean_per_1k": 0.002,
+    "G2": 239.13,
+    "ratio": 44.96,
+    "rank": 130
+  },
+  {
+    "ngram": "[\"",
+    "tokens": [
+      "[",
+      "\""
+    ],
+    "ai_count": 178,
+    "clean_count": 13,
+    "ai_per_1k": 0.1051,
+    "clean_per_1k": 0.0053,
+    "G2": 236.43,
+    "ratio": 19.73,
+    "rank": 131
+  },
+  {
+    "ngram": " つ",
+    "tokens": [
+      " ",
+      "つ"
+    ],
+    "ai_count": 190,
+    "clean_count": 18,
+    "ai_per_1k": 0.1122,
+    "clean_per_1k": 0.0074,
+    "G2": 235.59,
+    "ratio": 15.21,
+    "rank": 132
+  },
+  {
+    "ngram": "——",
+    "tokens": [
+      "—",
+      "—"
+    ],
+    "ai_count": 150,
+    "clean_count": 4,
+    "ai_per_1k": 0.0886,
+    "clean_per_1k": 0.0016,
+    "G2": 234.83,
+    "ratio": 54.03,
+    "rank": 133
+  },
+  {
+    "ngram": "`kubectl",
+    "tokens": [
+      "`",
+      "kubectl"
+    ],
+    "ai_count": 131,
+    "clean_count": 0,
+    "ai_per_1k": 0.0774,
+    "clean_per_1k": 0.0,
+    "G2": 233.8,
+    "ratio": null,
+    "rank": 134
+  },
+  {
+    "ngram": "{\n      ",
+    "tokens": [
+      "{",
+      "\n      "
+    ],
+    "ai_count": 140,
+    "clean_count": 2,
+    "ai_per_1k": 0.0827,
+    "clean_per_1k": 0.0008,
+    "G2": 230.95,
+    "ratio": 100.87,
+    "rank": 135
+  },
+  {
+    "ngram": "')",
+    "tokens": [
+      "'",
+      ")"
+    ],
+    "ai_count": 245,
+    "clean_count": 47,
+    "ai_per_1k": 0.1447,
+    "clean_per_1k": 0.0193,
+    "G2": 229.12,
+    "ratio": 7.51,
+    "rank": 136
+  },
+  {
+    "ngram": "こと\n\n",
+    "tokens": [
+      "こと",
+      "\n\n"
+    ],
+    "ai_count": 168,
+    "clean_count": 11,
+    "ai_per_1k": 0.0992,
+    "clean_per_1k": 0.0045,
+    "G2": 228.76,
+    "ratio": 22.01,
+    "rank": 137
+  },
+  {
+    "ngram": "おきたい",
+    "tokens": [
+      "おき",
+      "たい"
+    ],
+    "ai_count": 214,
+    "clean_count": 32,
+    "ai_per_1k": 0.1264,
+    "clean_per_1k": 0.0131,
+    "G2": 225.49,
+    "ratio": 9.64,
+    "rank": 138
+  },
+  {
+    "ngram": "name:",
+    "tokens": [
+      "name",
+      ":"
+    ],
+    "ai_count": 268,
+    "clean_count": 62,
+    "ai_per_1k": 0.1583,
+    "clean_per_1k": 0.0254,
+    "G2": 224.81,
+    "ratio": 6.23,
+    "rank": 139
+  },
+  {
+    "ngram": "おく。",
+    "tokens": [
+      "おく",
+      "。"
+    ],
+    "ai_count": 203,
+    "clean_count": 27,
+    "ai_per_1k": 0.1199,
+    "clean_per_1k": 0.0111,
+    "G2": 224.39,
+    "ratio": 10.83,
+    "rank": 140
+  },
+  {
+    "ngram": " おわり",
+    "tokens": [
+      " ",
+      "おわり"
+    ],
+    "ai_count": 136,
+    "clean_count": 2,
+    "ai_per_1k": 0.0803,
+    "clean_per_1k": 0.0008,
+    "G2": 223.93,
+    "ratio": 97.98,
+    "rank": 141
+  },
+  {
+    "ngram": "\n  const",
+    "tokens": [
+      "\n  ",
+      "const"
+    ],
+    "ai_count": 125,
+    "clean_count": 0,
+    "ai_per_1k": 0.0738,
+    "clean_per_1k": 0.0,
+    "G2": 223.09,
+    "ratio": null,
+    "rank": 142
+  },
+  {
+    "ngram": "何か",
+    "tokens": [
+      "何",
+      "か"
+    ],
+    "ai_count": 417,
+    "clean_count": 167,
+    "ai_per_1k": 0.2463,
+    "clean_per_1k": 0.0684,
+    "G2": 221.25,
+    "ratio": 3.6,
+    "rank": 143
+  },
+  {
+    "ngram": "`/",
+    "tokens": [
+      "`",
+      "/"
+    ],
+    "ai_count": 145,
+    "clean_count": 5,
+    "ai_per_1k": 0.0856,
+    "clean_per_1k": 0.002,
+    "G2": 220.22,
+    "ratio": 41.79,
+    "rank": 144
+  },
+  {
+    "ngram": "';",
+    "tokens": [
+      "'",
+      ";"
+    ],
+    "ai_count": 132,
+    "clean_count": 2,
+    "ai_per_1k": 0.078,
+    "clean_per_1k": 0.0008,
+    "G2": 216.91,
+    "ratio": 95.1,
+    "rank": 145
+  },
+  {
+    "ngram": "},",
+    "tokens": [
+      "}",
+      ","
+    ],
+    "ai_count": 229,
+    "clean_count": 43,
+    "ai_per_1k": 0.1352,
+    "clean_per_1k": 0.0176,
+    "G2": 216.59,
+    "ratio": 7.67,
+    "rank": 146
+  },
+  {
+    "ngram": "だろう。",
+    "tokens": [
+      "だろう",
+      "。"
+    ],
+    "ai_count": 308,
+    "clean_count": 93,
+    "ai_per_1k": 0.1819,
+    "clean_per_1k": 0.0381,
+    "G2": 213.39,
+    "ratio": 4.77,
+    "rank": 147
+  },
+  {
+    "ngram": "print(",
+    "tokens": [
+      "print",
+      "("
+    ],
+    "ai_count": 132,
+    "clean_count": 3,
+    "ai_per_1k": 0.078,
+    "clean_per_1k": 0.0012,
+    "G2": 209.98,
+    "ratio": 63.4,
+    "rank": 148
+  },
+  {
+    "ngram": "import ",
+    "tokens": [
+      "import",
+      " "
+    ],
+    "ai_count": 463,
+    "clean_count": 212,
+    "ai_per_1k": 0.2735,
+    "clean_per_1k": 0.0869,
+    "G2": 209.7,
+    "ratio": 3.15,
+    "rank": 149
+  },
+  {
+    "ngram": "を語る",
+    "tokens": [
+      "を",
+      "語る"
+    ],
+    "ai_count": 147,
+    "clean_count": 8,
+    "ai_per_1k": 0.0868,
+    "clean_per_1k": 0.0033,
+    "G2": 207.79,
+    "ratio": 26.48,
+    "rank": 150
+  },
+  {
+    "ngram": "は\n\n",
+    "tokens": [
+      "は",
+      "\n\n"
+    ],
+    "ai_count": 200,
+    "clean_count": 32,
+    "ai_per_1k": 0.1181,
+    "clean_per_1k": 0.0131,
+    "G2": 204.53,
+    "ratio": 9.01,
+    "rank": 151
+  },
+  {
+    "ngram": "\n\nそれ",
+    "tokens": [
+      "\n\n",
+      "それ"
+    ],
+    "ai_count": 209,
+    "clean_count": 37,
+    "ai_per_1k": 0.1234,
+    "clean_per_1k": 0.0152,
+    "G2": 203.7,
+    "ratio": 8.14,
+    "rank": 152
+  },
+  {
+    "ngram": "/`",
+    "tokens": [
+      "/",
+      "`"
+    ],
+    "ai_count": 114,
+    "clean_count": 0,
+    "ai_per_1k": 0.0673,
+    "clean_per_1k": 0.0,
+    "G2": 203.46,
+    "ratio": null,
+    "rank": 153
+  },
+  {
+    "ngram": "みて",
+    "tokens": [
+      "み",
+      "て"
+    ],
+    "ai_count": 452,
+    "clean_count": 209,
+    "ai_per_1k": 0.267,
+    "clean_per_1k": 0.0857,
+    "G2": 202.16,
+    "ratio": 3.12,
+    "rank": 154
+  },
+  {
+    "ngram": ">`",
+    "tokens": [
+      ">",
+      "`"
+    ],
+    "ai_count": 119,
+    "clean_count": 1,
+    "ai_per_1k": 0.0703,
+    "clean_per_1k": 0.0004,
+    "G2": 201.87,
+    "ratio": 171.47,
+    "rank": 155
+  },
+  {
+    "ngram": "動かして",
+    "tokens": [
+      "動かし",
+      "て"
+    ],
+    "ai_count": 199,
+    "clean_count": 33,
+    "ai_per_1k": 0.1175,
+    "clean_per_1k": 0.0135,
+    "G2": 200.17,
+    "ratio": 8.69,
+    "rank": 156
+  },
+  {
+    "ngram": "ことだ",
+    "tokens": [
+      "こと",
+      "だ"
+    ],
+    "ai_count": 253,
+    "clean_count": 64,
+    "ai_per_1k": 0.1494,
+    "clean_per_1k": 0.0262,
+    "G2": 200.1,
+    "ratio": 5.7,
+    "rank": 157
+  },
+  {
+    "ngram": "。私",
+    "tokens": [
+      "。",
+      "私"
+    ],
+    "ai_count": 273,
+    "clean_count": 77,
+    "ai_per_1k": 0.1612,
+    "clean_per_1k": 0.0316,
+    "G2": 199.58,
+    "ratio": 5.11,
+    "rank": 158
+  },
+  {
+    "ngram": "):",
+    "tokens": [
+      ")",
+      ":"
+    ],
+    "ai_count": 309,
+    "clean_count": 102,
+    "ai_per_1k": 0.1825,
+    "clean_per_1k": 0.0418,
+    "G2": 198.43,
+    "ratio": 4.37,
+    "rank": 159
+  },
+  {
+    "ngram": "、誰",
+    "tokens": [
+      "、",
+      "誰"
+    ],
+    "ai_count": 230,
+    "clean_count": 51,
+    "ai_per_1k": 0.1358,
+    "clean_per_1k": 0.0209,
+    "G2": 198.07,
+    "ratio": 6.5,
+    "rank": 160
+  },
+  {
+    "ngram": "いくつか",
+    "tokens": [
+      "いくつ",
+      "か"
+    ],
+    "ai_count": 367,
+    "clean_count": 145,
+    "ai_per_1k": 0.2168,
+    "clean_per_1k": 0.0594,
+    "G2": 197.61,
+    "ratio": 3.65,
+    "rank": 161
+  },
+  {
+    "ngram": "彼の",
+    "tokens": [
+      "彼",
+      "の"
+    ],
+    "ai_count": 336,
+    "clean_count": 122,
+    "ai_per_1k": 0.1984,
+    "clean_per_1k": 0.05,
+    "G2": 197.36,
+    "ratio": 3.97,
+    "rank": 162
+  },
+  {
+    "ngram": "かが",
+    "tokens": [
+      "か",
+      "が"
+    ],
+    "ai_count": 319,
+    "clean_count": 110,
+    "ai_per_1k": 0.1884,
+    "clean_per_1k": 0.0451,
+    "G2": 196.87,
+    "ratio": 4.18,
+    "rank": 163
+  },
+  {
+    "ngram": "何を",
+    "tokens": [
+      "何",
+      "を"
+    ],
+    "ai_count": 316,
+    "clean_count": 108,
+    "ai_per_1k": 0.1866,
+    "clean_per_1k": 0.0443,
+    "G2": 196.63,
+    "ratio": 4.22,
+    "rank": 164
+  },
+  {
+    "ngram": "つは",
+    "tokens": [
+      "つ",
+      "は"
+    ],
+    "ai_count": 193,
+    "clean_count": 32,
+    "ai_per_1k": 0.114,
+    "clean_per_1k": 0.0131,
+    "G2": 194.15,
+    "ratio": 8.69,
+    "rank": 165
+  },
+  {
+    "ngram": " —",
+    "tokens": [
+      " ",
+      "—"
+    ],
+    "ai_count": 126,
+    "clean_count": 4,
+    "ai_per_1k": 0.0744,
+    "clean_per_1k": 0.0016,
+    "G2": 193.37,
+    "ratio": 45.39,
+    "rank": 166
+  },
+  {
+    "ngram": "}\n    ",
+    "tokens": [
+      "}",
+      "\n    "
+    ],
+    "ai_count": 108,
+    "clean_count": 0,
+    "ai_per_1k": 0.0638,
+    "clean_per_1k": 0.0,
+    "G2": 192.75,
+    "ratio": null,
+    "rank": 167
+  },
+  {
+    "ngram": "}\n\n",
+    "tokens": [
+      "}",
+      "\n\n"
+    ],
+    "ai_count": 125,
+    "clean_count": 4,
+    "ai_per_1k": 0.0738,
+    "clean_per_1k": 0.0016,
+    "G2": 191.65,
+    "ratio": 45.03,
+    "rank": 168
+  },
+  {
+    "ngram": "見えて",
+    "tokens": [
+      "見え",
+      "て"
+    ],
+    "ai_count": 206,
+    "clean_count": 40,
+    "ai_per_1k": 0.1217,
+    "clean_per_1k": 0.0164,
+    "G2": 191.4,
+    "ratio": 7.42,
+    "rank": 169
+  },
+  {
+    "ngram": " 側",
+    "tokens": [
+      " ",
+      "側"
+    ],
+    "ai_count": 172,
+    "clean_count": 23,
+    "ai_per_1k": 0.1016,
+    "clean_per_1k": 0.0094,
+    "G2": 189.73,
+    "ratio": 10.78,
+    "rank": 170
+  },
+  {
+    "ngram": "なら、",
+    "tokens": [
+      "なら",
+      "、"
+    ],
+    "ai_count": 322,
+    "clean_count": 117,
+    "ai_per_1k": 0.1902,
+    "clean_per_1k": 0.048,
+    "G2": 189.0,
+    "ratio": 3.97,
+    "rank": 171
+  },
+  {
+    "ngram": "、もう",
+    "tokens": [
+      "、",
+      "もう"
+    ],
+    "ai_count": 266,
+    "clean_count": 78,
+    "ai_per_1k": 0.1571,
+    "clean_per_1k": 0.032,
+    "G2": 188.68,
+    "ratio": 4.91,
+    "rank": 172
+  },
+  {
+    "ngram": "をどう",
+    "tokens": [
+      "を",
+      "どう"
+    ],
+    "ai_count": 187,
+    "clean_count": 31,
+    "ai_per_1k": 0.1104,
+    "clean_per_1k": 0.0127,
+    "G2": 188.13,
+    "ratio": 8.69,
+    "rank": 173
+  },
+  {
+    "ngram": "',",
+    "tokens": [
+      "'",
+      ","
+    ],
+    "ai_count": 379,
+    "clean_count": 161,
+    "ai_per_1k": 0.2238,
+    "clean_per_1k": 0.066,
+    "G2": 188.12,
+    "ratio": 3.39,
+    "rank": 174
+  },
+  {
+    "ngram": "\nconst",
+    "tokens": [
+      "\n",
+      "const"
+    ],
+    "ai_count": 105,
+    "clean_count": 0,
+    "ai_per_1k": 0.062,
+    "clean_per_1k": 0.0,
+    "G2": 187.4,
+    "ratio": null,
+    "rank": 175
+  },
+  {
+    "ngram": "は`",
+    "tokens": [
+      "は",
+      "`"
+    ],
+    "ai_count": 105,
+    "clean_count": 0,
+    "ai_per_1k": 0.062,
+    "clean_per_1k": 0.0,
+    "G2": 187.4,
+    "ratio": null,
+    "rank": 176
+  },
+  {
+    "ngram": "?」",
+    "tokens": [
+      "?",
+      "」"
+    ],
+    "ai_count": 166,
+    "clean_count": 21,
+    "ai_per_1k": 0.098,
+    "clean_per_1k": 0.0086,
+    "G2": 187.02,
+    "ratio": 11.39,
+    "rank": 177
+  },
+  {
+    "ngram": "誰か",
+    "tokens": [
+      "誰",
+      "か"
+    ],
+    "ai_count": 271,
+    "clean_count": 83,
+    "ai_per_1k": 0.1601,
+    "clean_per_1k": 0.034,
+    "G2": 185.58,
+    "ratio": 4.7,
+    "rank": 178
+  },
+  {
+    "ngram": "おきます",
+    "tokens": [
+      "おき",
+      "ます"
+    ],
+    "ai_count": 275,
+    "clean_count": 87,
+    "ai_per_1k": 0.1624,
+    "clean_per_1k": 0.0357,
+    "G2": 183.26,
+    "ratio": 4.55,
+    "rank": 179
+  },
+  {
+    "ngram": "\n{",
+    "tokens": [
+      "\n",
+      "{"
+    ],
+    "ai_count": 108,
+    "clean_count": 1,
+    "ai_per_1k": 0.0638,
+    "clean_per_1k": 0.0004,
+    "G2": 182.43,
+    "ratio": 155.62,
+    "rank": 180
+  },
+  {
+    "ngram": "json\n",
+    "tokens": [
+      "json",
+      "\n"
+    ],
+    "ai_count": 108,
+    "clean_count": 1,
+    "ai_per_1k": 0.0638,
+    "clean_per_1k": 0.0004,
+    "G2": 182.43,
+    "ratio": 155.62,
+    "rank": 181
+  },
+  {
+    "ngram": "`git",
+    "tokens": [
+      "`",
+      "git"
+    ],
+    "ai_count": 116,
+    "clean_count": 3,
+    "ai_per_1k": 0.0685,
+    "clean_per_1k": 0.0012,
+    "G2": 182.19,
+    "ratio": 55.72,
+    "rank": 182
+  },
+  {
+    "ngram": "\n\nそして",
+    "tokens": [
+      "\n\n",
+      "そして"
+    ],
+    "ai_count": 221,
+    "clean_count": 54,
+    "ai_per_1k": 0.1305,
+    "clean_per_1k": 0.0221,
+    "G2": 178.93,
+    "ratio": 5.9,
+    "rank": 183
+  },
+  {
+    "ngram": "\"\n  ",
+    "tokens": [
+      "\"",
+      "\n  "
+    ],
+    "ai_count": 100,
+    "clean_count": 0,
+    "ai_per_1k": 0.0591,
+    "clean_per_1k": 0.0,
+    "G2": 178.48,
+    "ratio": null,
+    "rank": 184
+  },
+  {
+    "ngram": "`-",
+    "tokens": [
+      "`",
+      "-"
+    ],
+    "ai_count": 100,
+    "clean_count": 0,
+    "ai_per_1k": 0.0591,
+    "clean_per_1k": 0.0,
+    "G2": 178.48,
+    "ratio": null,
+    "rank": 185
+  },
+  {
+    "ngram": "たい場合",
+    "tokens": [
+      "たい",
+      "場合"
+    ],
+    "ai_count": 234,
+    "clean_count": 63,
+    "ai_per_1k": 0.1382,
+    "clean_per_1k": 0.0258,
+    "G2": 177.1,
+    "ratio": 5.35,
+    "rank": 186
+  },
+  {
+    "ngram": ";\n\n  ",
+    "tokens": [
+      ";",
+      "\n\n  "
+    ],
+    "ai_count": 99,
+    "clean_count": 0,
+    "ai_per_1k": 0.0585,
+    "clean_per_1k": 0.0,
+    "G2": 176.69,
+    "ratio": null,
+    "rank": 187
+  },
+  {
+    "ngram": "語るうえ",
+    "tokens": [
+      "語る",
+      "うえ"
+    ],
+    "ai_count": 99,
+    "clean_count": 0,
+    "ai_per_1k": 0.0585,
+    "clean_per_1k": 0.0,
+    "G2": 176.69,
+    "ratio": null,
+    "rank": 188
+  },
+  {
+    "ngram": "`で",
+    "tokens": [
+      "`",
+      "で"
+    ],
+    "ai_count": 98,
+    "clean_count": 0,
+    "ai_per_1k": 0.0579,
+    "clean_per_1k": 0.0,
+    "G2": 174.91,
+    "ratio": null,
+    "rank": 189
+  },
+  {
+    "ngram": "\n      \"",
+    "tokens": [
+      "\n      ",
+      "\""
+    ],
+    "ai_count": 98,
+    "clean_count": 0,
+    "ai_per_1k": 0.0579,
+    "clean_per_1k": 0.0,
+    "G2": 174.91,
+    "ratio": null,
+    "rank": 190
+  },
+  {
+    "ngram": " なぜ",
+    "tokens": [
+      " ",
+      "なぜ"
+    ],
+    "ai_count": 130,
+    "clean_count": 9,
+    "ai_per_1k": 0.0768,
+    "clean_per_1k": 0.0037,
+    "G2": 174.83,
+    "ratio": 20.81,
+    "rank": 191
+  },
+  {
+    "ngram": "))",
+    "tokens": [
+      ")",
+      ")"
+    ],
+    "ai_count": 342,
+    "clean_count": 142,
+    "ai_per_1k": 0.202,
+    "clean_per_1k": 0.0582,
+    "G2": 174.29,
+    "ratio": 3.47,
+    "rank": 192
+  },
+  {
+    "ngram": "ながら、",
+    "tokens": [
+      "ながら",
+      "、"
+    ],
+    "ai_count": 389,
+    "clean_count": 182,
+    "ai_per_1k": 0.2297,
+    "clean_per_1k": 0.0746,
+    "G2": 171.34,
+    "ratio": 3.08,
+    "rank": 193
+  },
+  {
+    "ngram": ",\n",
+    "tokens": [
+      ",",
+      "\n"
+    ],
+    "ai_count": 133,
+    "clean_count": 11,
+    "ai_per_1k": 0.0786,
+    "clean_per_1k": 0.0045,
+    "G2": 171.25,
+    "ratio": 17.42,
+    "rank": 194
+  },
+  {
+    "ngram": "json`",
+    "tokens": [
+      "json",
+      "`"
+    ],
+    "ai_count": 101,
+    "clean_count": 1,
+    "ai_per_1k": 0.0597,
+    "clean_per_1k": 0.0004,
+    "G2": 170.07,
+    "ratio": 145.53,
+    "rank": 195
+  },
+  {
+    "ngram": "ない、",
+    "tokens": [
+      "ない",
+      "、"
+    ],
+    "ai_count": 285,
+    "clean_count": 102,
+    "ai_per_1k": 0.1683,
+    "clean_per_1k": 0.0418,
+    "G2": 169.78,
+    "ratio": 4.03,
+    "rank": 196
+  },
+  {
+    "ngram": "、ここ",
+    "tokens": [
+      "、",
+      "ここ"
+    ],
+    "ai_count": 275,
+    "clean_count": 95,
+    "ai_per_1k": 0.1624,
+    "clean_per_1k": 0.0389,
+    "G2": 169.42,
+    "ratio": 4.17,
+    "rank": 197
+  },
+  {
+    "ngram": " はじめ",
+    "tokens": [
+      " ",
+      "はじめ"
+    ],
+    "ai_count": 114,
+    "clean_count": 5,
+    "ai_per_1k": 0.0673,
+    "clean_per_1k": 0.002,
+    "G2": 167.25,
+    "ratio": 32.85,
+    "rank": 198
+  },
+  {
+    "ngram": "たびに",
+    "tokens": [
+      "たび",
+      "に"
+    ],
+    "ai_count": 185,
+    "clean_count": 38,
+    "ai_per_1k": 0.1093,
+    "clean_per_1k": 0.0156,
+    "G2": 166.63,
+    "ratio": 7.02,
+    "rank": 199
+  },
+  {
+    "ngram": "効いて",
+    "tokens": [
+      "効い",
+      "て"
+    ],
+    "ai_count": 103,
+    "clean_count": 2,
+    "ai_per_1k": 0.0608,
+    "clean_per_1k": 0.0008,
+    "G2": 166.13,
+    "ratio": 74.21,
+    "rank": 200
+  },
+  {
+    "ngram": "return ",
+    "tokens": [
+      "return",
+      " "
+    ],
+    "ai_count": 298,
+    "clean_count": 115,
+    "ai_per_1k": 0.176,
+    "clean_per_1k": 0.0471,
+    "G2": 164.52,
+    "ratio": 3.73,
+    "rank": 201
+  },
+  {
+    "ngram": "を動かし",
+    "tokens": [
+      "を",
+      "動かし"
+    ],
+    "ai_count": 165,
+    "clean_count": 28,
+    "ai_per_1k": 0.0975,
+    "clean_per_1k": 0.0115,
+    "G2": 164.17,
+    "ratio": 8.49,
+    "rank": 202
+  },
+  {
+    "ngram": "\nfrom",
+    "tokens": [
+      "\n",
+      "from"
+    ],
+    "ai_count": 123,
+    "clean_count": 9,
+    "ai_per_1k": 0.0726,
+    "clean_per_1k": 0.0037,
+    "G2": 163.3,
+    "ratio": 19.69,
+    "rank": 203
+  },
+  {
+    "ngram": "それで",
+    "tokens": [
+      "それ",
+      "で"
+    ],
+    "ai_count": 370,
+    "clean_count": 173,
+    "ai_per_1k": 0.2185,
+    "clean_per_1k": 0.0709,
+    "G2": 163.1,
+    "ratio": 3.08,
+    "rank": 204
+  },
+  {
+    "ngram": "\"\n    ",
+    "tokens": [
+      "\"",
+      "\n    "
+    ],
+    "ai_count": 91,
+    "clean_count": 0,
+    "ai_per_1k": 0.0537,
+    "clean_per_1k": 0.0,
+    "G2": 162.41,
+    "ratio": null,
+    "rank": 205
+  },
+  {
+    "ngram": ")\n        ",
+    "tokens": [
+      ")",
+      "\n        "
+    ],
+    "ai_count": 91,
+    "clean_count": 0,
+    "ai_per_1k": 0.0537,
+    "clean_per_1k": 0.0,
+    "G2": 162.41,
+    "ratio": null,
+    "rank": 206
+  },
+  {
+    "ngram": "]\n",
+    "tokens": [
+      "]",
+      "\n"
+    ],
+    "ai_count": 154,
+    "clean_count": 23,
+    "ai_per_1k": 0.091,
+    "clean_per_1k": 0.0094,
+    "G2": 162.36,
+    "ratio": 9.65,
+    "rank": 207
+  },
+  {
+    "ngram": "\n\nもう",
+    "tokens": [
+      "\n\n",
+      "もう"
+    ],
+    "ai_count": 125,
+    "clean_count": 10,
+    "ai_per_1k": 0.0738,
+    "clean_per_1k": 0.0041,
+    "G2": 162.34,
+    "ratio": 18.01,
+    "rank": 208
+  },
+  {
+    "ngram": "。最初",
+    "tokens": [
+      "。",
+      "最初"
+    ],
+    "ai_count": 167,
+    "clean_count": 30,
+    "ai_per_1k": 0.0986,
+    "clean_per_1k": 0.0123,
+    "G2": 161.58,
+    "ratio": 8.02,
+    "rank": 209
+  },
+  {
+    "ngram": "いく。",
+    "tokens": [
+      "いく",
+      "。"
+    ],
+    "ai_count": 326,
+    "clean_count": 139,
+    "ai_per_1k": 0.1925,
+    "clean_per_1k": 0.057,
+    "G2": 161.11,
+    "ratio": 3.38,
+    "rank": 210
+  },
+  {
+    "ngram": "一気に",
+    "tokens": [
+      "一気",
+      "に"
+    ],
+    "ai_count": 149,
+    "clean_count": 21,
+    "ai_per_1k": 0.088,
+    "clean_per_1k": 0.0086,
+    "G2": 160.94,
+    "ratio": 10.22,
+    "rank": 211
+  },
+  {
+    "ngram": "def ",
+    "tokens": [
+      "def",
+      " "
+    ],
+    "ai_count": 153,
+    "clean_count": 23,
+    "ai_per_1k": 0.0904,
+    "clean_per_1k": 0.0094,
+    "G2": 160.85,
+    "ratio": 9.59,
+    "rank": 212
+  },
+  {
+    "ngram": "、最初",
+    "tokens": [
+      "、",
+      "最初"
+    ],
+    "ai_count": 232,
+    "clean_count": 70,
+    "ai_per_1k": 0.137,
+    "clean_per_1k": 0.0287,
+    "G2": 160.83,
+    "ratio": 4.78,
+    "rank": 213
+  },
+  {
+    "ngram": "*\n",
+    "tokens": [
+      "*",
+      "\n"
+    ],
+    "ai_count": 124,
+    "clean_count": 10,
+    "ai_per_1k": 0.0732,
+    "clean_per_1k": 0.0041,
+    "G2": 160.71,
+    "ratio": 17.87,
+    "rank": 214
+  },
+  {
+    "ngram": "(\n    ",
+    "tokens": [
+      "(",
+      "\n    "
+    ],
+    "ai_count": 103,
+    "clean_count": 3,
+    "ai_per_1k": 0.0608,
+    "clean_per_1k": 0.0012,
+    "G2": 159.69,
+    "ratio": 49.47,
+    "rank": 215
+  },
+  {
+    "ngram": "側で",
+    "tokens": [
+      "側",
+      "で"
+    ],
+    "ai_count": 234,
+    "clean_count": 72,
+    "ai_per_1k": 0.1382,
+    "clean_per_1k": 0.0295,
+    "G2": 159.63,
+    "ratio": 4.68,
+    "rank": 216
+  },
+  {
+    "ngram": "）*",
+    "tokens": [
+      "）",
+      "*"
+    ],
+    "ai_count": 95,
+    "clean_count": 1,
+    "ai_per_1k": 0.0561,
+    "clean_per_1k": 0.0004,
+    "G2": 159.49,
+    "ratio": 136.89,
+    "rank": 217
+  },
+  {
+    "ngram": "いるか",
+    "tokens": [
+      "いる",
+      "か"
+    ],
+    "ai_count": 354,
+    "clean_count": 163,
+    "ai_per_1k": 0.2091,
+    "clean_per_1k": 0.0668,
+    "G2": 159.18,
+    "ratio": 3.13,
+    "rank": 218
+  },
+  {
+    "ngram": "みると",
+    "tokens": [
+      "みる",
+      "と"
+    ],
+    "ai_count": 318,
+    "clean_count": 135,
+    "ai_per_1k": 0.1878,
+    "clean_per_1k": 0.0553,
+    "G2": 157.96,
+    "ratio": 3.39,
+    "rank": 219
+  },
+  {
+    "ngram": "]`",
+    "tokens": [
+      "]",
+      "`"
+    ],
+    "ai_count": 93,
+    "clean_count": 1,
+    "ai_per_1k": 0.0549,
+    "clean_per_1k": 0.0004,
+    "G2": 155.96,
+    "ratio": 134.01,
+    "rank": 220
+  },
+  {
+    "ngram": "};",
+    "tokens": [
+      "}",
+      ";"
+    ],
+    "ai_count": 87,
+    "clean_count": 0,
+    "ai_per_1k": 0.0514,
+    "clean_per_1k": 0.0,
+    "G2": 155.27,
+    "ratio": null,
+    "rank": 221
+  },
+  {
+    "ngram": "\n\nこう",
+    "tokens": [
+      "\n\n",
+      "こう"
+    ],
+    "ai_count": 130,
+    "clean_count": 14,
+    "ai_per_1k": 0.0768,
+    "clean_per_1k": 0.0057,
+    "G2": 154.92,
+    "ratio": 13.38,
+    "rank": 222
+  },
+  {
+    "ngram": "、まず",
+    "tokens": [
+      "、",
+      "まず"
+    ],
+    "ai_count": 253,
+    "clean_count": 88,
+    "ai_per_1k": 0.1494,
+    "clean_per_1k": 0.0361,
+    "G2": 154.87,
+    "ratio": 4.14,
+    "rank": 223
+  },
+  {
+    "ngram": "={",
+    "tokens": [
+      "=",
+      "{"
+    ],
+    "ai_count": 129,
+    "clean_count": 14,
+    "ai_per_1k": 0.0762,
+    "clean_per_1k": 0.0057,
+    "G2": 153.34,
+    "ratio": 13.28,
+    "rank": 224
+  },
+  {
+    "ngram": "}\n  ",
+    "tokens": [
+      "}",
+      "\n  "
+    ],
+    "ai_count": 99,
+    "clean_count": 3,
+    "ai_per_1k": 0.0585,
+    "clean_per_1k": 0.0012,
+    "G2": 152.78,
+    "ratio": 47.55,
+    "rank": 225
+  },
+  {
+    "ngram": "へと",
+    "tokens": [
+      "へ",
+      "と"
+    ],
+    "ai_count": 334,
+    "clean_count": 152,
+    "ai_per_1k": 0.1973,
+    "clean_per_1k": 0.0623,
+    "G2": 152.45,
+    "ratio": 3.17,
+    "rank": 226
+  },
+  {
+    "ngram": "地味に",
+    "tokens": [
+      "地味",
+      "に"
+    ],
+    "ai_count": 105,
+    "clean_count": 5,
+    "ai_per_1k": 0.062,
+    "clean_per_1k": 0.002,
+    "G2": 151.99,
+    "ratio": 30.26,
+    "rank": 227
+  },
+  {
+    "ngram": "いうより",
+    "tokens": [
+      "いう",
+      "より"
+    ],
+    "ai_count": 164,
+    "clean_count": 32,
+    "ai_per_1k": 0.0969,
+    "clean_per_1k": 0.0131,
+    "G2": 151.98,
+    "ratio": 7.38,
+    "rank": 228
+  },
+  {
+    "ngram": "いる人",
+    "tokens": [
+      "いる",
+      "人"
+    ],
+    "ai_count": 233,
+    "clean_count": 76,
+    "ai_per_1k": 0.1376,
+    "clean_per_1k": 0.0312,
+    "G2": 151.22,
+    "ratio": 4.42,
+    "rank": 229
+  },
+  {
+    "ngram": "\n\n第",
+    "tokens": [
+      "\n\n",
+      "第"
+    ],
+    "ai_count": 98,
+    "clean_count": 3,
+    "ai_per_1k": 0.0579,
+    "clean_per_1k": 0.0012,
+    "G2": 151.06,
+    "ratio": 47.07,
+    "rank": 230
+  },
+  {
+    "ngram": "\n)",
+    "tokens": [
+      "\n",
+      ")"
+    ],
+    "ai_count": 90,
+    "clean_count": 1,
+    "ai_per_1k": 0.0532,
+    "clean_per_1k": 0.0004,
+    "G2": 150.67,
+    "ratio": 129.68,
+    "rank": 231
+  },
+  {
+    "ngram": "\ngit",
+    "tokens": [
+      "\n",
+      "git"
+    ],
+    "ai_count": 90,
+    "clean_count": 1,
+    "ai_per_1k": 0.0532,
+    "clean_per_1k": 0.0004,
+    "G2": 150.67,
+    "ratio": 129.68,
+    "rank": 232
+  },
+  {
+    "ngram": "ほうが",
+    "tokens": [
+      "ほう",
+      "が"
+    ],
+    "ai_count": 319,
+    "clean_count": 142,
+    "ai_per_1k": 0.1884,
+    "clean_per_1k": 0.0582,
+    "G2": 149.69,
+    "ratio": 3.24,
+    "rank": 233
+  },
+  {
+    "ngram": "\n\n一方",
+    "tokens": [
+      "\n\n",
+      "一方"
+    ],
+    "ai_count": 131,
+    "clean_count": 16,
+    "ai_per_1k": 0.0774,
+    "clean_per_1k": 0.0066,
+    "G2": 149.51,
+    "ratio": 11.8,
+    "rank": 234
+  },
+  {
+    "ngram": "*。",
+    "tokens": [
+      "*",
+      "。"
+    ],
+    "ai_count": 83,
+    "clean_count": 0,
+    "ai_per_1k": 0.049,
+    "clean_per_1k": 0.0,
+    "G2": 148.13,
+    "ratio": null,
+    "rank": 235
+  },
+  {
+    "ngram": "\n    return",
+    "tokens": [
+      "\n    ",
+      "return"
+    ],
+    "ai_count": 83,
+    "clean_count": 0,
+    "ai_per_1k": 0.049,
+    "clean_per_1k": 0.0,
+    "G2": 148.13,
+    "ratio": null,
+    "rank": 236
+  },
+  {
+    "ngram": "、*",
+    "tokens": [
+      "、",
+      "*"
+    ],
+    "ai_count": 111,
+    "clean_count": 8,
+    "ai_per_1k": 0.0656,
+    "clean_per_1k": 0.0033,
+    "G2": 147.9,
+    "ratio": 19.99,
+    "rank": 237
+  },
+  {
+    "ngram": "\n\nつまり",
+    "tokens": [
+      "\n\n",
+      "つまり"
+    ],
+    "ai_count": 123,
+    "clean_count": 13,
+    "ai_per_1k": 0.0726,
+    "clean_per_1k": 0.0053,
+    "G2": 147.47,
+    "ratio": 13.63,
+    "rank": 238
+  },
+  {
+    "ngram": "\n3",
+    "tokens": [
+      "\n",
+      "3"
+    ],
+    "ai_count": 231,
+    "clean_count": 77,
+    "ai_per_1k": 0.1364,
+    "clean_per_1k": 0.0316,
+    "G2": 147.05,
+    "ratio": 4.32,
+    "rank": 239
+  },
+  {
+    "ngram": "「これ",
+    "tokens": [
+      "「",
+      "これ"
+    ],
+    "ai_count": 212,
+    "clean_count": 64,
+    "ai_per_1k": 0.1252,
+    "clean_per_1k": 0.0262,
+    "G2": 146.9,
+    "ratio": 4.77,
+    "rank": 240
+  },
+  {
+    "ngram": "いう、",
+    "tokens": [
+      "いう",
+      "、"
+    ],
+    "ai_count": 209,
+    "clean_count": 62,
+    "ai_per_1k": 0.1234,
+    "clean_per_1k": 0.0254,
+    "G2": 146.89,
+    "ratio": 4.86,
+    "rank": 241
+  },
+  {
+    "ngram": "if ",
+    "tokens": [
+      "if",
+      " "
+    ],
+    "ai_count": 217,
+    "clean_count": 68,
+    "ai_per_1k": 0.1282,
+    "clean_per_1k": 0.0279,
+    "G2": 145.79,
+    "ratio": 4.6,
+    "rank": 242
+  },
+  {
+    "ngram": "'\n",
+    "tokens": [
+      "'",
+      "\n"
+    ],
+    "ai_count": 91,
+    "clean_count": 2,
+    "ai_per_1k": 0.0537,
+    "clean_per_1k": 0.0008,
+    "G2": 145.21,
+    "ratio": 65.56,
+    "rank": 243
+  },
+  {
+    "ngram": "を一",
+    "tokens": [
+      "を",
+      "一"
+    ],
+    "ai_count": 150,
+    "clean_count": 27,
+    "ai_per_1k": 0.0886,
+    "clean_per_1k": 0.0111,
+    "G2": 144.99,
+    "ratio": 8.01,
+    "rank": 244
+  },
+  {
+    "ngram": "は次",
+    "tokens": [
+      "は",
+      "次"
+    ],
+    "ai_count": 209,
+    "clean_count": 64,
+    "ai_per_1k": 0.1234,
+    "clean_per_1k": 0.0262,
+    "G2": 143.14,
+    "ratio": 4.71,
+    "rank": 245
+  },
+  {
+    "ngram": "のほう",
+    "tokens": [
+      "の",
+      "ほう"
+    ],
+    "ai_count": 200,
+    "clean_count": 58,
+    "ai_per_1k": 0.1181,
+    "clean_per_1k": 0.0238,
+    "G2": 143.11,
+    "ratio": 4.97,
+    "rank": 246
+  },
+  {
+    "ngram": "手を",
+    "tokens": [
+      "手",
+      "を"
+    ],
+    "ai_count": 263,
+    "clean_count": 103,
+    "ai_per_1k": 0.1553,
+    "clean_per_1k": 0.0422,
+    "G2": 142.95,
+    "ratio": 3.68,
+    "rank": 247
+  },
+  {
+    "ngram": "`は",
+    "tokens": [
+      "`",
+      "は"
+    ],
+    "ai_count": 80,
+    "clean_count": 0,
+    "ai_per_1k": 0.0472,
+    "clean_per_1k": 0.0,
+    "G2": 142.78,
+    "ratio": null,
+    "rank": 248
+  },
+  {
+    "ngram": "`の",
+    "tokens": [
+      "`",
+      "の"
+    ],
+    "ai_count": 80,
+    "clean_count": 0,
+    "ai_per_1k": 0.0472,
+    "clean_per_1k": 0.0,
+    "G2": 142.78,
+    "ratio": null,
+    "rank": 249
+  },
+  {
+    "ngram": ":\n            ",
+    "tokens": [
+      ":",
+      "\n            "
+    ],
+    "ai_count": 80,
+    "clean_count": 0,
+    "ai_per_1k": 0.0472,
+    "clean_per_1k": 0.0,
+    "G2": 142.78,
+    "ratio": null,
+    "rank": 250
+  },
+  {
+    "ngram": ";\n        ",
+    "tokens": [
+      ";",
+      "\n        "
+    ],
+    "ai_count": 80,
+    "clean_count": 0,
+    "ai_per_1k": 0.0472,
+    "clean_per_1k": 0.0,
+    "G2": 142.78,
+    "ratio": null,
+    "rank": 251
+  },
+  {
+    "ngram": "だけを",
+    "tokens": [
+      "だけ",
+      "を"
+    ],
+    "ai_count": 210,
+    "clean_count": 65,
+    "ai_per_1k": 0.124,
+    "clean_per_1k": 0.0266,
+    "G2": 142.55,
+    "ratio": 4.66,
+    "rank": 252
+  },
+  {
+    "ngram": "おわりに",
+    "tokens": [
+      "おわり",
+      "に"
+    ],
+    "ai_count": 148,
+    "clean_count": 27,
+    "ai_per_1k": 0.0874,
+    "clean_per_1k": 0.0111,
+    "G2": 142.08,
+    "ratio": 7.9,
+    "rank": 253
+  },
+  {
+    "ngram": "\n4",
+    "tokens": [
+      "\n",
+      "4"
+    ],
+    "ai_count": 169,
+    "clean_count": 39,
+    "ai_per_1k": 0.0998,
+    "clean_per_1k": 0.016,
+    "G2": 141.98,
+    "ratio": 6.24,
+    "rank": 254
+  },
+  {
+    "ngram": "触って",
+    "tokens": [
+      "触っ",
+      "て"
+    ],
+    "ai_count": 112,
+    "clean_count": 10,
+    "ai_per_1k": 0.0661,
+    "clean_per_1k": 0.0041,
+    "G2": 141.25,
+    "ratio": 16.14,
+    "rank": 255
+  },
+  {
+    "ngram": "\"$",
+    "tokens": [
+      "\"",
+      "$"
+    ],
+    "ai_count": 104,
+    "clean_count": 7,
+    "ai_per_1k": 0.0614,
+    "clean_per_1k": 0.0029,
+    "G2": 140.75,
+    "ratio": 21.41,
+    "rank": 256
+  },
+  {
+    "ngram": "はずだ",
+    "tokens": [
+      "はず",
+      "だ"
+    ],
+    "ai_count": 135,
+    "clean_count": 21,
+    "ai_per_1k": 0.0797,
+    "clean_per_1k": 0.0086,
+    "G2": 139.82,
+    "ratio": 9.26,
+    "rank": 257
+  },
+  {
+    "ngram": ":\n          ",
+    "tokens": [
+      ":",
+      "\n          "
+    ],
+    "ai_count": 78,
+    "clean_count": 0,
+    "ai_per_1k": 0.0461,
+    "clean_per_1k": 0.0,
+    "G2": 139.21,
+    "ratio": null,
+    "rank": 258
+  },
+  {
+    "ngram": "`と",
+    "tokens": [
+      "`",
+      "と"
+    ],
+    "ai_count": 78,
+    "clean_count": 0,
+    "ai_per_1k": 0.0461,
+    "clean_per_1k": 0.0,
+    "G2": 139.21,
+    "ratio": null,
+    "rank": 259
+  },
+  {
+    "ngram": "少しずつ",
+    "tokens": [
+      "少し",
+      "ずつ"
+    ],
+    "ai_count": 140,
+    "clean_count": 24,
+    "ai_per_1k": 0.0827,
+    "clean_per_1k": 0.0098,
+    "G2": 138.62,
+    "ratio": 8.41,
+    "rank": 260
+  },
+  {
+    "ngram": "ていっ",
+    "tokens": [
+      "て",
+      "いっ"
+    ],
+    "ai_count": 301,
+    "clean_count": 137,
+    "ai_per_1k": 0.1778,
+    "clean_per_1k": 0.0562,
+    "G2": 137.37,
+    "ratio": 3.17,
+    "rank": 261
+  },
+  {
+    "ngram": "\n        \"",
+    "tokens": [
+      "\n        ",
+      "\""
+    ],
+    "ai_count": 76,
+    "clean_count": 0,
+    "ai_per_1k": 0.0449,
+    "clean_per_1k": 0.0,
+    "G2": 135.64,
+    "ratio": null,
+    "rank": 262
+  },
+  {
+    "ngram": "\n│",
+    "tokens": [
+      "\n",
+      "│"
+    ],
+    "ai_count": 76,
+    "clean_count": 0,
+    "ai_per_1k": 0.0449,
+    "clean_per_1k": 0.0,
+    "G2": 135.64,
+    "ratio": null,
+    "rank": 263
+  },
+  {
+    "ngram": "、何",
+    "tokens": [
+      "、",
+      "何"
+    ],
+    "ai_count": 293,
+    "clean_count": 132,
+    "ai_per_1k": 0.173,
+    "clean_per_1k": 0.0541,
+    "G2": 135.45,
+    "ratio": 3.2,
+    "rank": 264
+  },
+  {
+    "ngram": "のひと",
+    "tokens": [
+      "の",
+      "ひと"
+    ],
+    "ai_count": 177,
+    "clean_count": 47,
+    "ai_per_1k": 0.1045,
+    "clean_per_1k": 0.0193,
+    "G2": 135.3,
+    "ratio": 5.43,
+    "rank": 265
+  },
+  {
+    "ngram": "`json",
+    "tokens": [
+      "`",
+      "json"
+    ],
+    "ai_count": 75,
+    "clean_count": 0,
+    "ai_per_1k": 0.0443,
+    "clean_per_1k": 0.0,
+    "G2": 133.86,
+    "ratio": null,
+    "rank": 266
+  },
+  {
+    "ngram": "は少し",
+    "tokens": [
+      "は",
+      "少し"
+    ],
+    "ai_count": 131,
+    "clean_count": 22,
+    "ai_per_1k": 0.0774,
+    "clean_per_1k": 0.009,
+    "G2": 130.99,
+    "ratio": 8.58,
+    "rank": 267
+  },
+  {
+    "ngram": "続けて",
+    "tokens": [
+      "続け",
+      "て"
+    ],
+    "ai_count": 285,
+    "clean_count": 129,
+    "ai_per_1k": 0.1683,
+    "clean_per_1k": 0.0529,
+    "G2": 130.98,
+    "ratio": 3.18,
+    "rank": 268
+  },
+  {
+    "ngram": "たい」",
+    "tokens": [
+      "たい",
+      "」"
+    ],
+    "ai_count": 196,
+    "clean_count": 62,
+    "ai_per_1k": 0.1158,
+    "clean_per_1k": 0.0254,
+    "G2": 130.63,
+    "ratio": 4.56,
+    "rank": 269
+  },
+  {
+    "ngram": "最初は",
+    "tokens": [
+      "最初",
+      "は"
+    ],
+    "ai_count": 210,
+    "clean_count": 72,
+    "ai_per_1k": 0.124,
+    "clean_per_1k": 0.0295,
+    "G2": 130.29,
+    "ratio": 4.2,
+    "rank": 270
+  },
+  {
+    "ngram": "こそ、",
+    "tokens": [
+      "こそ",
+      "、"
+    ],
+    "ai_count": 145,
+    "clean_count": 30,
+    "ai_per_1k": 0.0856,
+    "clean_per_1k": 0.0123,
+    "G2": 130.06,
+    "ratio": 6.96,
+    "rank": 271
+  },
+  {
+    "ngram": "「自分",
+    "tokens": [
+      "「",
+      "自分"
+    ],
+    "ai_count": 153,
+    "clean_count": 35,
+    "ai_per_1k": 0.0904,
+    "clean_per_1k": 0.0143,
+    "G2": 129.25,
+    "ratio": 6.3,
+    "rank": 272
+  },
+  {
+    "ngram": "そうし",
+    "tokens": [
+      "そう",
+      "し"
+    ],
+    "ai_count": 176,
+    "clean_count": 50,
+    "ai_per_1k": 0.1039,
+    "clean_per_1k": 0.0205,
+    "G2": 127.96,
+    "ratio": 5.07,
+    "rank": 273
+  },
+  {
+    "ngram": "\n2",
+    "tokens": [
+      "\n",
+      "2"
+    ],
+    "ai_count": 249,
+    "clean_count": 103,
+    "ai_per_1k": 0.1471,
+    "clean_per_1k": 0.0422,
+    "G2": 127.43,
+    "ratio": 3.48,
+    "rank": 274
+  },
+  {
+    "ngram": "\n    if",
+    "tokens": [
+      "\n    ",
+      "if"
+    ],
+    "ai_count": 71,
+    "clean_count": 0,
+    "ai_per_1k": 0.0419,
+    "clean_per_1k": 0.0,
+    "G2": 126.72,
+    "ratio": null,
+    "rank": 275
+  },
+  {
+    "ngram": "sh\n",
+    "tokens": [
+      "sh",
+      "\n"
+    ],
+    "ai_count": 71,
+    "clean_count": 0,
+    "ai_per_1k": 0.0419,
+    "clean_per_1k": 0.0,
+    "G2": 126.72,
+    "ratio": null,
+    "rank": 276
+  },
+  {
+    "ngram": "\n        }",
+    "tokens": [
+      "\n        ",
+      "}"
+    ],
+    "ai_count": 71,
+    "clean_count": 0,
+    "ai_per_1k": 0.0419,
+    "clean_per_1k": 0.0,
+    "G2": 126.72,
+    "ratio": null,
+    "rank": 277
+  },
+  {
+    "ngram": "\";",
+    "tokens": [
+      "\"",
+      ";"
+    ],
+    "ai_count": 87,
+    "clean_count": 4,
+    "ai_per_1k": 0.0514,
+    "clean_per_1k": 0.0016,
+    "G2": 126.67,
+    "ratio": 31.34,
+    "rank": 278
+  },
+  {
+    "ngram": "\n\nたとえば",
+    "tokens": [
+      "\n\n",
+      "たとえば"
+    ],
+    "ai_count": 98,
+    "clean_count": 8,
+    "ai_per_1k": 0.0579,
+    "clean_per_1k": 0.0033,
+    "G2": 126.62,
+    "ratio": 17.65,
+    "rank": 279
+  },
+  {
+    "ngram": "やすい。",
+    "tokens": [
+      "やすい",
+      "。"
+    ],
+    "ai_count": 139,
+    "clean_count": 28,
+    "ai_per_1k": 0.0821,
+    "clean_per_1k": 0.0115,
+    "G2": 126.58,
+    "ratio": 7.15,
+    "rank": 280
+  },
+  {
+    "ngram": "({",
+    "tokens": [
+      "(",
+      "{"
+    ],
+    "ai_count": 126,
+    "clean_count": 21,
+    "ai_per_1k": 0.0744,
+    "clean_per_1k": 0.0086,
+    "G2": 126.44,
+    "ratio": 8.65,
+    "rank": 281
+  },
+  {
+    "ngram": "。むしろ",
+    "tokens": [
+      "。",
+      "むしろ"
+    ],
+    "ai_count": 116,
+    "clean_count": 16,
+    "ai_per_1k": 0.0685,
+    "clean_per_1k": 0.0066,
+    "G2": 126.39,
+    "ratio": 10.45,
+    "rank": 282
+  },
+  {
+    "ngram": "欠かせない",
+    "tokens": [
+      "欠かせ",
+      "ない"
+    ],
+    "ai_count": 80,
+    "clean_count": 2,
+    "ai_per_1k": 0.0472,
+    "clean_per_1k": 0.0008,
+    "G2": 126.08,
+    "ratio": 57.64,
+    "rank": 283
+  },
+  {
+    "ngram": "\n\n最初",
+    "tokens": [
+      "\n\n",
+      "最初"
+    ],
+    "ai_count": 131,
+    "clean_count": 24,
+    "ai_per_1k": 0.0774,
+    "clean_per_1k": 0.0098,
+    "G2": 125.49,
+    "ratio": 7.87,
+    "rank": 284
+  },
+  {
+    "ngram": "\n\nconst",
+    "tokens": [
+      "\n\n",
+      "const"
+    ],
+    "ai_count": 70,
+    "clean_count": 0,
+    "ai_per_1k": 0.0413,
+    "clean_per_1k": 0.0,
+    "G2": 124.93,
+    "ratio": null,
+    "rank": 285
+  },
+  {
+    "ngram": "`@",
+    "tokens": [
+      "`",
+      "@"
+    ],
+    "ai_count": 70,
+    "clean_count": 0,
+    "ai_per_1k": 0.0413,
+    "clean_per_1k": 0.0,
+    "G2": 124.93,
+    "ratio": null,
+    "rank": 286
+  },
+  {
+    "ngram": "`が",
+    "tokens": [
+      "`",
+      "が"
+    ],
+    "ai_count": 70,
+    "clean_count": 0,
+    "ai_per_1k": 0.0413,
+    "clean_per_1k": 0.0,
+    "G2": 124.93,
+    "ratio": null,
+    "rank": 287
+  },
+  {
+    "ngram": "`に",
+    "tokens": [
+      "`",
+      "に"
+    ],
+    "ai_count": 70,
+    "clean_count": 0,
+    "ai_per_1k": 0.0413,
+    "clean_per_1k": 0.0,
+    "G2": 124.93,
+    "ratio": null,
+    "rank": 288
+  },
+  {
+    "ngram": "する、",
+    "tokens": [
+      "する",
+      "、"
+    ],
+    "ai_count": 205,
+    "clean_count": 72,
+    "ai_per_1k": 0.1211,
+    "clean_per_1k": 0.0295,
+    "G2": 124.34,
+    "ratio": 4.1,
+    "rank": 289
+  },
+  {
+    "ngram": "true`",
+    "tokens": [
+      "true",
+      "`"
+    ],
+    "ai_count": 75,
+    "clean_count": 1,
+    "ai_per_1k": 0.0443,
+    "clean_per_1k": 0.0004,
+    "G2": 124.26,
+    "ratio": 108.07,
+    "rank": 290
+  },
+  {
+    "ngram": "た瞬間",
+    "tokens": [
+      "た",
+      "瞬間"
+    ],
+    "ai_count": 173,
+    "clean_count": 50,
+    "ai_per_1k": 0.1022,
+    "clean_per_1k": 0.0205,
+    "G2": 124.11,
+    "ratio": 4.99,
+    "rank": 291
+  },
+  {
+    "ngram": "。だ",
+    "tokens": [
+      "。",
+      "だ"
+    ],
+    "ai_count": 266,
+    "clean_count": 119,
+    "ai_per_1k": 0.1571,
+    "clean_per_1k": 0.0488,
+    "G2": 124.05,
+    "ratio": 3.22,
+    "rank": 292
+  },
+  {
+    "ngram": "、いわゆる",
+    "tokens": [
+      "、",
+      "いわゆる"
+    ],
+    "ai_count": 130,
+    "clean_count": 24,
+    "ai_per_1k": 0.0768,
+    "clean_per_1k": 0.0098,
+    "G2": 124.04,
+    "ratio": 7.81,
+    "rank": 293
+  },
+  {
+    "ngram": "。誰",
+    "tokens": [
+      "。",
+      "誰"
+    ],
+    "ai_count": 114,
+    "clean_count": 16,
+    "ai_per_1k": 0.0673,
+    "clean_per_1k": 0.0066,
+    "G2": 123.35,
+    "ratio": 10.27,
+    "rank": 294
+  },
+  {
+    "ngram": "の話",
+    "tokens": [
+      "の",
+      "話"
+    ],
+    "ai_count": 275,
+    "clean_count": 127,
+    "ai_per_1k": 0.1624,
+    "clean_per_1k": 0.0521,
+    "G2": 123.19,
+    "ratio": 3.12,
+    "rank": 295
+  },
+  {
+    "ngram": "`<",
+    "tokens": [
+      "`",
+      "<"
+    ],
+    "ai_count": 69,
+    "clean_count": 0,
+    "ai_per_1k": 0.0408,
+    "clean_per_1k": 0.0,
+    "G2": 123.15,
+    "ratio": null,
+    "rank": 296
+  },
+  {
+    "ngram": "ほしい。",
+    "tokens": [
+      "ほしい",
+      "。"
+    ],
+    "ai_count": 125,
+    "clean_count": 22,
+    "ai_per_1k": 0.0738,
+    "clean_per_1k": 0.009,
+    "G2": 122.18,
+    "ratio": 8.19,
+    "rank": 297
+  },
+  {
+    "ngram": "独特の",
+    "tokens": [
+      "独特",
+      "の"
+    ],
+    "ai_count": 111,
+    "clean_count": 15,
+    "ai_per_1k": 0.0656,
+    "clean_per_1k": 0.0061,
+    "G2": 121.94,
+    "ratio": 10.66,
+    "rank": 298
+  },
+  {
+    "ngram": "`docker",
+    "tokens": [
+      "`",
+      "docker"
+    ],
+    "ai_count": 68,
+    "clean_count": 0,
+    "ai_per_1k": 0.0402,
+    "clean_per_1k": 0.0,
+    "G2": 121.36,
+    "ratio": null,
+    "rank": 299
+  },
+  {
+    "ngram": "ておけ",
+    "tokens": [
+      "て",
+      "おけ"
+    ],
+    "ai_count": 155,
+    "clean_count": 40,
+    "ai_per_1k": 0.0915,
+    "clean_per_1k": 0.0164,
+    "G2": 120.91,
+    "ratio": 5.58,
+    "rank": 300
+  },
+  {
+    "ngram": "*「",
+    "tokens": [
+      "*",
+      "「"
+    ],
+    "ai_count": 73,
+    "clean_count": 1,
+    "ai_per_1k": 0.0431,
+    "clean_per_1k": 0.0004,
+    "G2": 120.75,
+    "ratio": 105.19,
+    "rank": 301
+  },
+  {
+    "ngram": "おけば",
+    "tokens": [
+      "おけ",
+      "ば"
+    ],
+    "ai_count": 157,
+    "clean_count": 42,
+    "ai_per_1k": 0.0927,
+    "clean_per_1k": 0.0172,
+    "G2": 119.37,
+    "ratio": 5.39,
+    "rank": 302
+  },
+  {
+    "ngram": "js\n",
+    "tokens": [
+      "js",
+      "\n"
+    ],
+    "ai_count": 72,
+    "clean_count": 1,
+    "ai_per_1k": 0.0425,
+    "clean_per_1k": 0.0004,
+    "G2": 118.99,
+    "ratio": 103.75,
+    "rank": 303
+  },
+  {
+    "ngram": "。同じ",
+    "tokens": [
+      "。",
+      "同じ"
+    ],
+    "ai_count": 117,
+    "clean_count": 19,
+    "ai_per_1k": 0.0691,
+    "clean_per_1k": 0.0078,
+    "G2": 118.84,
+    "ratio": 8.87,
+    "rank": 304
+  },
+  {
+    "ngram": "}/",
+    "tokens": [
+      "}",
+      "/"
+    ],
+    "ai_count": 111,
+    "clean_count": 16,
+    "ai_per_1k": 0.0656,
+    "clean_per_1k": 0.0066,
+    "G2": 118.79,
+    "ratio": 10.0,
+    "rank": 305
+  },
+  {
+    "ngram": "後から",
+    "tokens": [
+      "後",
+      "から"
+    ],
+    "ai_count": 133,
+    "clean_count": 28,
+    "ai_per_1k": 0.0786,
+    "clean_per_1k": 0.0115,
+    "G2": 118.11,
+    "ratio": 6.84,
+    "rank": 306
+  },
+  {
+    "ngram": "ときの",
+    "tokens": [
+      "とき",
+      "の"
+    ],
+    "ai_count": 209,
+    "clean_count": 79,
+    "ai_per_1k": 0.1234,
+    "clean_per_1k": 0.0324,
+    "G2": 117.9,
+    "ratio": 3.81,
+    "rank": 307
+  },
+  {
+    "ngram": "をそのまま",
+    "tokens": [
+      "を",
+      "そのまま"
+    ],
+    "ai_count": 168,
+    "clean_count": 50,
+    "ai_per_1k": 0.0992,
+    "clean_per_1k": 0.0205,
+    "G2": 117.76,
+    "ratio": 4.84,
+    "rank": 308
+  },
+  {
+    "ngram": "がそのまま",
+    "tokens": [
+      "が",
+      "そのまま"
+    ],
+    "ai_count": 104,
+    "clean_count": 13,
+    "ai_per_1k": 0.0614,
+    "clean_per_1k": 0.0053,
+    "G2": 117.69,
+    "ratio": 11.53,
+    "rank": 309
+  },
+  {
+    "ngram": "いう点",
+    "tokens": [
+      "いう",
+      "点"
+    ],
+    "ai_count": 160,
+    "clean_count": 45,
+    "ai_per_1k": 0.0945,
+    "clean_per_1k": 0.0184,
+    "G2": 117.22,
+    "ratio": 5.12,
+    "rank": 310
+  },
+  {
+    "ngram": "が見え",
+    "tokens": [
+      "が",
+      "見え"
+    ],
+    "ai_count": 143,
+    "clean_count": 35,
+    "ai_per_1k": 0.0845,
+    "clean_per_1k": 0.0143,
+    "G2": 115.65,
+    "ratio": 5.89,
+    "rank": 311
+  },
+  {
+    "ngram": "と感じ",
+    "tokens": [
+      "と",
+      "感じ"
+    ],
+    "ai_count": 211,
+    "clean_count": 82,
+    "ai_per_1k": 0.1246,
+    "clean_per_1k": 0.0336,
+    "G2": 115.63,
+    "ratio": 3.71,
+    "rank": 312
+  },
+  {
+    "ngram": "はずです",
+    "tokens": [
+      "はず",
+      "です"
+    ],
+    "ai_count": 151,
+    "clean_count": 40,
+    "ai_per_1k": 0.0892,
+    "clean_per_1k": 0.0164,
+    "G2": 115.63,
+    "ratio": 5.44,
+    "rank": 313
+  },
+  {
+    "ngram": "くれる。",
+    "tokens": [
+      "くれる",
+      "。"
+    ],
+    "ai_count": 131,
+    "clean_count": 28,
+    "ai_per_1k": 0.0774,
+    "clean_per_1k": 0.0115,
+    "G2": 115.31,
+    "ratio": 6.74,
+    "rank": 314
+  },
+  {
+    "ngram": "自分が",
+    "tokens": [
+      "自分",
+      "が"
+    ],
+    "ai_count": 256,
+    "clean_count": 118,
+    "ai_per_1k": 0.1512,
+    "clean_per_1k": 0.0484,
+    "G2": 114.96,
+    "ratio": 3.13,
+    "rank": 315
+  },
+  {
+    "ngram": "\n\nそこ",
+    "tokens": [
+      "\n\n",
+      "そこ"
+    ],
+    "ai_count": 125,
+    "clean_count": 25,
+    "ai_per_1k": 0.0738,
+    "clean_per_1k": 0.0102,
+    "G2": 114.28,
+    "ratio": 7.2,
+    "rank": 316
+  },
+  {
+    "ngram": "`sh",
+    "tokens": [
+      "`",
+      "sh"
+    ],
+    "ai_count": 64,
+    "clean_count": 0,
+    "ai_per_1k": 0.0378,
+    "clean_per_1k": 0.0,
+    "G2": 114.22,
+    "ratio": null,
+    "rank": 317
+  },
+  {
+    "ngram": "*`",
+    "tokens": [
+      "*",
+      "`"
+    ],
+    "ai_count": 64,
+    "clean_count": 0,
+    "ai_per_1k": 0.0378,
+    "clean_per_1k": 0.0,
+    "G2": 114.22,
+    "ratio": null,
+    "rank": 318
+  },
+  {
+    "ngram": "\n├",
+    "tokens": [
+      "\n",
+      "├"
+    ],
+    "ai_count": 64,
+    "clean_count": 0,
+    "ai_per_1k": 0.0378,
+    "clean_per_1k": 0.0,
+    "G2": 114.22,
+    "ratio": null,
+    "rank": 319
+  },
+  {
+    "ngram": "`js",
+    "tokens": [
+      "`",
+      "js"
+    ],
+    "ai_count": 64,
+    "clean_count": 0,
+    "ai_per_1k": 0.0378,
+    "clean_per_1k": 0.0,
+    "G2": 114.22,
+    "ratio": null,
+    "rank": 320
+  },
+  {
+    "ngram": "、なぜ",
+    "tokens": [
+      "、",
+      "なぜ"
+    ],
+    "ai_count": 135,
+    "clean_count": 31,
+    "ai_per_1k": 0.0797,
+    "clean_per_1k": 0.0127,
+    "G2": 113.77,
+    "ratio": 6.28,
+    "rank": 321
+  },
+  {
+    "ngram": "\nprint",
+    "tokens": [
+      "\n",
+      "print"
+    ],
+    "ai_count": 69,
+    "clean_count": 1,
+    "ai_per_1k": 0.0408,
+    "clean_per_1k": 0.0004,
+    "G2": 113.72,
+    "ratio": 99.42,
+    "rank": 322
+  },
+  {
+    "ngram": "並べて",
+    "tokens": [
+      "並べ",
+      "て"
+    ],
+    "ai_count": 105,
+    "clean_count": 15,
+    "ai_per_1k": 0.062,
+    "clean_per_1k": 0.0061,
+    "G2": 112.79,
+    "ratio": 10.09,
+    "rank": 323
+  },
+  {
+    "ngram": "ただ、",
+    "tokens": [
+      "ただ",
+      "、"
+    ],
+    "ai_count": 207,
+    "clean_count": 81,
+    "ai_per_1k": 0.1223,
+    "clean_per_1k": 0.0332,
+    "G2": 112.61,
+    "ratio": 3.68,
+    "rank": 324
+  },
+  {
+    "ngram": "\n    {",
+    "tokens": [
+      "\n    ",
+      "{"
+    ],
+    "ai_count": 63,
+    "clean_count": 0,
+    "ai_per_1k": 0.0372,
+    "clean_per_1k": 0.0,
+    "G2": 112.44,
+    "ratio": null,
+    "rank": 325
+  },
+  {
+    "ngram": "の空気",
+    "tokens": [
+      "の",
+      "空気"
+    ],
+    "ai_count": 84,
+    "clean_count": 6,
+    "ai_per_1k": 0.0496,
+    "clean_per_1k": 0.0025,
+    "G2": 112.16,
+    "ratio": 20.17,
+    "rank": 326
+  },
+  {
+    "ngram": "ものだ",
+    "tokens": [
+      "もの",
+      "だ"
+    ],
+    "ai_count": 156,
+    "clean_count": 45,
+    "ai_per_1k": 0.0921,
+    "clean_per_1k": 0.0184,
+    "G2": 112.09,
+    "ratio": 5.0,
+    "rank": 327
+  },
+  {
+    "ngram": "がちな",
+    "tokens": [
+      "がち",
+      "な"
+    ],
+    "ai_count": 108,
+    "clean_count": 17,
+    "ai_per_1k": 0.0638,
+    "clean_per_1k": 0.007,
+    "G2": 111.27,
+    "ratio": 9.15,
+    "rank": 328
+  },
+  {
+    "ngram": "`go",
+    "tokens": [
+      "`",
+      "go"
+    ],
+    "ai_count": 62,
+    "clean_count": 0,
+    "ai_per_1k": 0.0366,
+    "clean_per_1k": 0.0,
+    "G2": 110.66,
+    "ratio": null,
+    "rank": 329
+  },
+  {
+    "ngram": "。たとえば",
+    "tokens": [
+      "。",
+      "たとえば"
+    ],
+    "ai_count": 160,
+    "clean_count": 49,
+    "ai_per_1k": 0.0945,
+    "clean_per_1k": 0.0201,
+    "G2": 109.57,
+    "ratio": 4.71,
+    "rank": 330
+  },
+  {
+    "ngram": "派手な",
+    "tokens": [
+      "派手",
+      "な"
+    ],
+    "ai_count": 85,
+    "clean_count": 7,
+    "ai_per_1k": 0.0502,
+    "clean_per_1k": 0.0029,
+    "G2": 109.57,
+    "ratio": 17.5,
+    "rank": 331
+  },
+  {
+    "ngram": "側の",
+    "tokens": [
+      "側",
+      "の"
+    ],
+    "ai_count": 231,
+    "clean_count": 102,
+    "ai_per_1k": 0.1364,
+    "clean_per_1k": 0.0418,
+    "G2": 109.47,
+    "ratio": 3.26,
+    "rank": 332
+  },
+  {
+    "ngram": "たぶん、",
+    "tokens": [
+      "たぶん",
+      "、"
+    ],
+    "ai_count": 92,
+    "clean_count": 10,
+    "ai_per_1k": 0.0543,
+    "clean_per_1k": 0.0041,
+    "G2": 109.31,
+    "ratio": 13.26,
+    "rank": 333
+  },
+  {
+    "ngram": "/\n",
+    "tokens": [
+      "/",
+      "\n"
+    ],
+    "ai_count": 116,
+    "clean_count": 22,
+    "ai_per_1k": 0.0685,
+    "clean_per_1k": 0.009,
+    "G2": 109.14,
+    "ratio": 7.6,
+    "rank": 334
+  },
+  {
+    "ngram": "\n\nひと",
+    "tokens": [
+      "\n\n",
+      "ひと"
+    ],
+    "ai_count": 61,
+    "clean_count": 0,
+    "ai_per_1k": 0.036,
+    "clean_per_1k": 0.0,
+    "G2": 108.87,
+    "ratio": null,
+    "rank": 335
+  },
+  {
+    "ngram": "ts\n",
+    "tokens": [
+      "ts",
+      "\n"
+    ],
+    "ai_count": 61,
+    "clean_count": 0,
+    "ai_per_1k": 0.036,
+    "clean_per_1k": 0.0,
+    "G2": 108.87,
+    "ratio": null,
+    "rank": 336
+  },
+  {
+    "ngram": "ぐっと",
+    "tokens": [
+      "ぐっ",
+      "と"
+    ],
+    "ai_count": 70,
+    "clean_count": 2,
+    "ai_per_1k": 0.0413,
+    "clean_per_1k": 0.0008,
+    "G2": 108.76,
+    "ratio": 50.43,
+    "rank": 337
+  },
+  {
+    "ngram": "\n\n特に",
+    "tokens": [
+      "\n\n",
+      "特に"
+    ],
+    "ai_count": 98,
+    "clean_count": 13,
+    "ai_per_1k": 0.0579,
+    "clean_per_1k": 0.0053,
+    "G2": 108.44,
+    "ratio": 10.86,
+    "rank": 338
+  },
+  {
+    "ngram": "残って",
+    "tokens": [
+      "残っ",
+      "て"
+    ],
+    "ai_count": 172,
+    "clean_count": 58,
+    "ai_per_1k": 0.1016,
+    "clean_per_1k": 0.0238,
+    "G2": 108.35,
+    "ratio": 4.27,
+    "rank": 339
+  },
+  {
+    "ngram": "}\"",
+    "tokens": [
+      "}",
+      "\""
+    ],
+    "ai_count": 89,
+    "clean_count": 9,
+    "ai_per_1k": 0.0526,
+    "clean_per_1k": 0.0037,
+    "G2": 108.2,
+    "ratio": 14.25,
+    "rank": 340
+  },
+  {
+    "ngram": "みる。",
+    "tokens": [
+      "みる",
+      "。"
+    ],
+    "ai_count": 122,
+    "clean_count": 26,
+    "ai_per_1k": 0.0721,
+    "clean_per_1k": 0.0107,
+    "G2": 107.58,
+    "ratio": 6.76,
+    "rank": 341
+  },
+  {
+    "ngram": "で欠かせ",
+    "tokens": [
+      "で",
+      "欠かせ"
+    ],
+    "ai_count": 60,
+    "clean_count": 0,
+    "ai_per_1k": 0.0354,
+    "clean_per_1k": 0.0,
+    "G2": 107.09,
+    "ratio": null,
+    "rank": 342
+  },
+  {
+    "ngram": "sql\n",
+    "tokens": [
+      "sql",
+      "\n"
+    ],
+    "ai_count": 60,
+    "clean_count": 0,
+    "ai_per_1k": 0.0354,
+    "clean_per_1k": 0.0,
+    "G2": 107.09,
+    "ratio": null,
+    "rank": 343
+  },
+  {
+    "ngram": "で完結",
+    "tokens": [
+      "で",
+      "完結"
+    ],
+    "ai_count": 88,
+    "clean_count": 9,
+    "ai_per_1k": 0.052,
+    "clean_per_1k": 0.0037,
+    "G2": 106.61,
+    "ratio": 14.09,
+    "rank": 344
+  },
+  {
+    "ngram": "。ただ",
+    "tokens": [
+      "。",
+      "ただ"
+    ],
+    "ai_count": 167,
+    "clean_count": 56,
+    "ai_per_1k": 0.0986,
+    "clean_per_1k": 0.023,
+    "G2": 105.74,
+    "ratio": 4.3,
+    "rank": 345
+  },
+  {
+    "ngram": "知られ",
+    "tokens": [
+      "知ら",
+      "れ"
+    ],
+    "ai_count": 216,
+    "clean_count": 93,
+    "ai_per_1k": 0.1276,
+    "clean_per_1k": 0.0381,
+    "G2": 105.53,
+    "ratio": 3.35,
+    "rank": 346
+  },
+  {
+    "ngram": "\nkind",
+    "tokens": [
+      "\n",
+      "kind"
+    ],
+    "ai_count": 59,
+    "clean_count": 0,
+    "ai_per_1k": 0.0348,
+    "clean_per_1k": 0.0,
+    "G2": 105.3,
+    "ratio": null,
+    "rank": 347
+  },
+  {
+    "ngram": "\n  name",
+    "tokens": [
+      "\n  ",
+      "name"
+    ],
+    "ai_count": 59,
+    "clean_count": 0,
+    "ai_per_1k": 0.0348,
+    "clean_per_1k": 0.0,
+    "G2": 105.3,
+    "ratio": null,
+    "rank": 348
+  },
+  {
+    "ngram": ",\n            ",
+    "tokens": [
+      ",",
+      "\n            "
+    ],
+    "ai_count": 59,
+    "clean_count": 0,
+    "ai_per_1k": 0.0348,
+    "clean_per_1k": 0.0,
+    "G2": 105.3,
+    "ratio": null,
+    "rank": 349
+  },
+  {
+    "ngram": "これから",
+    "tokens": [
+      "これ",
+      "から"
+    ],
+    "ai_count": 217,
+    "clean_count": 94,
+    "ai_per_1k": 0.1282,
+    "clean_per_1k": 0.0385,
+    "G2": 105.25,
+    "ratio": 3.33,
+    "rank": 350
+  },
+  {
+    "ngram": "yaml`",
+    "tokens": [
+      "yaml",
+      "`"
+    ],
+    "ai_count": 64,
+    "clean_count": 1,
+    "ai_per_1k": 0.0378,
+    "clean_per_1k": 0.0004,
+    "G2": 104.95,
+    "ratio": 92.22,
+    "rank": 351
+  },
+  {
+    "ngram": "。逆",
+    "tokens": [
+      "。",
+      "逆"
+    ],
+    "ai_count": 101,
+    "clean_count": 16,
+    "ai_per_1k": 0.0597,
+    "clean_per_1k": 0.0066,
+    "G2": 103.76,
+    "ratio": 9.1,
+    "rank": 352
+  },
+  {
+    "ngram": "\napiVersion",
+    "tokens": [
+      "\n",
+      "apiVersion"
+    ],
+    "ai_count": 58,
+    "clean_count": 0,
+    "ai_per_1k": 0.0343,
+    "clean_per_1k": 0.0,
+    "G2": 103.52,
+    "ratio": null,
+    "rank": 353
+  },
+  {
+    "ngram": "`sql",
+    "tokens": [
+      "`",
+      "sql"
+    ],
+    "ai_count": 58,
+    "clean_count": 0,
+    "ai_per_1k": 0.0343,
+    "clean_per_1k": 0.0,
+    "G2": 103.52,
+    "ratio": null,
+    "rank": 354
+  },
+  {
+    "ngram": "何が",
+    "tokens": [
+      "何",
+      "が"
+    ],
+    "ai_count": 210,
+    "clean_count": 90,
+    "ai_per_1k": 0.124,
+    "clean_per_1k": 0.0369,
+    "G2": 103.16,
+    "ratio": 3.36,
+    "rank": 355
+  },
+  {
+    "ngram": "、いくつ",
+    "tokens": [
+      "、",
+      "いくつ"
+    ],
+    "ai_count": 132,
+    "clean_count": 34,
+    "ai_per_1k": 0.078,
+    "clean_per_1k": 0.0139,
+    "G2": 103.1,
+    "ratio": 5.59,
+    "rank": 356
+  },
+  {
+    "ngram": "、あの",
+    "tokens": [
+      "、",
+      "あの"
+    ],
+    "ai_count": 127,
+    "clean_count": 31,
+    "ai_per_1k": 0.075,
+    "clean_per_1k": 0.0127,
+    "G2": 102.89,
+    "ratio": 5.9,
+    "rank": 357
+  },
+  {
+    "ngram": "もまた",
+    "tokens": [
+      "も",
+      "また"
+    ],
+    "ai_count": 125,
+    "clean_count": 30,
+    "ai_per_1k": 0.0738,
+    "clean_per_1k": 0.0123,
+    "G2": 102.41,
+    "ratio": 6.0,
+    "rank": 358
+  },
+  {
+    "ngram": "くれます",
+    "tokens": [
+      "くれ",
+      "ます"
+    ],
+    "ai_count": 128,
+    "clean_count": 32,
+    "ai_per_1k": 0.0756,
+    "clean_per_1k": 0.0131,
+    "G2": 102.05,
+    "ratio": 5.76,
+    "rank": 359
+  },
+  {
+    "ngram": "だけだ",
+    "tokens": [
+      "だけ",
+      "だ"
+    ],
+    "ai_count": 118,
+    "clean_count": 26,
+    "ai_per_1k": 0.0697,
+    "clean_per_1k": 0.0107,
+    "G2": 102.01,
+    "ratio": 6.54,
+    "rank": 360
+  },
+  {
+    "ngram": "たとえば ",
+    "tokens": [
+      "たとえば",
+      " "
+    ],
+    "ai_count": 57,
+    "clean_count": 0,
+    "ai_per_1k": 0.0337,
+    "clean_per_1k": 0.0,
+    "G2": 101.73,
+    "ratio": null,
+    "rank": 361
+  },
+  {
+    "ngram": "\\\n    ",
+    "tokens": [
+      "\\",
+      "\n    "
+    ],
+    "ai_count": 57,
+    "clean_count": 0,
+    "ai_per_1k": 0.0337,
+    "clean_per_1k": 0.0,
+    "G2": 101.73,
+    "ratio": null,
+    "rank": 362
+  },
+  {
+    "ngram": "`）",
+    "tokens": [
+      "`",
+      "）"
+    ],
+    "ai_count": 57,
+    "clean_count": 0,
+    "ai_per_1k": 0.0337,
+    "clean_per_1k": 0.0,
+    "G2": 101.73,
+    "ratio": null,
+    "rank": 363
+  },
+  {
+    "ngram": "（`",
+    "tokens": [
+      "（",
+      "`"
+    ],
+    "ai_count": 57,
+    "clean_count": 0,
+    "ai_per_1k": 0.0337,
+    "clean_per_1k": 0.0,
+    "G2": 101.73,
+    "ratio": null,
+    "rank": 364
+  },
+  {
+    "ngram": "\n        return",
+    "tokens": [
+      "\n        ",
+      "return"
+    ],
+    "ai_count": 57,
+    "clean_count": 0,
+    "ai_per_1k": 0.0337,
+    "clean_per_1k": 0.0,
+    "G2": 101.73,
+    "ratio": null,
+    "rank": 365
+  },
+  {
+    "ngram": ";\n      ",
+    "tokens": [
+      ";",
+      "\n      "
+    ],
+    "ai_count": 62,
+    "clean_count": 1,
+    "ai_per_1k": 0.0366,
+    "clean_per_1k": 0.0004,
+    "G2": 101.44,
+    "ratio": 89.34,
+    "rank": 366
+  },
+  {
+    "ngram": "いう流れ",
+    "tokens": [
+      "いう",
+      "流れ"
+    ],
+    "ai_count": 69,
+    "clean_count": 3,
+    "ai_per_1k": 0.0408,
+    "clean_per_1k": 0.0012,
+    "G2": 101.37,
+    "ratio": 33.14,
+    "rank": 367
+  },
+  {
+    "ngram": "、それぞれ",
+    "tokens": [
+      "、",
+      "それぞれ"
+    ],
+    "ai_count": 207,
+    "clean_count": 89,
+    "ai_per_1k": 0.1223,
+    "clean_per_1k": 0.0365,
+    "G2": 101.3,
+    "ratio": 3.35,
+    "rank": 368
+  },
+  {
+    "ngram": "で動く",
+    "tokens": [
+      "で",
+      "動く"
+    ],
+    "ai_count": 77,
+    "clean_count": 6,
+    "ai_per_1k": 0.0455,
+    "clean_per_1k": 0.0025,
+    "G2": 100.67,
+    "ratio": 18.49,
+    "rank": 369
+  },
+  {
+    "ngram": "眺めて",
+    "tokens": [
+      "眺め",
+      "て"
+    ],
+    "ai_count": 108,
+    "clean_count": 21,
+    "ai_per_1k": 0.0638,
+    "clean_per_1k": 0.0086,
+    "G2": 100.27,
+    "ratio": 7.41,
+    "rank": 370
+  },
+  {
+    "ngram": "状態を",
+    "tokens": [
+      "状態",
+      "を"
+    ],
+    "ai_count": 151,
+    "clean_count": 48,
+    "ai_per_1k": 0.0892,
+    "clean_per_1k": 0.0197,
+    "G2": 100.22,
+    "ratio": 4.53,
+    "rank": 371
+  },
+  {
+    "ngram": "\n\n彼",
+    "tokens": [
+      "\n\n",
+      "彼"
+    ],
+    "ai_count": 65,
+    "clean_count": 2,
+    "ai_per_1k": 0.0384,
+    "clean_per_1k": 0.0008,
+    "G2": 100.13,
+    "ratio": 46.83,
+    "rank": 372
+  },
+  {
+    "ngram": "spec:",
+    "tokens": [
+      "spec",
+      ":"
+    ],
+    "ai_count": 74,
+    "clean_count": 5,
+    "ai_per_1k": 0.0437,
+    "clean_per_1k": 0.002,
+    "G2": 100.07,
+    "ratio": 21.33,
+    "rank": 373
+  },
+  {
+    "ngram": "の`",
+    "tokens": [
+      "の",
+      "`"
+    ],
+    "ai_count": 56,
+    "clean_count": 0,
+    "ai_per_1k": 0.0331,
+    "clean_per_1k": 0.0,
+    "G2": 99.95,
+    "ratio": null,
+    "rank": 374
+  },
+  {
+    "ngram": "\n    const",
+    "tokens": [
+      "\n    ",
+      "const"
+    ],
+    "ai_count": 56,
+    "clean_count": 0,
+    "ai_per_1k": 0.0331,
+    "clean_per_1k": 0.0,
+    "G2": 99.95,
+    "ratio": null,
+    "rank": 375
+  },
+  {
+    "ngram": "]\n    ",
+    "tokens": [
+      "]",
+      "\n    "
+    ],
+    "ai_count": 56,
+    "clean_count": 0,
+    "ai_per_1k": 0.0331,
+    "clean_per_1k": 0.0,
+    "G2": 99.95,
+    "ratio": null,
+    "rank": 376
+  },
+  {
+    "ngram": "彼が",
+    "tokens": [
+      "彼",
+      "が"
+    ],
+    "ai_count": 138,
+    "clean_count": 40,
+    "ai_per_1k": 0.0815,
+    "clean_per_1k": 0.0164,
+    "G2": 98.78,
+    "ratio": 4.97,
+    "rank": 377
+  },
+  {
+    "ngram": "を整理",
+    "tokens": [
+      "を",
+      "整理"
+    ],
+    "ai_count": 176,
+    "clean_count": 67,
+    "ai_per_1k": 0.1039,
+    "clean_per_1k": 0.0275,
+    "G2": 98.56,
+    "ratio": 3.79,
+    "rank": 378
+  },
+  {
+    "ngram": "どこか",
+    "tokens": [
+      "どこ",
+      "か"
+    ],
+    "ai_count": 158,
+    "clean_count": 54,
+    "ai_per_1k": 0.0933,
+    "clean_per_1k": 0.0221,
+    "G2": 98.32,
+    "ratio": 4.22,
+    "rank": 379
+  },
+  {
+    "ngram": "これだけ",
+    "tokens": [
+      "これ",
+      "だけ"
+    ],
+    "ai_count": 136,
+    "clean_count": 39,
+    "ai_per_1k": 0.0803,
+    "clean_per_1k": 0.016,
+    "G2": 98.17,
+    "ratio": 5.02,
+    "rank": 380
+  },
+  {
+    "ngram": "\nspec",
+    "tokens": [
+      "\n",
+      "spec"
+    ],
+    "ai_count": 55,
+    "clean_count": 0,
+    "ai_per_1k": 0.0325,
+    "clean_per_1k": 0.0,
+    "G2": 98.16,
+    "ratio": null,
+    "rank": 381
+  },
+  {
+    "ngram": "た時代",
+    "tokens": [
+      "た",
+      "時代"
+    ],
+    "ai_count": 87,
+    "clean_count": 11,
+    "ai_per_1k": 0.0514,
+    "clean_per_1k": 0.0045,
+    "G2": 98.04,
+    "ratio": 11.4,
+    "rank": 382
+  },
+  {
+    "ngram": "、複数",
+    "tokens": [
+      "、",
+      "複数"
+    ],
+    "ai_count": 146,
+    "clean_count": 46,
+    "ai_per_1k": 0.0862,
+    "clean_per_1k": 0.0189,
+    "G2": 97.64,
+    "ratio": 4.57,
+    "rank": 383
+  },
+  {
+    "ngram": "もうひと",
+    "tokens": [
+      "もう",
+      "ひと"
+    ],
+    "ai_count": 80,
+    "clean_count": 8,
+    "ai_per_1k": 0.0472,
+    "clean_per_1k": 0.0033,
+    "G2": 97.6,
+    "ratio": 14.41,
+    "rank": 384
+  },
+  {
+    "ngram": "役割を",
+    "tokens": [
+      "役割",
+      "を"
+    ],
+    "ai_count": 157,
+    "clean_count": 54,
+    "ai_per_1k": 0.0927,
+    "clean_per_1k": 0.0221,
+    "G2": 97.12,
+    "ratio": 4.19,
+    "rank": 385
+  },
+  {
+    "ngram": "。本",
+    "tokens": [
+      "。",
+      "本"
+    ],
+    "ai_count": 94,
+    "clean_count": 15,
+    "ai_per_1k": 0.0555,
+    "clean_per_1k": 0.0061,
+    "G2": 96.25,
+    "ratio": 9.03,
+    "rank": 386
+  },
+  {
+    "ngram": "たい、",
+    "tokens": [
+      "たい",
+      "、"
+    ],
+    "ai_count": 94,
+    "clean_count": 15,
+    "ai_per_1k": 0.0555,
+    "clean_per_1k": 0.0061,
+    "G2": 96.25,
+    "ratio": 9.03,
+    "rank": 387
+  },
+  {
+    "ngram": "\n  return",
+    "tokens": [
+      "\n  ",
+      "return"
+    ],
+    "ai_count": 59,
+    "clean_count": 1,
+    "ai_per_1k": 0.0348,
+    "clean_per_1k": 0.0004,
+    "G2": 96.18,
+    "ratio": 85.01,
+    "rank": 388
+  },
+  {
+    "ngram": "の上",
+    "tokens": [
+      "の",
+      "上"
+    ],
+    "ai_count": 203,
+    "clean_count": 90,
+    "ai_per_1k": 0.1199,
+    "clean_per_1k": 0.0369,
+    "G2": 95.73,
+    "ratio": 3.25,
+    "rank": 389
+  },
+  {
+    "ngram": "てほしい",
+    "tokens": [
+      "て",
+      "ほしい"
+    ],
+    "ai_count": 185,
+    "clean_count": 76,
+    "ai_per_1k": 0.1093,
+    "clean_per_1k": 0.0312,
+    "G2": 95.42,
+    "ratio": 3.51,
+    "rank": 390
+  },
+  {
+    "ngram": "がおすすめ",
+    "tokens": [
+      "が",
+      "おすすめ"
+    ],
+    "ai_count": 97,
+    "clean_count": 17,
+    "ai_per_1k": 0.0573,
+    "clean_per_1k": 0.007,
+    "G2": 95.01,
+    "ratio": 8.22,
+    "rank": 391
+  },
+  {
+    "ngram": "きます",
+    "tokens": [
+      "き",
+      "ます"
+    ],
+    "ai_count": 182,
+    "clean_count": 74,
+    "ai_per_1k": 0.1075,
+    "clean_per_1k": 0.0303,
+    "G2": 94.96,
+    "ratio": 3.54,
+    "rank": 392
+  },
+  {
+    "ngram": "。*",
+    "tokens": [
+      "。",
+      "*"
+    ],
+    "ai_count": 62,
+    "clean_count": 2,
+    "ai_per_1k": 0.0366,
+    "clean_per_1k": 0.0008,
+    "G2": 94.96,
+    "ratio": 44.67,
+    "rank": 393
+  },
+  {
+    "ngram": "yml`",
+    "tokens": [
+      "yml",
+      "`"
+    ],
+    "ai_count": 53,
+    "clean_count": 0,
+    "ai_per_1k": 0.0313,
+    "clean_per_1k": 0.0,
+    "G2": 94.59,
+    "ratio": null,
+    "rank": 394
+  },
+  {
+    "ngram": "las.",
+    "tokens": [
+      "las",
+      "."
+    ],
+    "ai_count": 53,
+    "clean_count": 0,
+    "ai_per_1k": 0.0313,
+    "clean_per_1k": 0.0,
+    "G2": 94.59,
+    "ratio": null,
+    "rank": 395
+  },
+  {
+    "ngram": ";\n\n    ",
+    "tokens": [
+      ";",
+      "\n\n    "
+    ],
+    "ai_count": 53,
+    "clean_count": 0,
+    "ai_per_1k": 0.0313,
+    "clean_per_1k": 0.0,
+    "G2": 94.59,
+    "ratio": null,
+    "rank": 396
+  },
+  {
+    "ngram": "'`",
+    "tokens": [
+      "'",
+      "`"
+    ],
+    "ai_count": 58,
+    "clean_count": 1,
+    "ai_per_1k": 0.0343,
+    "clean_per_1k": 0.0004,
+    "G2": 94.43,
+    "ratio": 83.57,
+    "rank": 397
+  },
+  {
+    "ngram": "、同じ",
+    "tokens": [
+      "、",
+      "同じ"
+    ],
+    "ai_count": 164,
+    "clean_count": 61,
+    "ai_per_1k": 0.0969,
+    "clean_per_1k": 0.025,
+    "G2": 94.04,
+    "ratio": 3.87,
+    "rank": 398
+  },
+  {
+    "ngram": "運用し",
+    "tokens": [
+      "運用",
+      "し"
+    ],
+    "ai_count": 117,
+    "clean_count": 29,
+    "ai_per_1k": 0.0691,
+    "clean_per_1k": 0.0119,
+    "G2": 93.83,
+    "ratio": 5.81,
+    "rank": 399
+  },
+  {
+    "ngram": "た点",
+    "tokens": [
+      "た",
+      "点"
+    ],
+    "ai_count": 112,
+    "clean_count": 26,
+    "ai_per_1k": 0.0661,
+    "clean_per_1k": 0.0107,
+    "G2": 93.74,
+    "ratio": 6.21,
+    "rank": 400
+  },
+  {
+    "ngram": "感覚が",
+    "tokens": [
+      "感覚",
+      "が"
+    ],
+    "ai_count": 77,
+    "clean_count": 8,
+    "ai_per_1k": 0.0455,
+    "clean_per_1k": 0.0033,
+    "G2": 92.83,
+    "ratio": 13.87,
+    "rank": 401
+  },
+  {
+    "ngram": "からこそ",
+    "tokens": [
+      "から",
+      "こそ"
+    ],
+    "ai_count": 149,
+    "clean_count": 51,
+    "ai_per_1k": 0.088,
+    "clean_per_1k": 0.0209,
+    "G2": 92.59,
+    "ratio": 4.21,
+    "rank": 402
+  },
+  {
+    "ngram": "少しだけ",
+    "tokens": [
+      "少し",
+      "だけ"
+    ],
+    "ai_count": 111,
+    "clean_count": 26,
+    "ai_per_1k": 0.0656,
+    "clean_per_1k": 0.0107,
+    "G2": 92.38,
+    "ratio": 6.15,
+    "rank": 403
+  },
+  {
+    "ngram": "\n\n私",
+    "tokens": [
+      "\n\n",
+      "私"
+    ],
+    "ai_count": 140,
+    "clean_count": 45,
+    "ai_per_1k": 0.0827,
+    "clean_per_1k": 0.0184,
+    "G2": 92.03,
+    "ratio": 4.48,
+    "rank": 404
+  },
+  {
+    "ngram": "られます",
+    "tokens": [
+      "られ",
+      "ます"
+    ],
+    "ai_count": 183,
+    "clean_count": 77,
+    "ai_per_1k": 0.1081,
+    "clean_per_1k": 0.0316,
+    "G2": 91.85,
+    "ratio": 3.42,
+    "rank": 405
+  },
+  {
+    "ngram": "静かに",
+    "tokens": [
+      "静か",
+      "に"
+    ],
+    "ai_count": 102,
+    "clean_count": 21,
+    "ai_per_1k": 0.0602,
+    "clean_per_1k": 0.0086,
+    "G2": 91.75,
+    "ratio": 7.0,
+    "rank": 406
+  },
+  {
+    "ngram": "`[",
+    "tokens": [
+      "`",
+      "["
+    ],
+    "ai_count": 60,
+    "clean_count": 2,
+    "ai_per_1k": 0.0354,
+    "clean_per_1k": 0.0008,
+    "G2": 91.52,
+    "ratio": 43.23,
+    "rank": 407
+  },
+  {
+    "ngram": "語られる",
+    "tokens": [
+      "語ら",
+      "れる"
+    ],
+    "ai_count": 60,
+    "clean_count": 2,
+    "ai_per_1k": 0.0354,
+    "clean_per_1k": 0.0008,
+    "G2": 91.52,
+    "ratio": 43.23,
+    "rank": 408
+  },
+  {
+    "ngram": "];",
+    "tokens": [
+      "]",
+      ";"
+    ],
+    "ai_count": 60,
+    "clean_count": 2,
+    "ai_per_1k": 0.0354,
+    "clean_per_1k": 0.0008,
+    "G2": 91.52,
+    "ratio": 43.23,
+    "rank": 409
+  },
+  {
+    "ngram": "のあいだ",
+    "tokens": [
+      "の",
+      "あいだ"
+    ],
+    "ai_count": 66,
+    "clean_count": 4,
+    "ai_per_1k": 0.039,
+    "clean_per_1k": 0.0016,
+    "G2": 91.35,
+    "ratio": 23.78,
+    "rank": 410
+  },
+  {
+    "ngram": ">\n        ",
+    "tokens": [
+      ">",
+      "\n        "
+    ],
+    "ai_count": 51,
+    "clean_count": 0,
+    "ai_per_1k": 0.0301,
+    "clean_per_1k": 0.0,
+    "G2": 91.02,
+    "ratio": null,
+    "rank": 411
+  },
+  {
+    "ngram": "流れの",
+    "tokens": [
+      "流れ",
+      "の"
+    ],
+    "ai_count": 71,
+    "clean_count": 6,
+    "ai_per_1k": 0.0419,
+    "clean_per_1k": 0.0025,
+    "G2": 90.9,
+    "ratio": 17.05,
+    "rank": 412
+  },
+  {
+    "ngram": "位置づけ",
+    "tokens": [
+      "位置",
+      "づけ"
+    ],
+    "ai_count": 78,
+    "clean_count": 9,
+    "ai_per_1k": 0.0461,
+    "clean_per_1k": 0.0037,
+    "G2": 90.83,
+    "ratio": 12.49,
+    "rank": 413
+  },
+  {
+    "ngram": "のとおり",
+    "tokens": [
+      "の",
+      "とおり"
+    ],
+    "ai_count": 94,
+    "clean_count": 17,
+    "ai_per_1k": 0.0555,
+    "clean_per_1k": 0.007,
+    "G2": 90.64,
+    "ratio": 7.97,
+    "rank": 414
+  },
+  {
+    "ngram": "PR ",
+    "tokens": [
+      "PR",
+      " "
+    ],
+    "ai_count": 73,
+    "clean_count": 7,
+    "ai_per_1k": 0.0431,
+    "clean_per_1k": 0.0029,
+    "G2": 90.19,
+    "ratio": 15.03,
+    "rank": 415
+  },
+  {
+    "ngram": "おすすめです",
+    "tokens": [
+      "おすすめ",
+      "です"
+    ],
+    "ai_count": 106,
+    "clean_count": 24,
+    "ai_per_1k": 0.0626,
+    "clean_per_1k": 0.0098,
+    "G2": 90.12,
+    "ratio": 6.36,
+    "rank": 416
+  },
+  {
+    "ngram": "意外と",
+    "tokens": [
+      "意外",
+      "と"
+    ],
+    "ai_count": 99,
+    "clean_count": 20,
+    "ai_per_1k": 0.0585,
+    "clean_per_1k": 0.0082,
+    "G2": 90.01,
+    "ratio": 7.13,
+    "rank": 417
+  },
+  {
+    "ngram": " ステップ",
+    "tokens": [
+      " ",
+      "ステップ"
+    ],
+    "ai_count": 125,
+    "clean_count": 36,
+    "ai_per_1k": 0.0738,
+    "clean_per_1k": 0.0148,
+    "G2": 89.92,
+    "ratio": 5.0,
+    "rank": 418
+  },
+  {
+    "ngram": "する*",
+    "tokens": [
+      "する",
+      "*"
+    ],
+    "ai_count": 59,
+    "clean_count": 2,
+    "ai_per_1k": 0.0348,
+    "clean_per_1k": 0.0008,
+    "G2": 89.8,
+    "ratio": 42.51,
+    "rank": 419
+  },
+  {
+    "ngram": "、本番",
+    "tokens": [
+      "、",
+      "本番"
+    ],
+    "ai_count": 65,
+    "clean_count": 4,
+    "ai_per_1k": 0.0384,
+    "clean_per_1k": 0.0016,
+    "G2": 89.68,
+    "ratio": 23.42,
+    "rank": 420
+  },
+  {
+    "ngram": "、しかも",
+    "tokens": [
+      "、",
+      "しかも"
+    ],
+    "ai_count": 75,
+    "clean_count": 8,
+    "ai_per_1k": 0.0443,
+    "clean_per_1k": 0.0033,
+    "G2": 89.66,
+    "ratio": 13.51,
+    "rank": 421
+  },
+  {
+    "ngram": "からだ",
+    "tokens": [
+      "から",
+      "だ"
+    ],
+    "ai_count": 129,
+    "clean_count": 39,
+    "ai_per_1k": 0.0762,
+    "clean_per_1k": 0.016,
+    "G2": 89.28,
+    "ratio": 4.77,
+    "rank": 422
+  },
+  {
+    "ngram": "[\n    ",
+    "tokens": [
+      "[",
+      "\n    "
+    ],
+    "ai_count": 50,
+    "clean_count": 0,
+    "ai_per_1k": 0.0295,
+    "clean_per_1k": 0.0,
+    "G2": 89.24,
+    "ratio": null,
+    "rank": 423
+  },
+  {
+    "ngram": "ばいい",
+    "tokens": [
+      "ば",
+      "いい"
+    ],
+    "ai_count": 161,
+    "clean_count": 62,
+    "ai_per_1k": 0.0951,
+    "clean_per_1k": 0.0254,
+    "G2": 89.08,
+    "ratio": 3.74,
+    "rank": 424
+  },
+  {
+    "ngram": "点です",
+    "tokens": [
+      "点",
+      "です"
+    ],
+    "ai_count": 91,
+    "clean_count": 16,
+    "ai_per_1k": 0.0537,
+    "clean_per_1k": 0.0066,
+    "G2": 88.99,
+    "ratio": 8.2,
+    "rank": 425
+  },
+  {
+    "ngram": "、ブラウザ",
+    "tokens": [
+      "、",
+      "ブラウザ"
+    ],
+    "ai_count": 79,
+    "clean_count": 10,
+    "ai_per_1k": 0.0467,
+    "clean_per_1k": 0.0041,
+    "G2": 88.98,
+    "ratio": 11.38,
+    "rank": 426
+  },
+  {
+    "ngram": "のキャリア",
+    "tokens": [
+      "の",
+      "キャリア"
+    ],
+    "ai_count": 89,
+    "clean_count": 15,
+    "ai_per_1k": 0.0526,
+    "clean_per_1k": 0.0061,
+    "G2": 88.84,
+    "ratio": 8.55,
+    "rank": 427
+  },
+  {
+    "ngram": "一本",
+    "tokens": [
+      "一",
+      "本"
+    ],
+    "ai_count": 81,
+    "clean_count": 11,
+    "ai_per_1k": 0.0478,
+    "clean_per_1k": 0.0045,
+    "G2": 88.81,
+    "ratio": 10.61,
+    "rank": 428
+  },
+  {
+    "ngram": "、画面",
+    "tokens": [
+      "、",
+      "画面"
+    ],
+    "ai_count": 113,
+    "clean_count": 29,
+    "ai_per_1k": 0.0667,
+    "clean_per_1k": 0.0119,
+    "G2": 88.49,
+    "ratio": 5.61,
+    "rank": 429
+  },
+  {
+    "ngram": "。あの",
+    "tokens": [
+      "。",
+      "あの"
+    ],
+    "ai_count": 96,
+    "clean_count": 19,
+    "ai_per_1k": 0.0567,
+    "clean_per_1k": 0.0078,
+    "G2": 88.28,
+    "ratio": 7.28,
+    "rank": 430
+  },
+  {
+    "ngram": "なかに",
+    "tokens": [
+      "なか",
+      "に"
+    ],
+    "ai_count": 74,
+    "clean_count": 8,
+    "ai_per_1k": 0.0437,
+    "clean_per_1k": 0.0033,
+    "G2": 88.08,
+    "ratio": 13.33,
+    "rank": 431
+  },
+  {
+    "ngram": "の流れ",
+    "tokens": [
+      "の",
+      "流れ"
+    ],
+    "ai_count": 182,
+    "clean_count": 79,
+    "ai_per_1k": 0.1075,
+    "clean_per_1k": 0.0324,
+    "G2": 88.06,
+    "ratio": 3.32,
+    "rank": 432
+  },
+  {
+    "ngram": "て\n\n",
+    "tokens": [
+      "て",
+      "\n\n"
+    ],
+    "ai_count": 125,
+    "clean_count": 37,
+    "ai_per_1k": 0.0738,
+    "clean_per_1k": 0.0152,
+    "G2": 88.0,
+    "ratio": 4.87,
+    "rank": 433
+  },
+  {
+    "ngram": "、ある",
+    "tokens": [
+      "、",
+      "ある"
+    ],
+    "ai_count": 194,
+    "clean_count": 89,
+    "ai_per_1k": 0.1146,
+    "clean_per_1k": 0.0365,
+    "G2": 87.65,
+    "ratio": 3.14,
+    "rank": 434
+  },
+  {
+    "ngram": "の自分",
+    "tokens": [
+      "の",
+      "自分"
+    ],
+    "ai_count": 117,
+    "clean_count": 32,
+    "ai_per_1k": 0.0691,
+    "clean_per_1k": 0.0131,
+    "G2": 87.53,
+    "ratio": 5.27,
+    "rank": 435
+  },
+  {
+    "ngram": "\nsudo",
+    "tokens": [
+      "\n",
+      "sudo"
+    ],
+    "ai_count": 49,
+    "clean_count": 0,
+    "ai_per_1k": 0.0289,
+    "clean_per_1k": 0.0,
+    "G2": 87.45,
+    "ratio": null,
+    "rank": 436
+  },
+  {
+    "ngram": "\nmetadata",
+    "tokens": [
+      "\n",
+      "metadata"
+    ],
+    "ai_count": 49,
+    "clean_count": 0,
+    "ai_per_1k": 0.0289,
+    "clean_per_1k": 0.0,
+    "G2": 87.45,
+    "ratio": null,
+    "rank": 437
+  },
+  {
+    "ngram": "画面の",
+    "tokens": [
+      "画面",
+      "の"
+    ],
+    "ai_count": 126,
+    "clean_count": 38,
+    "ai_per_1k": 0.0744,
+    "clean_per_1k": 0.0156,
+    "G2": 87.38,
+    "ratio": 4.78,
+    "rank": 438
+  },
+  {
+    "ngram": "、ひと",
+    "tokens": [
+      "、",
+      "ひと"
+    ],
+    "ai_count": 88,
+    "clean_count": 15,
+    "ai_per_1k": 0.052,
+    "clean_per_1k": 0.0061,
+    "G2": 87.37,
+    "ratio": 8.45,
+    "rank": 439
+  },
+  {
+    "ngram": "\n\nただし",
+    "tokens": [
+      "\n\n",
+      "ただし"
+    ],
+    "ai_count": 80,
+    "clean_count": 11,
+    "ai_per_1k": 0.0472,
+    "clean_per_1k": 0.0045,
+    "G2": 87.28,
+    "ratio": 10.48,
+    "rank": 440
+  },
+  {
+    "ngram": "にわたっ",
+    "tokens": [
+      "に",
+      "わたっ"
+    ],
+    "ai_count": 97,
+    "clean_count": 20,
+    "ai_per_1k": 0.0573,
+    "clean_per_1k": 0.0082,
+    "G2": 87.18,
+    "ratio": 6.99,
+    "rank": 441
+  },
+  {
+    "ngram": "\n\nポイント",
+    "tokens": [
+      "\n\n",
+      "ポイント"
+    ],
+    "ai_count": 71,
+    "clean_count": 7,
+    "ai_per_1k": 0.0419,
+    "clean_per_1k": 0.0029,
+    "G2": 86.99,
+    "ratio": 14.62,
+    "rank": 442
+  },
+  {
+    "ngram": "シンプルな",
+    "tokens": [
+      "シンプル",
+      "な"
+    ],
+    "ai_count": 155,
+    "clean_count": 59,
+    "ai_per_1k": 0.0915,
+    "clean_per_1k": 0.0242,
+    "G2": 86.81,
+    "ratio": 3.79,
+    "rank": 443
+  },
+  {
+    "ngram": "、まさに",
+    "tokens": [
+      "、",
+      "まさに"
+    ],
+    "ai_count": 63,
+    "clean_count": 4,
+    "ai_per_1k": 0.0372,
+    "clean_per_1k": 0.0016,
+    "G2": 86.35,
+    "ratio": 22.69,
+    "rank": 444
+  },
+  {
+    "ngram": "は単なる",
+    "tokens": [
+      "は",
+      "単なる"
+    ],
+    "ai_count": 63,
+    "clean_count": 4,
+    "ai_per_1k": 0.0372,
+    "clean_per_1k": 0.0016,
+    "G2": 86.35,
+    "ratio": 22.69,
+    "rank": 445
+  },
+  {
+    "ngram": "キャリアを",
+    "tokens": [
+      "キャリア",
+      "を"
+    ],
+    "ai_count": 68,
+    "clean_count": 6,
+    "ai_per_1k": 0.0402,
+    "clean_per_1k": 0.0025,
+    "G2": 86.04,
+    "ratio": 16.33,
+    "rank": 446
+  },
+  {
+    "ngram": "std:",
+    "tokens": [
+      "std",
+      ":"
+    ],
+    "ai_count": 53,
+    "clean_count": 1,
+    "ai_per_1k": 0.0313,
+    "clean_per_1k": 0.0004,
+    "G2": 85.69,
+    "ratio": 76.37,
+    "rank": 447
+  },
+  {
+    "ngram": "に`",
+    "tokens": [
+      "に",
+      "`"
+    ],
+    "ai_count": 48,
+    "clean_count": 0,
+    "ai_per_1k": 0.0283,
+    "clean_per_1k": 0.0,
+    "G2": 85.67,
+    "ratio": null,
+    "rank": 448
+  },
+  {
+    "ngram": "向いて",
+    "tokens": [
+      "向い",
+      "て"
+    ],
+    "ai_count": 101,
+    "clean_count": 23,
+    "ai_per_1k": 0.0597,
+    "clean_per_1k": 0.0094,
+    "G2": 85.56,
+    "ratio": 6.33,
+    "rank": 449
+  },
+  {
+    "ngram": "`$",
+    "tokens": [
+      "`",
+      "$"
+    ],
+    "ai_count": 65,
+    "clean_count": 5,
+    "ai_per_1k": 0.0384,
+    "clean_per_1k": 0.002,
+    "G2": 85.26,
+    "ratio": 18.73,
+    "rank": 450
+  },
+  {
+    "ngram": "「この",
+    "tokens": [
+      "「",
+      "この"
+    ],
+    "ai_count": 183,
+    "clean_count": 82,
+    "ai_per_1k": 0.1081,
+    "clean_per_1k": 0.0336,
+    "G2": 85.17,
+    "ratio": 3.22,
+    "rank": 451
+  },
+  {
+    "ngram": "」だけ",
+    "tokens": [
+      "」",
+      "だけ"
+    ],
+    "ai_count": 92,
+    "clean_count": 18,
+    "ai_per_1k": 0.0543,
+    "clean_per_1k": 0.0074,
+    "G2": 85.13,
+    "ratio": 7.36,
+    "rank": 452
+  },
+  {
+    "ngram": "ていれ",
+    "tokens": [
+      "て",
+      "いれ"
+    ],
+    "ai_count": 134,
+    "clean_count": 45,
+    "ai_per_1k": 0.0791,
+    "clean_per_1k": 0.0184,
+    "G2": 84.73,
+    "ratio": 4.29,
+    "rank": 453
+  },
+  {
+    "ngram": " だけ",
+    "tokens": [
+      " ",
+      "だけ"
+    ],
+    "ai_count": 102,
+    "clean_count": 24,
+    "ai_per_1k": 0.0602,
+    "clean_per_1k": 0.0098,
+    "G2": 84.64,
+    "ratio": 6.12,
+    "rank": 454
+  },
+  {
+    "ngram": "変わって",
+    "tokens": [
+      "変わっ",
+      "て"
+    ],
+    "ai_count": 145,
+    "clean_count": 53,
+    "ai_per_1k": 0.0856,
+    "clean_per_1k": 0.0217,
+    "G2": 84.61,
+    "ratio": 3.94,
+    "rank": 455
+  },
+  {
+    "ngram": "...\n",
+    "tokens": [
+      "...",
+      "\n"
+    ],
+    "ai_count": 59,
+    "clean_count": 3,
+    "ai_per_1k": 0.0348,
+    "clean_per_1k": 0.0012,
+    "G2": 84.44,
+    "ratio": 28.34,
+    "rank": 456
+  },
+  {
+    "ngram": "が現実的",
+    "tokens": [
+      "が",
+      "現実的"
+    ],
+    "ai_count": 47,
+    "clean_count": 0,
+    "ai_per_1k": 0.0278,
+    "clean_per_1k": 0.0,
+    "G2": 83.88,
+    "ratio": null,
+    "rank": 457
+  },
+  {
+    "ngram": "\n   -",
+    "tokens": [
+      "\n   ",
+      "-"
+    ],
+    "ai_count": 47,
+    "clean_count": 0,
+    "ai_per_1k": 0.0278,
+    "clean_per_1k": 0.0,
+    "G2": 83.88,
+    "ratio": null,
+    "rank": 458
+  },
+  {
+    "ngram": "`true",
+    "tokens": [
+      "`",
+      "true"
+    ],
+    "ai_count": 47,
+    "clean_count": 0,
+    "ai_per_1k": 0.0278,
+    "clean_per_1k": 0.0,
+    "G2": 83.88,
+    "ratio": null,
+    "rank": 459
+  },
+  {
+    "ngram": "`ts",
+    "tokens": [
+      "`",
+      "ts"
+    ],
+    "ai_count": 47,
+    "clean_count": 0,
+    "ai_per_1k": 0.0278,
+    "clean_per_1k": 0.0,
+    "G2": 83.88,
+    "ratio": null,
+    "rank": 460
+  },
+  {
+    "ngram": "{\n            ",
+    "tokens": [
+      "{",
+      "\n            "
+    ],
+    "ai_count": 47,
+    "clean_count": 0,
+    "ai_per_1k": 0.0278,
+    "clean_per_1k": 0.0,
+    "G2": 83.88,
+    "ratio": null,
+    "rank": 461
+  },
+  {
+    "ngram": "-app",
+    "tokens": [
+      "-",
+      "app"
+    ],
+    "ai_count": 147,
+    "clean_count": 55,
+    "ai_per_1k": 0.0868,
+    "clean_per_1k": 0.0225,
+    "G2": 83.79,
+    "ratio": 3.85,
+    "rank": 462
+  },
+  {
+    "ngram": "\n\nそんな",
+    "tokens": [
+      "\n\n",
+      "そんな"
+    ],
+    "ai_count": 98,
+    "clean_count": 22,
+    "ai_per_1k": 0.0579,
+    "clean_per_1k": 0.009,
+    "G2": 83.76,
+    "ratio": 6.42,
+    "rank": 463
+  },
+  {
+    "ngram": "、特定",
+    "tokens": [
+      "、",
+      "特定"
+    ],
+    "ai_count": 103,
+    "clean_count": 25,
+    "ai_per_1k": 0.0608,
+    "clean_per_1k": 0.0102,
+    "G2": 83.76,
+    "ratio": 5.94,
+    "rank": 464
+  },
+  {
+    "ngram": "\n\nしかし",
+    "tokens": [
+      "\n\n",
+      "しかし"
+    ],
+    "ai_count": 123,
+    "clean_count": 38,
+    "ai_per_1k": 0.0726,
+    "clean_per_1k": 0.0156,
+    "G2": 83.63,
+    "ratio": 4.66,
+    "rank": 465
+  },
+  {
+    "ngram": "metadata:",
+    "tokens": [
+      "metadata",
+      ":"
+    ],
+    "ai_count": 64,
+    "clean_count": 5,
+    "ai_per_1k": 0.0378,
+    "clean_per_1k": 0.002,
+    "G2": 83.62,
+    "ratio": 18.44,
+    "rank": 466
+  },
+  {
+    "ngram": "((",
+    "tokens": [
+      "(",
+      "("
+    ],
+    "ai_count": 124,
+    "clean_count": 39,
+    "ai_per_1k": 0.0732,
+    "clean_per_1k": 0.016,
+    "G2": 83.05,
+    "ratio": 4.58,
+    "rank": 467
+  },
+  {
+    "ngram": "}`",
+    "tokens": [
+      "}",
+      "`"
+    ],
+    "ai_count": 73,
+    "clean_count": 9,
+    "ai_per_1k": 0.0431,
+    "clean_per_1k": 0.0037,
+    "G2": 83.03,
+    "ratio": 11.69,
+    "rank": 468
+  },
+  {
+    "ngram": "、ちゃんと",
+    "tokens": [
+      "、",
+      "ちゃんと"
+    ],
+    "ai_count": 85,
+    "clean_count": 15,
+    "ai_per_1k": 0.0502,
+    "clean_per_1k": 0.0061,
+    "G2": 82.98,
+    "ratio": 8.17,
+    "rank": 469
+  },
+  {
+    "ngram": "を支え",
+    "tokens": [
+      "を",
+      "支え"
+    ],
+    "ai_count": 85,
+    "clean_count": 15,
+    "ai_per_1k": 0.0502,
+    "clean_per_1k": 0.0061,
+    "G2": 82.98,
+    "ratio": 8.17,
+    "rank": 470
+  },
+  {
+    "ngram": "cv2",
+    "tokens": [
+      "cv",
+      "2"
+    ],
+    "ai_count": 85,
+    "clean_count": 15,
+    "ai_per_1k": 0.0502,
+    "clean_per_1k": 0.0061,
+    "G2": 82.98,
+    "ratio": 8.17,
+    "rank": 471
+  },
+  {
+    "ngram": ")\n\n    ",
+    "tokens": [
+      ")",
+      "\n\n    "
+    ],
+    "ai_count": 55,
+    "clean_count": 2,
+    "ai_per_1k": 0.0325,
+    "clean_per_1k": 0.0008,
+    "G2": 82.94,
+    "ratio": 39.63,
+    "rank": 472
+  },
+  {
+    "ngram": "三つ",
+    "tokens": [
+      "三",
+      "つ"
+    ],
+    "ai_count": 77,
+    "clean_count": 11,
+    "ai_per_1k": 0.0455,
+    "clean_per_1k": 0.0045,
+    "G2": 82.71,
+    "ratio": 10.09,
+    "rank": 473
+  },
+  {
+    "ngram": "、運用",
+    "tokens": [
+      "、",
+      "運用"
+    ],
+    "ai_count": 79,
+    "clean_count": 12,
+    "ai_per_1k": 0.0467,
+    "clean_per_1k": 0.0049,
+    "G2": 82.68,
+    "ratio": 9.49,
+    "rank": 474
+  },
+  {
+    "ngram": "形に",
+    "tokens": [
+      "形",
+      "に"
+    ],
+    "ai_count": 128,
+    "clean_count": 42,
+    "ai_per_1k": 0.0756,
+    "clean_per_1k": 0.0172,
+    "G2": 82.64,
+    "ratio": 4.39,
+    "rank": 475
+  },
+  {
+    "ngram": "\n\n『",
+    "tokens": [
+      "\n\n",
+      "『"
+    ],
+    "ai_count": 46,
+    "clean_count": 0,
+    "ai_per_1k": 0.0272,
+    "clean_per_1k": 0.0,
+    "G2": 82.1,
+    "ratio": null,
+    "rank": 476
+  },
+  {
+    "ngram": "\nSELECT",
+    "tokens": [
+      "\n",
+      "SELECT"
+    ],
+    "ai_count": 46,
+    "clean_count": 0,
+    "ai_per_1k": 0.0272,
+    "clean_per_1k": 0.0,
+    "G2": 82.1,
+    "ratio": null,
+    "rank": 477
+  },
+  {
+    "ngram": "に何",
+    "tokens": [
+      "に",
+      "何"
+    ],
+    "ai_count": 149,
+    "clean_count": 58,
+    "ai_per_1k": 0.088,
+    "clean_per_1k": 0.0238,
+    "G2": 81.51,
+    "ratio": 3.7,
+    "rank": 478
+  },
+  {
+    "ngram": "運用に",
+    "tokens": [
+      "運用",
+      "に"
+    ],
+    "ai_count": 72,
+    "clean_count": 9,
+    "ai_per_1k": 0.0425,
+    "clean_per_1k": 0.0037,
+    "G2": 81.48,
+    "ratio": 11.53,
+    "rank": 479
+  },
+  {
+    "ngram": "いうケース",
+    "tokens": [
+      "いう",
+      "ケース"
+    ],
+    "ai_count": 54,
+    "clean_count": 2,
+    "ai_per_1k": 0.0319,
+    "clean_per_1k": 0.0008,
+    "G2": 81.23,
+    "ratio": 38.91,
+    "rank": 480
+  },
+  {
+    "ngram": "業務で",
+    "tokens": [
+      "業務",
+      "で"
+    ],
+    "ai_count": 78,
+    "clean_count": 12,
+    "ai_per_1k": 0.0461,
+    "clean_per_1k": 0.0049,
+    "G2": 81.18,
+    "ratio": 9.37,
+    "rank": 481
+  },
+  {
+    "ngram": "で何",
+    "tokens": [
+      "で",
+      "何"
+    ],
+    "ai_count": 118,
+    "clean_count": 36,
+    "ai_per_1k": 0.0697,
+    "clean_per_1k": 0.0148,
+    "G2": 81.07,
+    "ratio": 4.72,
+    "rank": 482
+  },
+  {
+    "ngram": "、本当",
+    "tokens": [
+      "、",
+      "本当"
+    ],
+    "ai_count": 118,
+    "clean_count": 36,
+    "ai_per_1k": 0.0697,
+    "clean_per_1k": 0.0148,
+    "G2": 81.07,
+    "ratio": 4.72,
+    "rank": 483
+  },
+  {
+    "ngram": "わたって",
+    "tokens": [
+      "わたっ",
+      "て"
+    ],
+    "ai_count": 96,
+    "clean_count": 22,
+    "ai_per_1k": 0.0567,
+    "clean_per_1k": 0.009,
+    "G2": 81.01,
+    "ratio": 6.29,
+    "rank": 484
+  },
+  {
+    "ngram": " です",
+    "tokens": [
+      " ",
+      "です"
+    ],
+    "ai_count": 139,
+    "clean_count": 51,
+    "ai_per_1k": 0.0821,
+    "clean_per_1k": 0.0209,
+    "G2": 80.81,
+    "ratio": 3.93,
+    "rank": 485
+  },
+  {
+    "ngram": "\nkubectl",
+    "tokens": [
+      "\n",
+      "kubectl"
+    ],
+    "ai_count": 45,
+    "clean_count": 0,
+    "ai_per_1k": 0.0266,
+    "clean_per_1k": 0.0,
+    "G2": 80.31,
+    "ratio": null,
+    "rank": 486
+  },
+  {
+    "ngram": "\n    )",
+    "tokens": [
+      "\n    ",
+      ")"
+    ],
+    "ai_count": 45,
+    "clean_count": 0,
+    "ai_per_1k": 0.0266,
+    "clean_per_1k": 0.0,
+    "G2": 80.31,
+    "ratio": null,
+    "rank": 487
+  },
+  {
+    "ngram": "丁寧に",
+    "tokens": [
+      "丁寧",
+      "に"
+    ],
+    "ai_count": 97,
+    "clean_count": 23,
+    "ai_per_1k": 0.0573,
+    "clean_per_1k": 0.0094,
+    "G2": 80.1,
+    "ratio": 6.08,
+    "rank": 488
+  },
+  {
+    "ngram": "、いま",
+    "tokens": [
+      "、",
+      "いま"
+    ],
+    "ai_count": 97,
+    "clean_count": 23,
+    "ai_per_1k": 0.0573,
+    "clean_per_1k": 0.0094,
+    "G2": 80.1,
+    "ratio": 6.08,
+    "rank": 489
+  },
+  {
+    "ngram": "1\n",
+    "tokens": [
+      "1",
+      "\n"
+    ],
+    "ai_count": 100,
+    "clean_count": 25,
+    "ai_per_1k": 0.0591,
+    "clean_per_1k": 0.0102,
+    "G2": 79.73,
+    "ratio": 5.76,
+    "rank": 490
+  },
+  {
+    "ngram": "名前を",
+    "tokens": [
+      "名前",
+      "を"
+    ],
+    "ai_count": 180,
+    "clean_count": 84,
+    "ai_per_1k": 0.1063,
+    "clean_per_1k": 0.0344,
+    "G2": 79.55,
+    "ratio": 3.09,
+    "rank": 491
+  },
+  {
+    "ngram": "(self",
+    "tokens": [
+      "(",
+      "self"
+    ],
+    "ai_count": 53,
+    "clean_count": 2,
+    "ai_per_1k": 0.0313,
+    "clean_per_1k": 0.0008,
+    "G2": 79.52,
+    "ratio": 38.18,
+    "rank": 492
+  },
+  {
+    "ngram": "が大きく",
+    "tokens": [
+      "が",
+      "大きく"
+    ],
+    "ai_count": 131,
+    "clean_count": 46,
+    "ai_per_1k": 0.0774,
+    "clean_per_1k": 0.0189,
+    "G2": 79.48,
+    "ratio": 4.1,
+    "rank": 493
+  },
+  {
+    "ngram": "の感覚",
+    "tokens": [
+      "の",
+      "感覚"
+    ],
+    "ai_count": 66,
+    "clean_count": 7,
+    "ai_per_1k": 0.039,
+    "clean_per_1k": 0.0029,
+    "G2": 79.04,
+    "ratio": 13.59,
+    "rank": 494
+  },
+  {
+    "ngram": "\n\nGitHub",
+    "tokens": [
+      "\n\n",
+      "GitHub"
+    ],
+    "ai_count": 61,
+    "clean_count": 5,
+    "ai_per_1k": 0.036,
+    "clean_per_1k": 0.002,
+    "G2": 78.73,
+    "ratio": 17.58,
+    "rank": 495
+  },
+  {
+    "ngram": "なりに",
+    "tokens": [
+      "なり",
+      "に"
+    ],
+    "ai_count": 104,
+    "clean_count": 28,
+    "ai_per_1k": 0.0614,
+    "clean_per_1k": 0.0115,
+    "G2": 78.71,
+    "ratio": 5.35,
+    "rank": 496
+  },
+  {
+    "ngram": "、地味",
+    "tokens": [
+      "、",
+      "地味"
+    ],
+    "ai_count": 49,
+    "clean_count": 1,
+    "ai_per_1k": 0.0289,
+    "clean_per_1k": 0.0004,
+    "G2": 78.7,
+    "ratio": 70.61,
+    "rank": 497
+  },
+  {
+    "ngram": "false`",
+    "tokens": [
+      "false",
+      "`"
+    ],
+    "ai_count": 49,
+    "clean_count": 1,
+    "ai_per_1k": 0.0289,
+    "clean_per_1k": 0.0004,
+    "G2": 78.7,
+    "ratio": 70.61,
+    "rank": 498
+  },
+  {
+    "ngram": "1`",
+    "tokens": [
+      "1",
+      "`"
+    ],
+    "ai_count": 49,
+    "clean_count": 1,
+    "ai_per_1k": 0.0289,
+    "clean_per_1k": 0.0004,
+    "G2": 78.7,
+    "ratio": 70.61,
+    "rank": 499
+  },
+  {
+    "ngram": "\n    '",
+    "tokens": [
+      "\n    ",
+      "'"
+    ],
+    "ai_count": 44,
+    "clean_count": 0,
+    "ai_per_1k": 0.026,
+    "clean_per_1k": 0.0,
+    "G2": 78.53,
+    "ratio": null,
+    "rank": 500
+  }
+]

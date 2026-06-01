@@ -1,0 +1,16 @@
+# Phase 4 埋め込み専用の最小 Worker 設定。
+# Browser Run / R2 バインディング無しで /embed/* だけを回すための ephemeral config。
+#   wrangler dev --remote --config wrangler.embed.toml
+name = "humanizer-jp-embed"
+main = "src/embed_worker.ts"
+compatibility_date = "2026-04-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "humanizer-jp"
+database_id = "6dac6a8f-5b76-4fbd-82da-d6e559c5270c"
+
+# Workers AI binding (BGE-M3 で文単位埋め込み)
+[ai]
+binding = "AI"
