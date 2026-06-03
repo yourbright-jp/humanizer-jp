@@ -103,6 +103,21 @@ AI(🤖)の5文はどれも均整がとれている。人間(🧑)は「短い�
 > それが、いまのAIが書く日本語の指紋だった。
 
 ---
+
+## この知見を使う:`humanize-jp` スキル
+
+検証で確定した指紋を実用化した [Claude Code](https://claude.com/claude-code) スキルを同梱しています。
+日本語文章から「AIっぽさ」を抑え、人間寄りにリライトします。
+
+- **場所**: [`.claude/skills/humanize-jp/`](.claude/skills/humanize-jp/)
+  - [`SKILL.md`](.claude/skills/humanize-jp/SKILL.md) — 効く順のリライト指針(① 文長のバラけ=最重要 → ② 句読点 → ③ tell語句の置換 → ④ 構造)+「やりすぎ厳禁」(非tellは触らない)
+  - [`reference/humanize_check.py`](.claude/skills/humanize-jp/reference/humanize_check.py) — 文長CV・句点/読点密度・ひらがな率を human/AI ベンチと比較し、tell語句を検出する診断スクリプト
+- **使い方**: このリポジトリで Claude Code を開き、「この文章を人間らしく直して」等と依頼すると自動的に発動します。診断だけ単体で回すことも可能:
+  ```bash
+  python3 .claude/skills/humanize-jp/reference/humanize_check.py 対象ファイル.md
+  ```
+
+---
 ---
 
 # 調査方法(How we measured it)
@@ -180,6 +195,9 @@ ChatGPT 一般公開(2022-11)より前=AI混入のない日本語テキストを
 ```
 humanizer-jp/
 ├── README.md                  # 本ファイル(結論 + 調査方法)
+├── .claude/skills/humanize-jp/ # 「AIらしさ」抑制スキル(Claude Code)
+│   ├── SKILL.md               #   リライト指針
+│   └── reference/humanize_check.py # 計量診断スクリプト
 ├── docs/
 │   ├── findings_public.md     # 一般向けサマリ
 │   ├── findings.md            # 抽出結果の全エビデンス(v1)
